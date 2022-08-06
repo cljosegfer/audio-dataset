@@ -1,0 +1,1 @@
+Tudo render-se ser depois rendido.
