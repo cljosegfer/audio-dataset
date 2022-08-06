@@ -1,0 +1,7614 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.800",
+   "id": "f000001",
+   "language": "por",
+   "lines": [
+    "Canto Nono"
+   ]
+  },
+  {
+   "begin": "4.800",
+   "children": [],
+   "end": "7.080",
+   "id": "f000002",
+   "language": "por",
+   "lines": [
+    "Tiveram longamente na cidade,"
+   ]
+  },
+  {
+   "begin": "7.080",
+   "children": [],
+   "end": "9.520",
+   "id": "f000003",
+   "language": "por",
+   "lines": [
+    "Sem vender-se, a fazenda os dois feitores"
+   ]
+  },
+  {
+   "begin": "9.520",
+   "children": [],
+   "end": "11.760",
+   "id": "f000004",
+   "language": "por",
+   "lines": [
+    "Que os infi\u00e9is, por manha e falsidade,"
+   ]
+  },
+  {
+   "begin": "11.760",
+   "children": [],
+   "end": "14.200",
+   "id": "f000005",
+   "language": "por",
+   "lines": [
+    "Fazem que n\u00e3o lha comprem mercadores;"
+   ]
+  },
+  {
+   "begin": "14.200",
+   "children": [],
+   "end": "16.280",
+   "id": "f000006",
+   "language": "por",
+   "lines": [
+    "Que todo seu prop\u00f3sito e vontade"
+   ]
+  },
+  {
+   "begin": "16.280",
+   "children": [],
+   "end": "18.120",
+   "id": "f000007",
+   "language": "por",
+   "lines": [
+    "Era deter ali os descobridores"
+   ]
+  },
+  {
+   "begin": "18.120",
+   "children": [],
+   "end": "20.120",
+   "id": "f000008",
+   "language": "por",
+   "lines": [
+    "Da \u00cdndia tanto tempo, que viessem"
+   ]
+  },
+  {
+   "begin": "20.120",
+   "children": [],
+   "end": "23.560",
+   "id": "f000009",
+   "language": "por",
+   "lines": [
+    "De Meca as naus, que as suas desfizessem."
+   ]
+  },
+  {
+   "begin": "23.560",
+   "children": [],
+   "end": "25.640",
+   "id": "f000010",
+   "language": "por",
+   "lines": [
+    "L\u00e1 no seio Eritreu, onde fundada"
+   ]
+  },
+  {
+   "begin": "25.640",
+   "children": [],
+   "end": "28.520",
+   "id": "f000011",
+   "language": "por",
+   "lines": [
+    "Ars\u00ednoe foi do Eg\u00edpcio Ptolomeu,"
+   ]
+  },
+  {
+   "begin": "28.520",
+   "children": [],
+   "end": "30.640",
+   "id": "f000012",
+   "language": "por",
+   "lines": [
+    "Do nome da irm\u00e3 sua assim chamada,"
+   ]
+  },
+  {
+   "begin": "30.640",
+   "children": [],
+   "end": "33.160",
+   "id": "f000013",
+   "language": "por",
+   "lines": [
+    "Que depois em Suez se converteu,"
+   ]
+  },
+  {
+   "begin": "33.160",
+   "children": [],
+   "end": "35.280",
+   "id": "f000014",
+   "language": "por",
+   "lines": [
+    "N\u00e3o longe o porto jaz da nomeada"
+   ]
+  },
+  {
+   "begin": "35.280",
+   "children": [],
+   "end": "37.680",
+   "id": "f000015",
+   "language": "por",
+   "lines": [
+    "Cidade Meca, que se engrandeceu"
+   ]
+  },
+  {
+   "begin": "37.680",
+   "children": [],
+   "end": "39.960",
+   "id": "f000016",
+   "language": "por",
+   "lines": [
+    "Com a supersti\u00e7\u00e3o falsa e profana"
+   ]
+  },
+  {
+   "begin": "39.960",
+   "children": [],
+   "end": "43.160",
+   "id": "f000017",
+   "language": "por",
+   "lines": [
+    "Da religiosa \u00e1gua Maumetana."
+   ]
+  },
+  {
+   "begin": "43.160",
+   "children": [],
+   "end": "45.480",
+   "id": "f000018",
+   "language": "por",
+   "lines": [
+    "Gid\u00e1 se chama o porto, aonde o trato"
+   ]
+  },
+  {
+   "begin": "45.480",
+   "children": [],
+   "end": "47.880",
+   "id": "f000019",
+   "language": "por",
+   "lines": [
+    "De todo o Roxo mar mais florescia,"
+   ]
+  },
+  {
+   "begin": "47.880",
+   "children": [],
+   "end": "50.240",
+   "id": "f000020",
+   "language": "por",
+   "lines": [
+    "De que tinha proveito grande e grato"
+   ]
+  },
+  {
+   "begin": "50.240",
+   "children": [],
+   "end": "53.240",
+   "id": "f000021",
+   "language": "por",
+   "lines": [
+    "O Sold\u00e3o que esse Reino possu\u00eda."
+   ]
+  },
+  {
+   "begin": "53.240",
+   "children": [],
+   "end": "55.480",
+   "id": "f000022",
+   "language": "por",
+   "lines": [
+    "Daqui aos Malabares, por contrato"
+   ]
+  },
+  {
+   "begin": "55.480",
+   "children": [],
+   "end": "57.360",
+   "id": "f000023",
+   "language": "por",
+   "lines": [
+    "Dos infi\u00e9is, formosa companhia"
+   ]
+  },
+  {
+   "begin": "57.360",
+   "children": [],
+   "end": "59.560",
+   "id": "f000024",
+   "language": "por",
+   "lines": [
+    "De grandes naus, pelo \u00cdndico Oceano,"
+   ]
+  },
+  {
+   "begin": "59.560",
+   "children": [],
+   "end": "62.880",
+   "id": "f000025",
+   "language": "por",
+   "lines": [
+    "Especiaria vem buscar cada ano."
+   ]
+  },
+  {
+   "begin": "62.880",
+   "children": [],
+   "end": "65.120",
+   "id": "f000026",
+   "language": "por",
+   "lines": [
+    "Por estas naus os Mouros esperavam,"
+   ]
+  },
+  {
+   "begin": "65.120",
+   "children": [],
+   "end": "67.400",
+   "id": "f000027",
+   "language": "por",
+   "lines": [
+    "Que, como fossem grandes e possantes,"
+   ]
+  },
+  {
+   "begin": "67.400",
+   "children": [],
+   "end": "69.240",
+   "id": "f000028",
+   "language": "por",
+   "lines": [
+    "Aquelas, que o com\u00e9rcio lhe tomavam,"
+   ]
+  },
+  {
+   "begin": "69.240",
+   "children": [],
+   "end": "72.360",
+   "id": "f000029",
+   "language": "por",
+   "lines": [
+    "Com flamas abrasassem crepitantes."
+   ]
+  },
+  {
+   "begin": "72.360",
+   "children": [],
+   "end": "74.240",
+   "id": "f000030",
+   "language": "por",
+   "lines": [
+    "Neste socorro tanto confiavam,"
+   ]
+  },
+  {
+   "begin": "74.240",
+   "children": [],
+   "end": "76.680",
+   "id": "f000031",
+   "language": "por",
+   "lines": [
+    "Que j\u00e1 n\u00e3o querem mais dos navegantes,"
+   ]
+  },
+  {
+   "begin": "76.680",
+   "children": [],
+   "end": "78.640",
+   "id": "f000032",
+   "language": "por",
+   "lines": [
+    "Sen\u00e3o que tanto tempo ali tardassem,"
+   ]
+  },
+  {
+   "begin": "78.640",
+   "children": [],
+   "end": "82.360",
+   "id": "f000033",
+   "language": "por",
+   "lines": [
+    "Que da famosa Meca as naus chegassem."
+   ]
+  },
+  {
+   "begin": "82.360",
+   "children": [],
+   "end": "84.560",
+   "id": "f000034",
+   "language": "por",
+   "lines": [
+    "Mas o Governador dos c\u00e9us e gentes,"
+   ]
+  },
+  {
+   "begin": "84.560",
+   "children": [],
+   "end": "86.600",
+   "id": "f000035",
+   "language": "por",
+   "lines": [
+    "Que, para quanto tem determinado,"
+   ]
+  },
+  {
+   "begin": "86.600",
+   "children": [],
+   "end": "88.960",
+   "id": "f000036",
+   "language": "por",
+   "lines": [
+    "De longe os meios d\u00e1 convenientes,"
+   ]
+  },
+  {
+   "begin": "88.960",
+   "children": [],
+   "end": "91.520",
+   "id": "f000037",
+   "language": "por",
+   "lines": [
+    "Por onde vem a ef eito o fim fadado,"
+   ]
+  },
+  {
+   "begin": "91.520",
+   "children": [],
+   "end": "93.560",
+   "id": "f000038",
+   "language": "por",
+   "lines": [
+    "Influiu piedosos acidentes"
+   ]
+  },
+  {
+   "begin": "93.560",
+   "children": [],
+   "end": "95.840",
+   "id": "f000039",
+   "language": "por",
+   "lines": [
+    "De afei\u00e7\u00e3o em Mon\u00e7aide, que guardado"
+   ]
+  },
+  {
+   "begin": "95.840",
+   "children": [],
+   "end": "98.120",
+   "id": "f000040",
+   "language": "por",
+   "lines": [
+    "Estava para dar ao Gama aviso,"
+   ]
+  },
+  {
+   "begin": "98.120",
+   "children": [],
+   "end": "101.400",
+   "id": "f000041",
+   "language": "por",
+   "lines": [
+    "E merecer por isso o Para\u00edso."
+   ]
+  },
+  {
+   "begin": "101.400",
+   "children": [],
+   "end": "103.840",
+   "id": "f000042",
+   "language": "por",
+   "lines": [
+    "Este, de quem se os Mouros n\u00e3o guardavam,"
+   ]
+  },
+  {
+   "begin": "103.840",
+   "children": [],
+   "end": "106.200",
+   "id": "f000043",
+   "language": "por",
+   "lines": [
+    "Por ser Mouro como eles, antes era"
+   ]
+  },
+  {
+   "begin": "106.200",
+   "children": [],
+   "end": "108.640",
+   "id": "f000044",
+   "language": "por",
+   "lines": [
+    "Participante em quanto maquinavam,"
+   ]
+  },
+  {
+   "begin": "108.640",
+   "children": [],
+   "end": "112.160",
+   "id": "f000045",
+   "language": "por",
+   "lines": [
+    "A ten\u00e7\u00e3o lhe descobre torpe e fera."
+   ]
+  },
+  {
+   "begin": "112.160",
+   "children": [],
+   "end": "114.600",
+   "id": "f000046",
+   "language": "por",
+   "lines": [
+    "Muitas vezes as naus que longe estavam"
+   ]
+  },
+  {
+   "begin": "114.600",
+   "children": [],
+   "end": "116.680",
+   "id": "f000047",
+   "language": "por",
+   "lines": [
+    "Visita, o com piedade considera"
+   ]
+  },
+  {
+   "begin": "116.680",
+   "children": [],
+   "end": "118.520",
+   "id": "f000048",
+   "language": "por",
+   "lines": [
+    "O dano, sem raz\u00e3o, que se lhe ordena"
+   ]
+  },
+  {
+   "begin": "118.520",
+   "children": [],
+   "end": "121.040",
+   "id": "f000049",
+   "language": "por",
+   "lines": [
+    "Pela maligna gente Sarracena."
+   ]
+  },
+  {
+   "begin": "121.040",
+   "children": [],
+   "end": "123.720",
+   "id": "f000050",
+   "language": "por",
+   "lines": [
+    "Informa o cauto Gama das armadas"
+   ]
+  },
+  {
+   "begin": "123.720",
+   "children": [],
+   "end": "125.880",
+   "id": "f000051",
+   "language": "por",
+   "lines": [
+    "Que de Ar\u00e1bica Meca v\u00eam cada ano,"
+   ]
+  },
+  {
+   "begin": "125.880",
+   "children": [],
+   "end": "128.760",
+   "id": "f000052",
+   "language": "por",
+   "lines": [
+    "Que agora s\u00e3o dos seus t\u00e3o desejadas,"
+   ]
+  },
+  {
+   "begin": "128.760",
+   "children": [],
+   "end": "131.520",
+   "id": "f000053",
+   "language": "por",
+   "lines": [
+    "Para ser instrumento deste dano."
+   ]
+  },
+  {
+   "begin": "131.520",
+   "children": [],
+   "end": "133.880",
+   "id": "f000054",
+   "language": "por",
+   "lines": [
+    "Diz-lhe que v\u00eam de gente carregadas,"
+   ]
+  },
+  {
+   "begin": "133.880",
+   "children": [],
+   "end": "136.080",
+   "id": "f000055",
+   "language": "por",
+   "lines": [
+    "E dos trov\u00f5es horrendos de Vulcano,"
+   ]
+  },
+  {
+   "begin": "136.080",
+   "children": [],
+   "end": "138.000",
+   "id": "f000056",
+   "language": "por",
+   "lines": [
+    "E que pode ser delas oprimido,"
+   ]
+  },
+  {
+   "begin": "138.000",
+   "children": [],
+   "end": "141.440",
+   "id": "f000057",
+   "language": "por",
+   "lines": [
+    "Segundo estava mal apercebido."
+   ]
+  },
+  {
+   "begin": "141.440",
+   "children": [],
+   "end": "143.080",
+   "id": "f000058",
+   "language": "por",
+   "lines": [
+    "O Gama, que tamb\u00e9m considerava"
+   ]
+  },
+  {
+   "begin": "143.080",
+   "children": [],
+   "end": "145.320",
+   "id": "f000059",
+   "language": "por",
+   "lines": [
+    "O tempo, que para a partida o chama,"
+   ]
+  },
+  {
+   "begin": "145.320",
+   "children": [],
+   "end": "147.240",
+   "id": "f000060",
+   "language": "por",
+   "lines": [
+    "E que despacho j\u00e1 n\u00e3o esperava"
+   ]
+  },
+  {
+   "begin": "147.240",
+   "children": [],
+   "end": "150.000",
+   "id": "f000061",
+   "language": "por",
+   "lines": [
+    "Melhor do Rei, que os Maumetanos ama,"
+   ]
+  },
+  {
+   "begin": "150.000",
+   "children": [],
+   "end": "152.440",
+   "id": "f000062",
+   "language": "por",
+   "lines": [
+    "Aos feitores, que em terra est\u00e3o, mandava"
+   ]
+  },
+  {
+   "begin": "152.440",
+   "children": [],
+   "end": "154.960",
+   "id": "f000063",
+   "language": "por",
+   "lines": [
+    "Que se tornem \u00e0s naus; e por que a fama"
+   ]
+  },
+  {
+   "begin": "154.960",
+   "children": [],
+   "end": "157.440",
+   "id": "f000064",
+   "language": "por",
+   "lines": [
+    "Desta s\u00fabita vinda os n\u00e3o impe\u00e7a,"
+   ]
+  },
+  {
+   "begin": "157.440",
+   "children": [],
+   "end": "159.520",
+   "id": "f000065",
+   "language": "por",
+   "lines": [
+    "Lhe manda que a fizessem escondida."
+   ]
+  },
+  {
+   "begin": "159.520",
+   "children": [],
+   "end": "163.280",
+   "id": "f000066",
+   "language": "por",
+   "lines": [
+    "Por\u00e9m n\u00e3o tardou muito que, voando,"
+   ]
+  },
+  {
+   "begin": "163.280",
+   "children": [],
+   "end": "165.280",
+   "id": "f000067",
+   "language": "por",
+   "lines": [
+    "Um rumor n\u00e3o soasse com verdade:"
+   ]
+  },
+  {
+   "begin": "165.280",
+   "children": [],
+   "end": "167.600",
+   "id": "f000068",
+   "language": "por",
+   "lines": [
+    "Que foram presos os feitores, quando"
+   ]
+  },
+  {
+   "begin": "167.600",
+   "children": [],
+   "end": "170.440",
+   "id": "f000069",
+   "language": "por",
+   "lines": [
+    "Foram sentidos vir-se da cidade."
+   ]
+  },
+  {
+   "begin": "170.440",
+   "children": [],
+   "end": "172.320",
+   "id": "f000070",
+   "language": "por",
+   "lines": [
+    "Esta fama as orelhas penetrando"
+   ]
+  },
+  {
+   "begin": "172.320",
+   "children": [],
+   "end": "174.360",
+   "id": "f000071",
+   "language": "por",
+   "lines": [
+    "Do s\u00e1bio Capit\u00e3o, com brevidade"
+   ]
+  },
+  {
+   "begin": "174.360",
+   "children": [],
+   "end": "176.840",
+   "id": "f000072",
+   "language": "por",
+   "lines": [
+    "Faz represaria nuns, que \u00e0s naus vieram"
+   ]
+  },
+  {
+   "begin": "176.840",
+   "children": [],
+   "end": "180.360",
+   "id": "f000073",
+   "language": "por",
+   "lines": [
+    "A vender a pedraria que trouxeram."
+   ]
+  },
+  {
+   "begin": "180.360",
+   "children": [],
+   "end": "182.640",
+   "id": "f000074",
+   "language": "por",
+   "lines": [
+    "Eram estes antigos mercadores"
+   ]
+  },
+  {
+   "begin": "182.640",
+   "children": [],
+   "end": "185.120",
+   "id": "f000075",
+   "language": "por",
+   "lines": [
+    "Ricos em Calecu, e conhecidos;"
+   ]
+  },
+  {
+   "begin": "185.120",
+   "children": [],
+   "end": "187.560",
+   "id": "f000076",
+   "language": "por",
+   "lines": [
+    "Da falta deles, logo entre os melhores"
+   ]
+  },
+  {
+   "begin": "187.560",
+   "children": [],
+   "end": "190.440",
+   "id": "f000077",
+   "language": "por",
+   "lines": [
+    "Sentido foi que est\u00e3o no mar retidos."
+   ]
+  },
+  {
+   "begin": "190.440",
+   "children": [],
+   "end": "192.960",
+   "id": "f000078",
+   "language": "por",
+   "lines": [
+    "Mas j\u00e1 nas naus os bons trabalhadores"
+   ]
+  },
+  {
+   "begin": "192.960",
+   "children": [],
+   "end": "195.120",
+   "id": "f000079",
+   "language": "por",
+   "lines": [
+    "Volvem o cabrestante, e repartidos"
+   ]
+  },
+  {
+   "begin": "195.120",
+   "children": [],
+   "end": "197.840",
+   "id": "f000080",
+   "language": "por",
+   "lines": [
+    "Pelo trabalho, uns puxam pela amarra,"
+   ]
+  },
+  {
+   "begin": "197.840",
+   "children": [],
+   "end": "200.280",
+   "id": "f000081",
+   "language": "por",
+   "lines": [
+    "Outros quebram com o peito duro a barra;"
+   ]
+  },
+  {
+   "begin": "200.280",
+   "children": [],
+   "end": "202.840",
+   "id": "f000082",
+   "language": "por",
+   "lines": [
+    "Outros pendem da verga, e j\u00e1 desatam"
+   ]
+  },
+  {
+   "begin": "202.840",
+   "children": [],
+   "end": "205.080",
+   "id": "f000083",
+   "language": "por",
+   "lines": [
+    "A vela, que com grita se soltava,"
+   ]
+  },
+  {
+   "begin": "205.080",
+   "children": [],
+   "end": "207.640",
+   "id": "f000084",
+   "language": "por",
+   "lines": [
+    "Quando com maior grita ao Rei relatam"
+   ]
+  },
+  {
+   "begin": "207.640",
+   "children": [],
+   "end": "210.680",
+   "id": "f000085",
+   "language": "por",
+   "lines": [
+    "A pressa com que a armada se levava."
+   ]
+  },
+  {
+   "begin": "210.680",
+   "children": [],
+   "end": "212.840",
+   "id": "f000086",
+   "language": "por",
+   "lines": [
+    "As mulheres e filhos que se matam"
+   ]
+  },
+  {
+   "begin": "212.840",
+   "children": [],
+   "end": "214.880",
+   "id": "f000087",
+   "language": "por",
+   "lines": [
+    "Daqueles que v\u00e3o presos, onde estava"
+   ]
+  },
+  {
+   "begin": "214.880",
+   "children": [],
+   "end": "217.120",
+   "id": "f000088",
+   "language": "por",
+   "lines": [
+    "O Samorim, se queixam que perdidos"
+   ]
+  },
+  {
+   "begin": "217.120",
+   "children": [],
+   "end": "220.920",
+   "id": "f000089",
+   "language": "por",
+   "lines": [
+    "Uns t\u00eam os pais, as outras os maridos."
+   ]
+  },
+  {
+   "begin": "220.920",
+   "children": [],
+   "end": "223.160",
+   "id": "f000090",
+   "language": "por",
+   "lines": [
+    "Manda logo os feitores Lusitanos"
+   ]
+  },
+  {
+   "begin": "223.160",
+   "children": [],
+   "end": "225.120",
+   "id": "f000091",
+   "language": "por",
+   "lines": [
+    "Com toda sua fazenda livremente"
+   ]
+  },
+  {
+   "begin": "225.120",
+   "children": [],
+   "end": "227.080",
+   "id": "f000092",
+   "language": "por",
+   "lines": [
+    "Apesar dos inimigos Maumetanos,"
+   ]
+  },
+  {
+   "begin": "227.080",
+   "children": [],
+   "end": "229.600",
+   "id": "f000093",
+   "language": "por",
+   "lines": [
+    "Por que lhe torne a sua presa gente."
+   ]
+  },
+  {
+   "begin": "229.600",
+   "children": [],
+   "end": "232.560",
+   "id": "f000094",
+   "language": "por",
+   "lines": [
+    "Desculpas manda o Rei de seus enganos;"
+   ]
+  },
+  {
+   "begin": "232.560",
+   "children": [],
+   "end": "234.600",
+   "id": "f000095",
+   "language": "por",
+   "lines": [
+    "Recebe o Capit\u00e3o de melhor mente"
+   ]
+  },
+  {
+   "begin": "234.600",
+   "children": [],
+   "end": "236.880",
+   "id": "f000096",
+   "language": "por",
+   "lines": [
+    "Os presos que as desculpas, e tornando"
+   ]
+  },
+  {
+   "begin": "236.880",
+   "children": [],
+   "end": "239.440",
+   "id": "f000097",
+   "language": "por",
+   "lines": [
+    "Alguns negros, se parte as velas dando."
+   ]
+  },
+  {
+   "begin": "239.440",
+   "children": [],
+   "end": "243.360",
+   "id": "f000098",
+   "language": "por",
+   "lines": [
+    "Parte-se costa abaixo, porque entende"
+   ]
+  },
+  {
+   "begin": "243.360",
+   "children": [],
+   "end": "245.600",
+   "id": "f000099",
+   "language": "por",
+   "lines": [
+    "Que em v\u00e3o com o Rei gentio trabalhava"
+   ]
+  },
+  {
+   "begin": "245.600",
+   "children": [],
+   "end": "247.880",
+   "id": "f000100",
+   "language": "por",
+   "lines": [
+    "Em querer dele paz, a qual pretende"
+   ]
+  },
+  {
+   "begin": "247.880",
+   "children": [],
+   "end": "251.040",
+   "id": "f000101",
+   "language": "por",
+   "lines": [
+    "Por firmar o com\u00e9rcio que tratava."
+   ]
+  },
+  {
+   "begin": "251.040",
+   "children": [],
+   "end": "253.200",
+   "id": "f000102",
+   "language": "por",
+   "lines": [
+    "Mas como aquela terra, que se estende"
+   ]
+  },
+  {
+   "begin": "253.200",
+   "children": [],
+   "end": "255.400",
+   "id": "f000103",
+   "language": "por",
+   "lines": [
+    "Pela Aurora, sabida j\u00e1 deixava,"
+   ]
+  },
+  {
+   "begin": "255.400",
+   "children": [],
+   "end": "258.240",
+   "id": "f000104",
+   "language": "por",
+   "lines": [
+    "Com estas novas torna \u00e0 p\u00e1tria cara,"
+   ]
+  },
+  {
+   "begin": "258.240",
+   "children": [],
+   "end": "260.680",
+   "id": "f000105",
+   "language": "por",
+   "lines": [
+    "Certos sinais levando do que achara."
+   ]
+  },
+  {
+   "begin": "260.680",
+   "children": [],
+   "end": "263.520",
+   "id": "f000106",
+   "language": "por",
+   "lines": [
+    "Leva alguns Malabares, que tomou"
+   ]
+  },
+  {
+   "begin": "263.520",
+   "children": [],
+   "end": "265.720",
+   "id": "f000107",
+   "language": "por",
+   "lines": [
+    "Por for\u00e7a, dos que o Samorim mandara"
+   ]
+  },
+  {
+   "begin": "265.720",
+   "children": [],
+   "end": "268.320",
+   "id": "f000108",
+   "language": "por",
+   "lines": [
+    "Quando os presos feitores lhe tornou;"
+   ]
+  },
+  {
+   "begin": "268.320",
+   "children": [],
+   "end": "270.520",
+   "id": "f000109",
+   "language": "por",
+   "lines": [
+    "Leva pimenta ardente, que comprara;"
+   ]
+  },
+  {
+   "begin": "270.520",
+   "children": [],
+   "end": "273.480",
+   "id": "f000110",
+   "language": "por",
+   "lines": [
+    "A seca flor de Banda n\u00e3o ficou,"
+   ]
+  },
+  {
+   "begin": "273.480",
+   "children": [],
+   "end": "276.160",
+   "id": "f000111",
+   "language": "por",
+   "lines": [
+    "A noz, e o negro cravo, que faz clara"
+   ]
+  },
+  {
+   "begin": "276.160",
+   "children": [],
+   "end": "278.240",
+   "id": "f000112",
+   "language": "por",
+   "lines": [
+    "A nova ilha Maluco, com a canela,"
+   ]
+  },
+  {
+   "begin": "278.240",
+   "children": [],
+   "end": "282.040",
+   "id": "f000113",
+   "language": "por",
+   "lines": [
+    "Com que Ceil\u00e3o \u00e9 rica, ilustre e bela."
+   ]
+  },
+  {
+   "begin": "282.040",
+   "children": [],
+   "end": "284.120",
+   "id": "f000114",
+   "language": "por",
+   "lines": [
+    "Isto tudo lhe houvera a dilig\u00eancia"
+   ]
+  },
+  {
+   "begin": "284.120",
+   "children": [],
+   "end": "286.480",
+   "id": "f000115",
+   "language": "por",
+   "lines": [
+    "De Mon\u00e7aide fiel, que tamb\u00e9m leva,"
+   ]
+  },
+  {
+   "begin": "286.480",
+   "children": [],
+   "end": "289.160",
+   "id": "f000116",
+   "language": "por",
+   "lines": [
+    "Que, inspirado de ang\u00e9lica influ\u00eancia,"
+   ]
+  },
+  {
+   "begin": "289.160",
+   "children": [],
+   "end": "291.920",
+   "id": "f000117",
+   "language": "por",
+   "lines": [
+    "Quer no livro de Cristo que se escreva."
+   ]
+  },
+  {
+   "begin": "291.920",
+   "children": [],
+   "end": "294.560",
+   "id": "f000118",
+   "language": "por",
+   "lines": [
+    "\u00d3 ditoso Africano, que a clem\u00eancia"
+   ]
+  },
+  {
+   "begin": "294.560",
+   "children": [],
+   "end": "296.960",
+   "id": "f000119",
+   "language": "por",
+   "lines": [
+    "Divina assim tirou de escura treva,"
+   ]
+  },
+  {
+   "begin": "296.960",
+   "children": [],
+   "end": "299.440",
+   "id": "f000120",
+   "language": "por",
+   "lines": [
+    "E t\u00e3o longe da p\u00e1tria achou maneira"
+   ]
+  },
+  {
+   "begin": "299.440",
+   "children": [],
+   "end": "301.560",
+   "id": "f000121",
+   "language": "por",
+   "lines": [
+    "Para subir \u00e0 p\u00e1tria verdadeira!"
+   ]
+  },
+  {
+   "begin": "301.560",
+   "children": [],
+   "end": "305.520",
+   "id": "f000122",
+   "language": "por",
+   "lines": [
+    "Apartadas assim da ardente costa"
+   ]
+  },
+  {
+   "begin": "305.520",
+   "children": [],
+   "end": "307.720",
+   "id": "f000123",
+   "language": "por",
+   "lines": [
+    "As venturosas naus, levando a proa"
+   ]
+  },
+  {
+   "begin": "307.720",
+   "children": [],
+   "end": "309.960",
+   "id": "f000124",
+   "language": "por",
+   "lines": [
+    "Para onde a Natureza tinha posta"
+   ]
+  },
+  {
+   "begin": "309.960",
+   "children": [],
+   "end": "312.000",
+   "id": "f000125",
+   "language": "por",
+   "lines": [
+    "A meta Austrina da esperan\u00e7a boa,"
+   ]
+  },
+  {
+   "begin": "312.000",
+   "children": [],
+   "end": "314.880",
+   "id": "f000126",
+   "language": "por",
+   "lines": [
+    "Levando alegres novas e resposta"
+   ]
+  },
+  {
+   "begin": "314.880",
+   "children": [],
+   "end": "316.800",
+   "id": "f000127",
+   "language": "por",
+   "lines": [
+    "Da parte Oriental para Lisboa,"
+   ]
+  },
+  {
+   "begin": "316.800",
+   "children": [],
+   "end": "319.640",
+   "id": "f000128",
+   "language": "por",
+   "lines": [
+    "Outra vez cometendo os duros medos"
+   ]
+  },
+  {
+   "begin": "319.640",
+   "children": [],
+   "end": "322.880",
+   "id": "f000129",
+   "language": "por",
+   "lines": [
+    "Do mar incerto, t\u00edmidos e ledos;"
+   ]
+  },
+  {
+   "begin": "322.880",
+   "children": [],
+   "end": "324.960",
+   "id": "f000130",
+   "language": "por",
+   "lines": [
+    "O prazer de chegar \u00e0 p\u00e1tria cara,"
+   ]
+  },
+  {
+   "begin": "324.960",
+   "children": [],
+   "end": "327.760",
+   "id": "f000131",
+   "language": "por",
+   "lines": [
+    "A seus penates caros e parentes,"
+   ]
+  },
+  {
+   "begin": "327.760",
+   "children": [],
+   "end": "329.760",
+   "id": "f000132",
+   "language": "por",
+   "lines": [
+    "Para contar a peregrina e rara"
+   ]
+  },
+  {
+   "begin": "329.760",
+   "children": [],
+   "end": "332.560",
+   "id": "f000133",
+   "language": "por",
+   "lines": [
+    "Navega\u00e7\u00e3o, os v\u00e1rios c\u00e9us e gentes;"
+   ]
+  },
+  {
+   "begin": "332.560",
+   "children": [],
+   "end": "334.960",
+   "id": "f000134",
+   "language": "por",
+   "lines": [
+    "Vir a lograr o pr\u00e9mio, que ganhara"
+   ]
+  },
+  {
+   "begin": "334.960",
+   "children": [],
+   "end": "337.520",
+   "id": "f000135",
+   "language": "por",
+   "lines": [
+    "Por t\u00e3o longos trabalhos e acidentes,"
+   ]
+  },
+  {
+   "begin": "337.520",
+   "children": [],
+   "end": "340.320",
+   "id": "f000136",
+   "language": "por",
+   "lines": [
+    "Cada um tem por gosto t\u00e3o perfeito,"
+   ]
+  },
+  {
+   "begin": "340.320",
+   "children": [],
+   "end": "342.760",
+   "id": "f000137",
+   "language": "por",
+   "lines": [
+    "Que o cora\u00e7\u00e3o para ele \u00e9 vaso estreito."
+   ]
+  },
+  {
+   "begin": "342.760",
+   "children": [],
+   "end": "346.120",
+   "id": "f000138",
+   "language": "por",
+   "lines": [
+    "Por\u00e9m a deusa C\u00edpria, que ordenada"
+   ]
+  },
+  {
+   "begin": "346.120",
+   "children": [],
+   "end": "348.400",
+   "id": "f000139",
+   "language": "por",
+   "lines": [
+    "Era para favor dos Lusitanos"
+   ]
+  },
+  {
+   "begin": "348.400",
+   "children": [],
+   "end": "350.720",
+   "id": "f000140",
+   "language": "por",
+   "lines": [
+    "Do Padre eterno, e por bom g\u00e9nio dada,"
+   ]
+  },
+  {
+   "begin": "350.720",
+   "children": [],
+   "end": "353.640",
+   "id": "f000141",
+   "language": "por",
+   "lines": [
+    "Que sempre os guia j\u00e1 de longos anos;"
+   ]
+  },
+  {
+   "begin": "353.640",
+   "children": [],
+   "end": "355.720",
+   "id": "f000142",
+   "language": "por",
+   "lines": [
+    "A gl\u00f3ria por trabalhos alcan\u00e7ada,"
+   ]
+  },
+  {
+   "begin": "355.720",
+   "children": [],
+   "end": "358.520",
+   "id": "f000143",
+   "language": "por",
+   "lines": [
+    "Satisfa\u00e7\u00e3o de bem sofridos danos,"
+   ]
+  },
+  {
+   "begin": "358.520",
+   "children": [],
+   "end": "360.840",
+   "id": "f000144",
+   "language": "por",
+   "lines": [
+    "Lhe andava j\u00e1 ordenando, e pretendia"
+   ]
+  },
+  {
+   "begin": "360.840",
+   "children": [],
+   "end": "363.040",
+   "id": "f000145",
+   "language": "por",
+   "lines": [
+    "Dar-lhe nos mares tristes alegria."
+   ]
+  },
+  {
+   "begin": "363.040",
+   "children": [],
+   "end": "366.280",
+   "id": "f000146",
+   "language": "por",
+   "lines": [
+    "Depois de ter um pouco revolvido"
+   ]
+  },
+  {
+   "begin": "366.280",
+   "children": [],
+   "end": "368.920",
+   "id": "f000147",
+   "language": "por",
+   "lines": [
+    "Na mente o largo mar que navegaram,"
+   ]
+  },
+  {
+   "begin": "368.920",
+   "children": [],
+   "end": "371.000",
+   "id": "f000148",
+   "language": "por",
+   "lines": [
+    "Os trabalhos, que pelo Deus nascido"
+   ]
+  },
+  {
+   "begin": "371.000",
+   "children": [],
+   "end": "373.360",
+   "id": "f000149",
+   "language": "por",
+   "lines": [
+    "Nas Anfi\u00f3neas Tebas se causaram;"
+   ]
+  },
+  {
+   "begin": "373.360",
+   "children": [],
+   "end": "375.760",
+   "id": "f000150",
+   "language": "por",
+   "lines": [
+    "J\u00e1 trazia de longe no sentido,"
+   ]
+  },
+  {
+   "begin": "375.760",
+   "children": [],
+   "end": "378.040",
+   "id": "f000151",
+   "language": "por",
+   "lines": [
+    "Para pr\u00e9mio de quanto mal passaram,"
+   ]
+  },
+  {
+   "begin": "378.040",
+   "children": [],
+   "end": "380.920",
+   "id": "f000152",
+   "language": "por",
+   "lines": [
+    "Buscar-lhe algum deleite, algum descanso"
+   ]
+  },
+  {
+   "begin": "380.920",
+   "children": [],
+   "end": "383.200",
+   "id": "f000153",
+   "language": "por",
+   "lines": [
+    "No Reino de cristal l\u00edquido e manso;"
+   ]
+  },
+  {
+   "begin": "383.200",
+   "children": [],
+   "end": "385.880",
+   "id": "f000154",
+   "language": "por",
+   "lines": [
+    "Algum repouso, enfim, com que pudesse"
+   ]
+  },
+  {
+   "begin": "385.880",
+   "children": [],
+   "end": "387.960",
+   "id": "f000155",
+   "language": "por",
+   "lines": [
+    "Refocilar a lassa humanidade"
+   ]
+  },
+  {
+   "begin": "387.960",
+   "children": [],
+   "end": "390.440",
+   "id": "f000156",
+   "language": "por",
+   "lines": [
+    "Dos navegantes seus, como interesse"
+   ]
+  },
+  {
+   "begin": "390.440",
+   "children": [],
+   "end": "392.800",
+   "id": "f000157",
+   "language": "por",
+   "lines": [
+    "Do trabalho que encurta a breve idade."
+   ]
+  },
+  {
+   "begin": "392.800",
+   "children": [],
+   "end": "395.960",
+   "id": "f000158",
+   "language": "por",
+   "lines": [
+    "Parece-lhe raz\u00e3o que conta desse"
+   ]
+  },
+  {
+   "begin": "395.960",
+   "children": [],
+   "end": "397.760",
+   "id": "f000159",
+   "language": "por",
+   "lines": [
+    "A seu filho, por cuja potestade"
+   ]
+  },
+  {
+   "begin": "397.760",
+   "children": [],
+   "end": "400.160",
+   "id": "f000160",
+   "language": "por",
+   "lines": [
+    "Os Deuses faz descer ao vil terreno"
+   ]
+  },
+  {
+   "begin": "400.160",
+   "children": [],
+   "end": "402.640",
+   "id": "f000161",
+   "language": "por",
+   "lines": [
+    "E os humanos subir ao c\u00e9u sereno."
+   ]
+  },
+  {
+   "begin": "402.640",
+   "children": [],
+   "end": "406.400",
+   "id": "f000162",
+   "language": "por",
+   "lines": [
+    "Isto bem revolvido, determina"
+   ]
+  },
+  {
+   "begin": "406.400",
+   "children": [],
+   "end": "408.120",
+   "id": "f000163",
+   "language": "por",
+   "lines": [
+    "De ter-lhe aparelhada, l\u00e1 no meio"
+   ]
+  },
+  {
+   "begin": "408.120",
+   "children": [],
+   "end": "410.200",
+   "id": "f000164",
+   "language": "por",
+   "lines": [
+    "Das \u00e1guas, alguma \u00ednsula divina,"
+   ]
+  },
+  {
+   "begin": "410.200",
+   "children": [],
+   "end": "412.840",
+   "id": "f000165",
+   "language": "por",
+   "lines": [
+    "Ornada de esmaltado e verde arreio;"
+   ]
+  },
+  {
+   "begin": "412.840",
+   "children": [],
+   "end": "415.520",
+   "id": "f000166",
+   "language": "por",
+   "lines": [
+    "Que muitas tem no reino, que confina"
+   ]
+  },
+  {
+   "begin": "415.520",
+   "children": [],
+   "end": "417.840",
+   "id": "f000167",
+   "language": "por",
+   "lines": [
+    "Da m\u00e3e primeira com o terreno seio,"
+   ]
+  },
+  {
+   "begin": "417.840",
+   "children": [],
+   "end": "420.160",
+   "id": "f000168",
+   "language": "por",
+   "lines": [
+    "Afora as que possui soberanas"
+   ]
+  },
+  {
+   "begin": "420.160",
+   "children": [],
+   "end": "422.400",
+   "id": "f000169",
+   "language": "por",
+   "lines": [
+    "Para dentro das portas Herculanas."
+   ]
+  },
+  {
+   "begin": "422.400",
+   "children": [],
+   "end": "425.880",
+   "id": "f000170",
+   "language": "por",
+   "lines": [
+    "Ali quer que as aqu\u00e1ticas donzelas"
+   ]
+  },
+  {
+   "begin": "425.880",
+   "children": [],
+   "end": "427.680",
+   "id": "f000171",
+   "language": "por",
+   "lines": [
+    "Esperem os fort\u00edssimos bar\u00f5es,"
+   ]
+  },
+  {
+   "begin": "427.680",
+   "children": [],
+   "end": "430.040",
+   "id": "f000172",
+   "language": "por",
+   "lines": [
+    "Todas as que t\u00eam t\u00edtulo de belas,"
+   ]
+  },
+  {
+   "begin": "430.040",
+   "children": [],
+   "end": "432.440",
+   "id": "f000173",
+   "language": "por",
+   "lines": [
+    "Gl\u00f3ria dos olhos, dor dos cora\u00e7\u00f5es,"
+   ]
+  },
+  {
+   "begin": "432.440",
+   "children": [],
+   "end": "435.000",
+   "id": "f000174",
+   "language": "por",
+   "lines": [
+    "Com dan\u00e7as e coreias, porque nelas"
+   ]
+  },
+  {
+   "begin": "435.000",
+   "children": [],
+   "end": "437.040",
+   "id": "f000175",
+   "language": "por",
+   "lines": [
+    "Influir\u00e1 secretas afei\u00e7\u00f5es,"
+   ]
+  },
+  {
+   "begin": "437.040",
+   "children": [],
+   "end": "439.560",
+   "id": "f000176",
+   "language": "por",
+   "lines": [
+    "Para com mais vontade trabalharem"
+   ]
+  },
+  {
+   "begin": "439.560",
+   "children": [],
+   "end": "441.640",
+   "id": "f000177",
+   "language": "por",
+   "lines": [
+    "De contentar, a quem se afei\u00e7oaram."
+   ]
+  },
+  {
+   "begin": "441.640",
+   "children": [],
+   "end": "445.040",
+   "id": "f000178",
+   "language": "por",
+   "lines": [
+    "Tal manha buscou j\u00e1, para que aquele"
+   ]
+  },
+  {
+   "begin": "445.040",
+   "children": [],
+   "end": "447.080",
+   "id": "f000179",
+   "language": "por",
+   "lines": [
+    "Que de Anquises pariu, bem recebido"
+   ]
+  },
+  {
+   "begin": "447.080",
+   "children": [],
+   "end": "449.400",
+   "id": "f000180",
+   "language": "por",
+   "lines": [
+    "Fosse no campo que a bovina pele"
+   ]
+  },
+  {
+   "begin": "449.400",
+   "children": [],
+   "end": "451.880",
+   "id": "f000181",
+   "language": "por",
+   "lines": [
+    "Tomou de espa\u00e7o, por subtil partido."
+   ]
+  },
+  {
+   "begin": "451.880",
+   "children": [],
+   "end": "455.240",
+   "id": "f000182",
+   "language": "por",
+   "lines": [
+    "Seu filho vai buscar, porque s\u00f3 nele"
+   ]
+  },
+  {
+   "begin": "455.240",
+   "children": [],
+   "end": "457.560",
+   "id": "f000183",
+   "language": "por",
+   "lines": [
+    "Tem todo seu poder, fero Cupido,"
+   ]
+  },
+  {
+   "begin": "457.560",
+   "children": [],
+   "end": "460.000",
+   "id": "f000184",
+   "language": "por",
+   "lines": [
+    "Que assim como naquela empresa antiga"
+   ]
+  },
+  {
+   "begin": "460.000",
+   "children": [],
+   "end": "462.720",
+   "id": "f000185",
+   "language": "por",
+   "lines": [
+    "Ajudou j\u00e1, nestoutra a ajude e siga."
+   ]
+  },
+  {
+   "begin": "462.720",
+   "children": [],
+   "end": "466.840",
+   "id": "f000186",
+   "language": "por",
+   "lines": [
+    "No carro ajunta as aves que na vida"
+   ]
+  },
+  {
+   "begin": "466.840",
+   "children": [],
+   "end": "469.160",
+   "id": "f000187",
+   "language": "por",
+   "lines": [
+    "V\u00e3o da morte as ex\u00e9quias celebrando,"
+   ]
+  },
+  {
+   "begin": "469.160",
+   "children": [],
+   "end": "471.600",
+   "id": "f000188",
+   "language": "por",
+   "lines": [
+    "E aquelas em que j\u00e1 foi convertida"
+   ]
+  },
+  {
+   "begin": "471.600",
+   "children": [],
+   "end": "473.560",
+   "id": "f000189",
+   "language": "por",
+   "lines": [
+    "Per\u00edstera, as boninas apanhando."
+   ]
+  },
+  {
+   "begin": "473.560",
+   "children": [],
+   "end": "476.480",
+   "id": "f000190",
+   "language": "por",
+   "lines": [
+    "Em derredor da Deusa j\u00e1 partida,"
+   ]
+  },
+  {
+   "begin": "476.480",
+   "children": [],
+   "end": "478.760",
+   "id": "f000191",
+   "language": "por",
+   "lines": [
+    "No ar lascivos beijos se v\u00e3o dando."
+   ]
+  },
+  {
+   "begin": "478.760",
+   "children": [],
+   "end": "481.440",
+   "id": "f000192",
+   "language": "por",
+   "lines": [
+    "Ela, por onde passa, o ar e o vento"
+   ]
+  },
+  {
+   "begin": "481.440",
+   "children": [],
+   "end": "483.880",
+   "id": "f000193",
+   "language": "por",
+   "lines": [
+    "Sereno faz, com brando movimento."
+   ]
+  },
+  {
+   "begin": "483.880",
+   "children": [],
+   "end": "487.680",
+   "id": "f000194",
+   "language": "por",
+   "lines": [
+    "J\u00e1 sobre os Id\u00e1lios montes pende,"
+   ]
+  },
+  {
+   "begin": "487.680",
+   "children": [],
+   "end": "489.840",
+   "id": "f000195",
+   "language": "por",
+   "lines": [
+    "Onde o filho frecheiro estava ent\u00e3o"
+   ]
+  },
+  {
+   "begin": "489.840",
+   "children": [],
+   "end": "492.280",
+   "id": "f000196",
+   "language": "por",
+   "lines": [
+    "Ajuntando outros muitos, que pretende"
+   ]
+  },
+  {
+   "begin": "492.280",
+   "children": [],
+   "end": "494.240",
+   "id": "f000197",
+   "language": "por",
+   "lines": [
+    "Fazer uma famosa expedi\u00e7\u00e3o"
+   ]
+  },
+  {
+   "begin": "494.240",
+   "children": [],
+   "end": "496.320",
+   "id": "f000198",
+   "language": "por",
+   "lines": [
+    "Contra o mundo rebelde, por que emende"
+   ]
+  },
+  {
+   "begin": "496.320",
+   "children": [],
+   "end": "498.760",
+   "id": "f000199",
+   "language": "por",
+   "lines": [
+    "Erros grandes, que h\u00e1 dias nele est\u00e3o,"
+   ]
+  },
+  {
+   "begin": "498.760",
+   "children": [],
+   "end": "501.520",
+   "id": "f000200",
+   "language": "por",
+   "lines": [
+    "Amando coisas que nos foram dadas,"
+   ]
+  },
+  {
+   "begin": "501.520",
+   "children": [],
+   "end": "503.680",
+   "id": "f000201",
+   "language": "por",
+   "lines": [
+    "N\u00e3o para ser amadas, mas usadas."
+   ]
+  },
+  {
+   "begin": "503.680",
+   "children": [],
+   "end": "507.160",
+   "id": "f000202",
+   "language": "por",
+   "lines": [
+    "Via Acteon na ca\u00e7a t\u00e3o austero,"
+   ]
+  },
+  {
+   "begin": "507.160",
+   "children": [],
+   "end": "509.600",
+   "id": "f000203",
+   "language": "por",
+   "lines": [
+    "De cego na alegria bruta, insana,"
+   ]
+  },
+  {
+   "begin": "509.600",
+   "children": [],
+   "end": "512.280",
+   "id": "f000204",
+   "language": "por",
+   "lines": [
+    "Que por seguir um feio animal fero,"
+   ]
+  },
+  {
+   "begin": "512.280",
+   "children": [],
+   "end": "514.880",
+   "id": "f000205",
+   "language": "por",
+   "lines": [
+    "Foge da gente e bela forma humana;"
+   ]
+  },
+  {
+   "begin": "514.880",
+   "children": [],
+   "end": "518.120",
+   "id": "f000206",
+   "language": "por",
+   "lines": [
+    "E por castigo quer, doce e severo,"
+   ]
+  },
+  {
+   "begin": "518.120",
+   "children": [],
+   "end": "520.280",
+   "id": "f000207",
+   "language": "por",
+   "lines": [
+    "Mostrar-lhe a formosura de Diana;"
+   ]
+  },
+  {
+   "begin": "520.280",
+   "children": [],
+   "end": "522.880",
+   "id": "f000208",
+   "language": "por",
+   "lines": [
+    "E guarde-se n\u00e3o seja ainda comido"
+   ]
+  },
+  {
+   "begin": "522.880",
+   "children": [],
+   "end": "525.480",
+   "id": "f000209",
+   "language": "por",
+   "lines": [
+    "Desses c\u00e3es que agora ama, e consumido."
+   ]
+  },
+  {
+   "begin": "525.480",
+   "children": [],
+   "end": "529.360",
+   "id": "f000210",
+   "language": "por",
+   "lines": [
+    "E v\u00ea do mundo todo os principais,"
+   ]
+  },
+  {
+   "begin": "529.360",
+   "children": [],
+   "end": "531.480",
+   "id": "f000211",
+   "language": "por",
+   "lines": [
+    "Que nenhum no bem p\u00fablico imagina;"
+   ]
+  },
+  {
+   "begin": "531.480",
+   "children": [],
+   "end": "534.080",
+   "id": "f000212",
+   "language": "por",
+   "lines": [
+    "V\u00ea neles que n\u00e3o t\u00eam amor a mais"
+   ]
+  },
+  {
+   "begin": "534.080",
+   "children": [],
+   "end": "536.880",
+   "id": "f000213",
+   "language": "por",
+   "lines": [
+    "Que a si somente, e a quem Fil\u00e1ucia ensina."
+   ]
+  },
+  {
+   "begin": "536.880",
+   "children": [],
+   "end": "539.680",
+   "id": "f000214",
+   "language": "por",
+   "lines": [
+    "V\u00ea que esses que frequentam os reais"
+   ]
+  },
+  {
+   "begin": "539.680",
+   "children": [],
+   "end": "542.240",
+   "id": "f000215",
+   "language": "por",
+   "lines": [
+    "Pa\u00e7os, por verdadeira e s\u00e3 doutrina"
+   ]
+  },
+  {
+   "begin": "542.240",
+   "children": [],
+   "end": "544.400",
+   "id": "f000216",
+   "language": "por",
+   "lines": [
+    "Vendem adula\u00e7\u00e3o, que mal consente"
+   ]
+  },
+  {
+   "begin": "544.400",
+   "children": [],
+   "end": "546.760",
+   "id": "f000217",
+   "language": "por",
+   "lines": [
+    "Mondar-se o novo trigo florescente."
+   ]
+  },
+  {
+   "begin": "546.760",
+   "children": [],
+   "end": "549.960",
+   "id": "f000218",
+   "language": "por",
+   "lines": [
+    "V\u00ea que aqueles que devem \u00e0 pobreza"
+   ]
+  },
+  {
+   "begin": "549.960",
+   "children": [],
+   "end": "552.280",
+   "id": "f000219",
+   "language": "por",
+   "lines": [
+    "Amor divino e ao povo caridade,"
+   ]
+  },
+  {
+   "begin": "552.280",
+   "children": [],
+   "end": "554.680",
+   "id": "f000220",
+   "language": "por",
+   "lines": [
+    "Amam somente mandos e riqueza,"
+   ]
+  },
+  {
+   "begin": "554.680",
+   "children": [],
+   "end": "557.080",
+   "id": "f000221",
+   "language": "por",
+   "lines": [
+    "Simulando justi\u00e7a e integridade."
+   ]
+  },
+  {
+   "begin": "557.080",
+   "children": [],
+   "end": "560.080",
+   "id": "f000222",
+   "language": "por",
+   "lines": [
+    "Da feia tirania e de aspereza"
+   ]
+  },
+  {
+   "begin": "560.080",
+   "children": [],
+   "end": "562.400",
+   "id": "f000223",
+   "language": "por",
+   "lines": [
+    "Fazem direito e v\u00e3 severidade:"
+   ]
+  },
+  {
+   "begin": "562.400",
+   "children": [],
+   "end": "565.440",
+   "id": "f000224",
+   "language": "por",
+   "lines": [
+    "Leis em favor do Rei se estabelecem,"
+   ]
+  },
+  {
+   "begin": "565.440",
+   "children": [],
+   "end": "567.920",
+   "id": "f000225",
+   "language": "por",
+   "lines": [
+    "As em favor do povo s\u00f3 perecem."
+   ]
+  },
+  {
+   "begin": "567.920",
+   "children": [],
+   "end": "571.240",
+   "id": "f000226",
+   "language": "por",
+   "lines": [
+    "V\u00ea, enfim, que ningu\u00e9m ama o que deve,"
+   ]
+  },
+  {
+   "begin": "571.240",
+   "children": [],
+   "end": "573.560",
+   "id": "f000227",
+   "language": "por",
+   "lines": [
+    "Sen\u00e3o o que somente mal deseja;"
+   ]
+  },
+  {
+   "begin": "573.560",
+   "children": [],
+   "end": "576.080",
+   "id": "f000228",
+   "language": "por",
+   "lines": [
+    "N\u00e3o quer que tanto tempo se releve"
+   ]
+  },
+  {
+   "begin": "576.080",
+   "children": [],
+   "end": "578.600",
+   "id": "f000229",
+   "language": "por",
+   "lines": [
+    "O castigo, que duro e justo seja."
+   ]
+  },
+  {
+   "begin": "578.600",
+   "children": [],
+   "end": "581.200",
+   "id": "f000230",
+   "language": "por",
+   "lines": [
+    "Seus ministros ajunta, por que leve"
+   ]
+  },
+  {
+   "begin": "581.200",
+   "children": [],
+   "end": "583.480",
+   "id": "f000231",
+   "language": "por",
+   "lines": [
+    "Ex\u00e9rcitos conformes \u00e0 peleja,"
+   ]
+  },
+  {
+   "begin": "583.480",
+   "children": [],
+   "end": "585.880",
+   "id": "f000232",
+   "language": "por",
+   "lines": [
+    "Que espera ter com a mal regida gente,"
+   ]
+  },
+  {
+   "begin": "585.880",
+   "children": [],
+   "end": "588.080",
+   "id": "f000233",
+   "language": "por",
+   "lines": [
+    "Que lhe n\u00e3o for agora obediente."
+   ]
+  },
+  {
+   "begin": "588.080",
+   "children": [],
+   "end": "591.360",
+   "id": "f000234",
+   "language": "por",
+   "lines": [
+    "Muitos destes meninos voadores"
+   ]
+  },
+  {
+   "begin": "591.360",
+   "children": [],
+   "end": "593.440",
+   "id": "f000235",
+   "language": "por",
+   "lines": [
+    "Est\u00e3o em v\u00e1rias obras trabalhando:"
+   ]
+  },
+  {
+   "begin": "593.440",
+   "children": [],
+   "end": "596.320",
+   "id": "f000236",
+   "language": "por",
+   "lines": [
+    "Uns amolando ferros passadores,"
+   ]
+  },
+  {
+   "begin": "596.320",
+   "children": [],
+   "end": "598.880",
+   "id": "f000237",
+   "language": "por",
+   "lines": [
+    "Outros \u00e1steas de setas delga\u00e7ando;"
+   ]
+  },
+  {
+   "begin": "598.880",
+   "children": [],
+   "end": "602.040",
+   "id": "f000238",
+   "language": "por",
+   "lines": [
+    "Trabalhando, cantando est\u00e3o de amores,"
+   ]
+  },
+  {
+   "begin": "602.040",
+   "children": [],
+   "end": "604.280",
+   "id": "f000239",
+   "language": "por",
+   "lines": [
+    "V\u00e1rios casos em verso modulando,"
+   ]
+  },
+  {
+   "begin": "604.280",
+   "children": [],
+   "end": "607.040",
+   "id": "f000240",
+   "language": "por",
+   "lines": [
+    "Melodia sonora e concertada,"
+   ]
+  },
+  {
+   "begin": "607.040",
+   "children": [],
+   "end": "609.640",
+   "id": "f000241",
+   "language": "por",
+   "lines": [
+    "Suave a letra, ang\u00e9lica a soada."
+   ]
+  },
+  {
+   "begin": "609.640",
+   "children": [],
+   "end": "612.920",
+   "id": "f000242",
+   "language": "por",
+   "lines": [
+    "Nas fr\u00e1goas imortais, onde forjavam"
+   ]
+  },
+  {
+   "begin": "612.920",
+   "children": [],
+   "end": "615.560",
+   "id": "f000243",
+   "language": "por",
+   "lines": [
+    "Para as setas as pontas penetrantes,"
+   ]
+  },
+  {
+   "begin": "615.560",
+   "children": [],
+   "end": "618.120",
+   "id": "f000244",
+   "language": "por",
+   "lines": [
+    "Por lenha cora\u00e7\u00f5es ardendo estavam,"
+   ]
+  },
+  {
+   "begin": "618.120",
+   "children": [],
+   "end": "620.920",
+   "id": "f000245",
+   "language": "por",
+   "lines": [
+    "Vivas entranhas ainda palpitantes."
+   ]
+  },
+  {
+   "begin": "620.920",
+   "children": [],
+   "end": "623.480",
+   "id": "f000246",
+   "language": "por",
+   "lines": [
+    "As \u00e1guas onde os ferros temperavam,"
+   ]
+  },
+  {
+   "begin": "623.480",
+   "children": [],
+   "end": "626.240",
+   "id": "f000247",
+   "language": "por",
+   "lines": [
+    "L\u00e1grimas s\u00e3o de m\u00edseros amantes;"
+   ]
+  },
+  {
+   "begin": "626.240",
+   "children": [],
+   "end": "629.360",
+   "id": "f000248",
+   "language": "por",
+   "lines": [
+    "A viva f lama, o nunca morto lume,"
+   ]
+  },
+  {
+   "begin": "629.360",
+   "children": [],
+   "end": "632.160",
+   "id": "f000249",
+   "language": "por",
+   "lines": [
+    "Desejo \u00e9 s\u00f3 que queima, e n\u00e3o consume."
+   ]
+  },
+  {
+   "begin": "632.160",
+   "children": [],
+   "end": "635.400",
+   "id": "f000250",
+   "language": "por",
+   "lines": [
+    "Alguns exercitando a m\u00e3o andavam"
+   ]
+  },
+  {
+   "begin": "635.400",
+   "children": [],
+   "end": "637.760",
+   "id": "f000251",
+   "language": "por",
+   "lines": [
+    "Nos duros cora\u00e7\u00f5es da plebe rude;"
+   ]
+  },
+  {
+   "begin": "637.760",
+   "children": [],
+   "end": "640.600",
+   "id": "f000252",
+   "language": "por",
+   "lines": [
+    "Crebros suspiros pelo ir soavam"
+   ]
+  },
+  {
+   "begin": "640.600",
+   "children": [],
+   "end": "643.080",
+   "id": "f000253",
+   "language": "por",
+   "lines": [
+    "Dos que feridos v\u00e3o da seta aguda."
+   ]
+  },
+  {
+   "begin": "643.080",
+   "children": [],
+   "end": "645.760",
+   "id": "f000254",
+   "language": "por",
+   "lines": [
+    "Formosas Ninfas s\u00e3o as que curavam"
+   ]
+  },
+  {
+   "begin": "645.760",
+   "children": [],
+   "end": "648.120",
+   "id": "f000255",
+   "language": "por",
+   "lines": [
+    "As chagas recebidas cuja ajuda"
+   ]
+  },
+  {
+   "begin": "648.120",
+   "children": [],
+   "end": "650.760",
+   "id": "f000256",
+   "language": "por",
+   "lines": [
+    "N\u00e3o somente d\u00e1 vida aos mal feridos,"
+   ]
+  },
+  {
+   "begin": "650.760",
+   "children": [],
+   "end": "653.360",
+   "id": "f000257",
+   "language": "por",
+   "lines": [
+    "Mas p\u00f5e em vida os ainda n\u00e3o nascidos."
+   ]
+  },
+  {
+   "begin": "653.360",
+   "children": [],
+   "end": "657.440",
+   "id": "f000258",
+   "language": "por",
+   "lines": [
+    "Formosas s\u00e3o algumas e outras feias,"
+   ]
+  },
+  {
+   "begin": "657.440",
+   "children": [],
+   "end": "659.640",
+   "id": "f000259",
+   "language": "por",
+   "lines": [
+    "Segundo a qualidade for das chagas;"
+   ]
+  },
+  {
+   "begin": "659.640",
+   "children": [],
+   "end": "662.120",
+   "id": "f000260",
+   "language": "por",
+   "lines": [
+    "Que o veneno espalhado pelas veias"
+   ]
+  },
+  {
+   "begin": "662.120",
+   "children": [],
+   "end": "664.600",
+   "id": "f000261",
+   "language": "por",
+   "lines": [
+    "Curam-no \u00e0s vezes \u00e1speras triagas."
+   ]
+  },
+  {
+   "begin": "664.600",
+   "children": [],
+   "end": "667.480",
+   "id": "f000262",
+   "language": "por",
+   "lines": [
+    "Alguns ficam ligados em cadeias,"
+   ]
+  },
+  {
+   "begin": "667.480",
+   "children": [],
+   "end": "670.080",
+   "id": "f000263",
+   "language": "por",
+   "lines": [
+    "Por palavras subtis de s\u00e1bias magas:"
+   ]
+  },
+  {
+   "begin": "670.080",
+   "children": [],
+   "end": "672.920",
+   "id": "f000264",
+   "language": "por",
+   "lines": [
+    "Isto acontece \u00e0s vezes, quando as setas"
+   ]
+  },
+  {
+   "begin": "672.920",
+   "children": [],
+   "end": "675.280",
+   "id": "f000265",
+   "language": "por",
+   "lines": [
+    "Acertam de levar ervas secretas."
+   ]
+  },
+  {
+   "begin": "675.280",
+   "children": [],
+   "end": "678.600",
+   "id": "f000266",
+   "language": "por",
+   "lines": [
+    "Destes tiros assim desordenados,"
+   ]
+  },
+  {
+   "begin": "678.600",
+   "children": [],
+   "end": "681.200",
+   "id": "f000267",
+   "language": "por",
+   "lines": [
+    "Que estes mo\u00e7os mal destros v\u00e3o tirando,"
+   ]
+  },
+  {
+   "begin": "681.200",
+   "children": [],
+   "end": "684.000",
+   "id": "f000268",
+   "language": "por",
+   "lines": [
+    "Nascem amores mil desconcertados"
+   ]
+  },
+  {
+   "begin": "684.000",
+   "children": [],
+   "end": "685.880",
+   "id": "f000269",
+   "language": "por",
+   "lines": [
+    "Entre o povo ferido miserando;"
+   ]
+  },
+  {
+   "begin": "685.880",
+   "children": [],
+   "end": "688.680",
+   "id": "f000270",
+   "language": "por",
+   "lines": [
+    "E tamboril nos her\u00f3is de altos estados"
+   ]
+  },
+  {
+   "begin": "688.680",
+   "children": [],
+   "end": "691.320",
+   "id": "f000271",
+   "language": "por",
+   "lines": [
+    "Exemplos mil se v\u00eaem de amor nefando,"
+   ]
+  },
+  {
+   "begin": "691.320",
+   "children": [],
+   "end": "694.040",
+   "id": "f000272",
+   "language": "por",
+   "lines": [
+    "Qual o das mo\u00e7as B\u00edbli e Cinireia,"
+   ]
+  },
+  {
+   "begin": "694.040",
+   "children": [],
+   "end": "696.600",
+   "id": "f000273",
+   "language": "por",
+   "lines": [
+    "Um mancebo de Ass\u00edria, um de Judeia."
+   ]
+  },
+  {
+   "begin": "696.600",
+   "children": [],
+   "end": "700.280",
+   "id": "f000274",
+   "language": "por",
+   "lines": [
+    "E v\u00f3s, \u00f3 poderosos, por pastoras"
+   ]
+  },
+  {
+   "begin": "700.280",
+   "children": [],
+   "end": "702.720",
+   "id": "f000275",
+   "language": "por",
+   "lines": [
+    "Muitas vezes ferido o peito vedes;"
+   ]
+  },
+  {
+   "begin": "702.720",
+   "children": [],
+   "end": "705.520",
+   "id": "f000276",
+   "language": "por",
+   "lines": [
+    "E por baixos e rudos, v\u00f3s, senhoras,"
+   ]
+  },
+  {
+   "begin": "705.520",
+   "children": [],
+   "end": "708.160",
+   "id": "f000277",
+   "language": "por",
+   "lines": [
+    "Tamb\u00e9m vos tomam nas Vulc\u00e2neas redes."
+   ]
+  },
+  {
+   "begin": "708.160",
+   "children": [],
+   "end": "711.120",
+   "id": "f000278",
+   "language": "por",
+   "lines": [
+    "Uns esperando andais noturnas horas,"
+   ]
+  },
+  {
+   "begin": "711.120",
+   "children": [],
+   "end": "713.480",
+   "id": "f000279",
+   "language": "por",
+   "lines": [
+    "Outros subis telhados e paredes:"
+   ]
+  },
+  {
+   "begin": "713.480",
+   "children": [],
+   "end": "716.200",
+   "id": "f000280",
+   "language": "por",
+   "lines": [
+    "Mas eu creio que deste amor indino"
+   ]
+  },
+  {
+   "begin": "716.200",
+   "children": [],
+   "end": "718.520",
+   "id": "f000281",
+   "language": "por",
+   "lines": [
+    "\u00c9 mais culpa a da m\u00e3e que a do menino."
+   ]
+  },
+  {
+   "begin": "718.520",
+   "children": [],
+   "end": "722.480",
+   "id": "f000282",
+   "language": "por",
+   "lines": [
+    "Mas j\u00e1 no verde prado o carro leve"
+   ]
+  },
+  {
+   "begin": "722.480",
+   "children": [],
+   "end": "725.200",
+   "id": "f000283",
+   "language": "por",
+   "lines": [
+    "Punham os brancos cisnes mansamente,"
+   ]
+  },
+  {
+   "begin": "725.200",
+   "children": [],
+   "end": "727.720",
+   "id": "f000284",
+   "language": "por",
+   "lines": [
+    "E Dione, que as rosas entro a neve"
+   ]
+  },
+  {
+   "begin": "727.720",
+   "children": [],
+   "end": "730.120",
+   "id": "f000285",
+   "language": "por",
+   "lines": [
+    "No rosto traz, descia diligente."
+   ]
+  },
+  {
+   "begin": "730.120",
+   "children": [],
+   "end": "733.040",
+   "id": "f000286",
+   "language": "por",
+   "lines": [
+    "O frecheiro, que contra o c\u00e9u se atreve,"
+   ]
+  },
+  {
+   "begin": "733.040",
+   "children": [],
+   "end": "735.440",
+   "id": "f000287",
+   "language": "por",
+   "lines": [
+    "A receb\u00ea-la vem, ledo e contente;"
+   ]
+  },
+  {
+   "begin": "735.440",
+   "children": [],
+   "end": "738.160",
+   "id": "f000288",
+   "language": "por",
+   "lines": [
+    "V\u00eam todos os Cupidos servidores"
+   ]
+  },
+  {
+   "begin": "738.160",
+   "children": [],
+   "end": "740.480",
+   "id": "f000289",
+   "language": "por",
+   "lines": [
+    "Beijar a m\u00e3o \u00e0 Deusa dos amores."
+   ]
+  },
+  {
+   "begin": "740.480",
+   "children": [],
+   "end": "743.480",
+   "id": "f000290",
+   "language": "por",
+   "lines": [
+    "Ela, por que n\u00e3o gaste o tempo em v\u00e3o,"
+   ]
+  },
+  {
+   "begin": "743.480",
+   "children": [],
+   "end": "745.920",
+   "id": "f000291",
+   "language": "por",
+   "lines": [
+    "Nos bra\u00e7os tendo o filho, confiada"
+   ]
+  },
+  {
+   "begin": "745.920",
+   "children": [],
+   "end": "748.560",
+   "id": "f000292",
+   "language": "por",
+   "lines": [
+    "Lhe diz: \"Amado filho, em cuja m\u00e3o"
+   ]
+  },
+  {
+   "begin": "748.560",
+   "children": [],
+   "end": "750.600",
+   "id": "f000293",
+   "language": "por",
+   "lines": [
+    "Toda minha pot\u00eancia est\u00e1 fundada;"
+   ]
+  },
+  {
+   "begin": "750.600",
+   "children": [],
+   "end": "753.440",
+   "id": "f000294",
+   "language": "por",
+   "lines": [
+    "Filho, em quem minhas for\u00e7as sempre est\u00e3o;"
+   ]
+  },
+  {
+   "begin": "753.440",
+   "children": [],
+   "end": "756.120",
+   "id": "f000295",
+   "language": "por",
+   "lines": [
+    "Tu, que as armas Tifeias tens em nada,"
+   ]
+  },
+  {
+   "begin": "756.120",
+   "children": [],
+   "end": "758.800",
+   "id": "f000296",
+   "language": "por",
+   "lines": [
+    "A socorrer-me a tua potestade"
+   ]
+  },
+  {
+   "begin": "758.800",
+   "children": [],
+   "end": "760.880",
+   "id": "f000297",
+   "language": "por",
+   "lines": [
+    "Me triz especial necessidade."
+   ]
+  },
+  {
+   "begin": "760.880",
+   "children": [],
+   "end": "764.160",
+   "id": "f000298",
+   "language": "por",
+   "lines": [
+    "\"Bem v\u00eas as Lusit\u00e2nicas fadigas,"
+   ]
+  },
+  {
+   "begin": "764.160",
+   "children": [],
+   "end": "766.320",
+   "id": "f000299",
+   "language": "por",
+   "lines": [
+    "Que eu j\u00e1 de muito longe favore\u00e7o,"
+   ]
+  },
+  {
+   "begin": "766.320",
+   "children": [],
+   "end": "769.000",
+   "id": "f000300",
+   "language": "por",
+   "lines": [
+    "Porque das Parcas sei, minhas amigas,"
+   ]
+  },
+  {
+   "begin": "769.000",
+   "children": [],
+   "end": "771.120",
+   "id": "f000301",
+   "language": "por",
+   "lines": [
+    "Que me h\u00e3o de venerar e ter em pre\u00e7o."
+   ]
+  },
+  {
+   "begin": "771.120",
+   "children": [],
+   "end": "774.120",
+   "id": "f000302",
+   "language": "por",
+   "lines": [
+    "E, porque tanto imitam as antigas"
+   ]
+  },
+  {
+   "begin": "774.120",
+   "children": [],
+   "end": "776.280",
+   "id": "f000303",
+   "language": "por",
+   "lines": [
+    "Obras de meus Romanos, me ofere\u00e7o"
+   ]
+  },
+  {
+   "begin": "776.280",
+   "children": [],
+   "end": "778.360",
+   "id": "f000304",
+   "language": "por",
+   "lines": [
+    "A lhe dar tanta ajuda, em quanto posso,"
+   ]
+  },
+  {
+   "begin": "778.360",
+   "children": [],
+   "end": "780.800",
+   "id": "f000305",
+   "language": "por",
+   "lines": [
+    "A quanto se estender o poder nosso."
+   ]
+  },
+  {
+   "begin": "780.800",
+   "children": [],
+   "end": "783.840",
+   "id": "f000306",
+   "language": "por",
+   "lines": [
+    "\"E porque das ins\u00eddias do odioso"
+   ]
+  },
+  {
+   "begin": "783.840",
+   "children": [],
+   "end": "786.040",
+   "id": "f000307",
+   "language": "por",
+   "lines": [
+    "Baco foram na \u00cdndia molestados,"
+   ]
+  },
+  {
+   "begin": "786.040",
+   "children": [],
+   "end": "788.600",
+   "id": "f000308",
+   "language": "por",
+   "lines": [
+    "E das inj\u00farias s\u00f3s do mar undoso"
+   ]
+  },
+  {
+   "begin": "788.600",
+   "children": [],
+   "end": "791.120",
+   "id": "f000309",
+   "language": "por",
+   "lines": [
+    "Puderam mais ser mortos que cansados,"
+   ]
+  },
+  {
+   "begin": "791.120",
+   "children": [],
+   "end": "793.640",
+   "id": "f000310",
+   "language": "por",
+   "lines": [
+    "No mesmo mar, que sempre temeroso"
+   ]
+  },
+  {
+   "begin": "793.640",
+   "children": [],
+   "end": "796.040",
+   "id": "f000311",
+   "language": "por",
+   "lines": [
+    "Lhe foi, quero que sejam repousados,"
+   ]
+  },
+  {
+   "begin": "796.040",
+   "children": [],
+   "end": "798.520",
+   "id": "f000312",
+   "language": "por",
+   "lines": [
+    "Tomando aquele pr\u00e9mio e doce gl\u00f3ria"
+   ]
+  },
+  {
+   "begin": "798.520",
+   "children": [],
+   "end": "800.720",
+   "id": "f000313",
+   "language": "por",
+   "lines": [
+    "Do trabalho, que faz clara a mem\u00f3ria."
+   ]
+  },
+  {
+   "begin": "800.720",
+   "children": [],
+   "end": "803.760",
+   "id": "f000314",
+   "language": "por",
+   "lines": [
+    "\"E para isso queria que, feridas"
+   ]
+  },
+  {
+   "begin": "803.760",
+   "children": [],
+   "end": "806.280",
+   "id": "f000315",
+   "language": "por",
+   "lines": [
+    "As filhas de Nereu, no ponto fundo,"
+   ]
+  },
+  {
+   "begin": "806.280",
+   "children": [],
+   "end": "809.120",
+   "id": "f000316",
+   "language": "por",
+   "lines": [
+    "De amor dos Lusitanos incendidas,"
+   ]
+  },
+  {
+   "begin": "809.120",
+   "children": [],
+   "end": "810.800",
+   "id": "f000317",
+   "language": "por",
+   "lines": [
+    "Que v\u00eam de descobrir o novo mundo,"
+   ]
+  },
+  {
+   "begin": "810.800",
+   "children": [],
+   "end": "814.040",
+   "id": "f000318",
+   "language": "por",
+   "lines": [
+    "Todas numa ilha juntas e subidas,"
+   ]
+  },
+  {
+   "begin": "814.040",
+   "children": [],
+   "end": "815.880",
+   "id": "f000319",
+   "language": "por",
+   "lines": [
+    "Ilha, que nas entranhas do profundo"
+   ]
+  },
+  {
+   "begin": "815.880",
+   "children": [],
+   "end": "817.840",
+   "id": "f000320",
+   "language": "por",
+   "lines": [
+    "Oceano terei aparelhada,"
+   ]
+  },
+  {
+   "begin": "817.840",
+   "children": [],
+   "end": "820.960",
+   "id": "f000321",
+   "language": "por",
+   "lines": [
+    "De dons de Flora e Z\u00e9firo adornada;"
+   ]
+  },
+  {
+   "begin": "820.960",
+   "children": [],
+   "end": "824.040",
+   "id": "f000322",
+   "language": "por",
+   "lines": [
+    "\"Ali, com mil refrescos e manjares,"
+   ]
+  },
+  {
+   "begin": "824.040",
+   "children": [],
+   "end": "826.440",
+   "id": "f000323",
+   "language": "por",
+   "lines": [
+    "Com vinhos odor\u00edferos e rosas,"
+   ]
+  },
+  {
+   "begin": "826.440",
+   "children": [],
+   "end": "829.120",
+   "id": "f000324",
+   "language": "por",
+   "lines": [
+    "Em cristalinos pa\u00e7os singulares"
+   ]
+  },
+  {
+   "begin": "829.120",
+   "children": [],
+   "end": "832.080",
+   "id": "f000325",
+   "language": "por",
+   "lines": [
+    "Formosos leitos, e elas mais formosas;"
+   ]
+  },
+  {
+   "begin": "832.080",
+   "children": [],
+   "end": "835.200",
+   "id": "f000326",
+   "language": "por",
+   "lines": [
+    "Enfim, com mil deleites n\u00e3o vulgares,"
+   ]
+  },
+  {
+   "begin": "835.200",
+   "children": [],
+   "end": "837.560",
+   "id": "f000327",
+   "language": "por",
+   "lines": [
+    "Os esperem as Ninfas amorosas,"
+   ]
+  },
+  {
+   "begin": "837.560",
+   "children": [],
+   "end": "840.080",
+   "id": "f000328",
+   "language": "por",
+   "lines": [
+    "De amor feridas, para lhes entregarem"
+   ]
+  },
+  {
+   "begin": "840.080",
+   "children": [],
+   "end": "842.120",
+   "id": "f000329",
+   "language": "por",
+   "lines": [
+    "Quanto delas os olhos cobi\u00e7arem."
+   ]
+  },
+  {
+   "begin": "842.120",
+   "children": [],
+   "end": "845.440",
+   "id": "f000330",
+   "language": "por",
+   "lines": [
+    "\"Quero que haja no reino Netunino,"
+   ]
+  },
+  {
+   "begin": "845.440",
+   "children": [],
+   "end": "848.080",
+   "id": "f000331",
+   "language": "por",
+   "lines": [
+    "Onde eu nasci, prog\u00e9nie forte e bela,"
+   ]
+  },
+  {
+   "begin": "848.080",
+   "children": [],
+   "end": "851.000",
+   "id": "f000332",
+   "language": "por",
+   "lines": [
+    "E tome exemplo o mundo vil, malino,"
+   ]
+  },
+  {
+   "begin": "851.000",
+   "children": [],
+   "end": "853.240",
+   "id": "f000333",
+   "language": "por",
+   "lines": [
+    "Que contra tua pot\u00eancia se rebela,"
+   ]
+  },
+  {
+   "begin": "853.240",
+   "children": [],
+   "end": "856.000",
+   "id": "f000334",
+   "language": "por",
+   "lines": [
+    "Por que entendam que muro adamantino,"
+   ]
+  },
+  {
+   "begin": "856.000",
+   "children": [],
+   "end": "858.680",
+   "id": "f000335",
+   "language": "por",
+   "lines": [
+    "Nem triste hipocrisia val contra ela:"
+   ]
+  },
+  {
+   "begin": "858.680",
+   "children": [],
+   "end": "861.320",
+   "id": "f000336",
+   "language": "por",
+   "lines": [
+    "Mal haver\u00e1 na terra quem se guarde,"
+   ]
+  },
+  {
+   "begin": "861.320",
+   "children": [],
+   "end": "863.960",
+   "id": "f000337",
+   "language": "por",
+   "lines": [
+    "Se teu fogo imortal nas \u00e1guas arde.\""
+   ]
+  },
+  {
+   "begin": "863.960",
+   "children": [],
+   "end": "868.480",
+   "id": "f000338",
+   "language": "por",
+   "lines": [
+    "Assim V\u00e9nus prop\u00f4s, e o filho inieo,"
+   ]
+  },
+  {
+   "begin": "868.480",
+   "children": [],
+   "end": "870.560",
+   "id": "f000339",
+   "language": "por",
+   "lines": [
+    "Para lhe obedecer, j\u00e1 se apercebe:"
+   ]
+  },
+  {
+   "begin": "870.560",
+   "children": [],
+   "end": "873.000",
+   "id": "f000340",
+   "language": "por",
+   "lines": [
+    "Manda trazer o arco eb\u00farneo rico,"
+   ]
+  },
+  {
+   "begin": "873.000",
+   "children": [],
+   "end": "875.560",
+   "id": "f000341",
+   "language": "por",
+   "lines": [
+    "Onde as setas de ponta de ouro embebe."
+   ]
+  },
+  {
+   "begin": "875.560",
+   "children": [],
+   "end": "878.600",
+   "id": "f000342",
+   "language": "por",
+   "lines": [
+    "Com gesto ledo a C\u00edpria, e impudico,"
+   ]
+  },
+  {
+   "begin": "878.600",
+   "children": [],
+   "end": "881.240",
+   "id": "f000343",
+   "language": "por",
+   "lines": [
+    "Dentro no carro o filho seu recebe;"
+   ]
+  },
+  {
+   "begin": "881.240",
+   "children": [],
+   "end": "883.960",
+   "id": "f000344",
+   "language": "por",
+   "lines": [
+    "A r\u00e9dea larga \u00e0s aves, cujo canto"
+   ]
+  },
+  {
+   "begin": "883.960",
+   "children": [],
+   "end": "886.480",
+   "id": "f000345",
+   "language": "por",
+   "lines": [
+    "A Fact\u00f4ntea morte chorou tanto."
+   ]
+  },
+  {
+   "begin": "886.480",
+   "children": [],
+   "end": "890.400",
+   "id": "f000346",
+   "language": "por",
+   "lines": [
+    "Mas diz Cupido, que era necess\u00e1ria"
+   ]
+  },
+  {
+   "begin": "890.400",
+   "children": [],
+   "end": "892.600",
+   "id": "f000347",
+   "language": "por",
+   "lines": [
+    "Uma famosa e c\u00e9lebre terceira,"
+   ]
+  },
+  {
+   "begin": "892.600",
+   "children": [],
+   "end": "895.520",
+   "id": "f000348",
+   "language": "por",
+   "lines": [
+    "Que, posto que mil vezes lhe \u00e9 contr\u00e1ria,"
+   ]
+  },
+  {
+   "begin": "895.520",
+   "children": [],
+   "end": "897.720",
+   "id": "f000349",
+   "language": "por",
+   "lines": [
+    "Outras muitas a tem por companheira:"
+   ]
+  },
+  {
+   "begin": "897.720",
+   "children": [],
+   "end": "900.560",
+   "id": "f000350",
+   "language": "por",
+   "lines": [
+    "A Deusa Giganteia, temer\u00e1ria,"
+   ]
+  },
+  {
+   "begin": "900.560",
+   "children": [],
+   "end": "903.120",
+   "id": "f000351",
+   "language": "por",
+   "lines": [
+    "Jactante, mentirosa, e verdadeira,"
+   ]
+  },
+  {
+   "begin": "903.120",
+   "children": [],
+   "end": "906.080",
+   "id": "f000352",
+   "language": "por",
+   "lines": [
+    "Que com cem olhos v\u00ea, e por onde voa,"
+   ]
+  },
+  {
+   "begin": "906.080",
+   "children": [],
+   "end": "908.240",
+   "id": "f000353",
+   "language": "por",
+   "lines": [
+    "O que v\u00ea, com mil bocas apregoa."
+   ]
+  },
+  {
+   "begin": "908.240",
+   "children": [],
+   "end": "911.400",
+   "id": "f000354",
+   "language": "por",
+   "lines": [
+    "V\u00e3o-a buscar, e mandam adiante,"
+   ]
+  },
+  {
+   "begin": "911.400",
+   "children": [],
+   "end": "913.760",
+   "id": "f000355",
+   "language": "por",
+   "lines": [
+    "Que celebrando v\u00e1 com tuba clara"
+   ]
+  },
+  {
+   "begin": "913.760",
+   "children": [],
+   "end": "916.200",
+   "id": "f000356",
+   "language": "por",
+   "lines": [
+    "Os louvores da gente navegante,"
+   ]
+  },
+  {
+   "begin": "916.200",
+   "children": [],
+   "end": "918.680",
+   "id": "f000357",
+   "language": "por",
+   "lines": [
+    "Mais do que nunca os d'outrem celebrara."
+   ]
+  },
+  {
+   "begin": "918.680",
+   "children": [],
+   "end": "922.000",
+   "id": "f000358",
+   "language": "por",
+   "lines": [
+    "J\u00e1 murmurando a Fama penetrante"
+   ]
+  },
+  {
+   "begin": "922.000",
+   "children": [],
+   "end": "924.320",
+   "id": "f000359",
+   "language": "por",
+   "lines": [
+    "Pelas fundas cavernas se espalhara:"
+   ]
+  },
+  {
+   "begin": "924.320",
+   "children": [],
+   "end": "927.080",
+   "id": "f000360",
+   "language": "por",
+   "lines": [
+    "Fala verdade, havida por verdade,"
+   ]
+  },
+  {
+   "begin": "927.080",
+   "children": [],
+   "end": "929.920",
+   "id": "f000361",
+   "language": "por",
+   "lines": [
+    "Que junto a Deusa traz Credulidade."
+   ]
+  },
+  {
+   "begin": "929.920",
+   "children": [],
+   "end": "933.680",
+   "id": "f000362",
+   "language": "por",
+   "lines": [
+    "O louvor grande, o rumor excelente"
+   ]
+  },
+  {
+   "begin": "933.680",
+   "children": [],
+   "end": "936.080",
+   "id": "f000363",
+   "language": "por",
+   "lines": [
+    "No cora\u00e7\u00e3o dos Deuses, que indignados"
+   ]
+  },
+  {
+   "begin": "936.080",
+   "children": [],
+   "end": "938.320",
+   "id": "f000364",
+   "language": "por",
+   "lines": [
+    "Foram por Baco contra a ilustre gente,"
+   ]
+  },
+  {
+   "begin": "938.320",
+   "children": [],
+   "end": "941.280",
+   "id": "f000365",
+   "language": "por",
+   "lines": [
+    "Mudando, os fez um pouco afei\u00e7oados."
+   ]
+  },
+  {
+   "begin": "941.280",
+   "children": [],
+   "end": "943.760",
+   "id": "f000366",
+   "language": "por",
+   "lines": [
+    "O peito feminil, que levemente"
+   ]
+  },
+  {
+   "begin": "943.760",
+   "children": [],
+   "end": "946.360",
+   "id": "f000367",
+   "language": "por",
+   "lines": [
+    "Muda quaisquer prop\u00f3sitos tomados,"
+   ]
+  },
+  {
+   "begin": "946.360",
+   "children": [],
+   "end": "948.840",
+   "id": "f000368",
+   "language": "por",
+   "lines": [
+    "J\u00e1 julga por mau zelo e por crueza"
+   ]
+  },
+  {
+   "begin": "948.840",
+   "children": [],
+   "end": "951.160",
+   "id": "f000369",
+   "language": "por",
+   "lines": [
+    "Desejar mal a tanta fortaleza."
+   ]
+  },
+  {
+   "begin": "951.160",
+   "children": [],
+   "end": "955.200",
+   "id": "f000370",
+   "language": "por",
+   "lines": [
+    "Despede nisto o fero mo\u00e7o as setas"
+   ]
+  },
+  {
+   "begin": "955.200",
+   "children": [],
+   "end": "958.360",
+   "id": "f000371",
+   "language": "por",
+   "lines": [
+    "Uma ap\u00f3s outra: geme o mar com os tiros;"
+   ]
+  },
+  {
+   "begin": "958.360",
+   "children": [],
+   "end": "960.680",
+   "id": "f000372",
+   "language": "por",
+   "lines": [
+    "Direitas pelas ondas inquietas"
+   ]
+  },
+  {
+   "begin": "960.680",
+   "children": [],
+   "end": "963.120",
+   "id": "f000373",
+   "language": "por",
+   "lines": [
+    "Algumas v\u00e3o, e algumas fazem giros;"
+   ]
+  },
+  {
+   "begin": "963.120",
+   "children": [],
+   "end": "966.240",
+   "id": "f000374",
+   "language": "por",
+   "lines": [
+    "Caem as Ninfas, lan\u00e7am das secretas"
+   ]
+  },
+  {
+   "begin": "966.240",
+   "children": [],
+   "end": "968.640",
+   "id": "f000375",
+   "language": "por",
+   "lines": [
+    "Entranhas ardent\u00edssimos suspiros;"
+   ]
+  },
+  {
+   "begin": "968.640",
+   "children": [],
+   "end": "971.560",
+   "id": "f000376",
+   "language": "por",
+   "lines": [
+    "Cai qualquer, sem ver o vulto que ama:"
+   ]
+  },
+  {
+   "begin": "971.560",
+   "children": [],
+   "end": "974.240",
+   "id": "f000377",
+   "language": "por",
+   "lines": [
+    "Que tanto, como a vista, pode a fama."
+   ]
+  },
+  {
+   "begin": "974.240",
+   "children": [],
+   "end": "978.160",
+   "id": "f000378",
+   "language": "por",
+   "lines": [
+    "Os cornos ajuntou da eb\u00farnea lua"
+   ]
+  },
+  {
+   "begin": "978.160",
+   "children": [],
+   "end": "980.720",
+   "id": "f000379",
+   "language": "por",
+   "lines": [
+    "Com for\u00e7a o mo\u00e7o ind\u00f3mito excessiva,"
+   ]
+  },
+  {
+   "begin": "980.720",
+   "children": [],
+   "end": "983.480",
+   "id": "f000380",
+   "language": "por",
+   "lines": [
+    "Que Tethys quer ferir mais que nenhuma,"
+   ]
+  },
+  {
+   "begin": "983.480",
+   "children": [],
+   "end": "985.840",
+   "id": "f000381",
+   "language": "por",
+   "lines": [
+    "Porque mais que nenhuma lhe era esquiva."
+   ]
+  },
+  {
+   "begin": "985.840",
+   "children": [],
+   "end": "989.040",
+   "id": "f000382",
+   "language": "por",
+   "lines": [
+    "J\u00e1 n\u00e3o fica na aljava seta alguma,"
+   ]
+  },
+  {
+   "begin": "989.040",
+   "children": [],
+   "end": "991.760",
+   "id": "f000383",
+   "language": "por",
+   "lines": [
+    "Nem nos equ\u00f3reos campos Ninfa viva;"
+   ]
+  },
+  {
+   "begin": "991.760",
+   "children": [],
+   "end": "994.440",
+   "id": "f000384",
+   "language": "por",
+   "lines": [
+    "E se feridas ainda est\u00e3o vivendo,"
+   ]
+  },
+  {
+   "begin": "994.440",
+   "children": [],
+   "end": "996.880",
+   "id": "f000385",
+   "language": "por",
+   "lines": [
+    "Ser\u00e1 para sentir que v\u00e3o morrendo."
+   ]
+  },
+  {
+   "begin": "996.880",
+   "children": [],
+   "end": "1001.520",
+   "id": "f000386",
+   "language": "por",
+   "lines": [
+    "Dai lugar, altas e cer\u00faleas ondas,"
+   ]
+  },
+  {
+   "begin": "1001.520",
+   "children": [],
+   "end": "1003.880",
+   "id": "f000387",
+   "language": "por",
+   "lines": [
+    "Que, vedes, V\u00e9nus traz a medicina,"
+   ]
+  },
+  {
+   "begin": "1003.880",
+   "children": [],
+   "end": "1006.840",
+   "id": "f000388",
+   "language": "por",
+   "lines": [
+    "Mostrando as brancas velas e redondas,"
+   ]
+  },
+  {
+   "begin": "1006.840",
+   "children": [],
+   "end": "1009.240",
+   "id": "f000389",
+   "language": "por",
+   "lines": [
+    "Que v\u00eam por cima da \u00e1gua Netunina."
+   ]
+  },
+  {
+   "begin": "1009.240",
+   "children": [],
+   "end": "1012.240",
+   "id": "f000390",
+   "language": "por",
+   "lines": [
+    "Para que tu rec\u00edproco respondas,"
+   ]
+  },
+  {
+   "begin": "1012.240",
+   "children": [],
+   "end": "1014.160",
+   "id": "f000391",
+   "language": "por",
+   "lines": [
+    "Ardente Amor, \u00e0 flama feminina,"
+   ]
+  },
+  {
+   "begin": "1014.160",
+   "children": [],
+   "end": "1017.000",
+   "id": "f000392",
+   "language": "por",
+   "lines": [
+    "\u00c9, for\u00e7ado que a pudic\u00edcia honesta"
+   ]
+  },
+  {
+   "begin": "1017.000",
+   "children": [],
+   "end": "1019.240",
+   "id": "f000393",
+   "language": "por",
+   "lines": [
+    "Fa\u00e7a quanto lhe V\u00e9nus amoesta."
+   ]
+  },
+  {
+   "begin": "1019.240",
+   "children": [],
+   "end": "1023.000",
+   "id": "f000394",
+   "language": "por",
+   "lines": [
+    "J\u00e1 todo o belo coro se aparelha"
+   ]
+  },
+  {
+   "begin": "1023.000",
+   "children": [],
+   "end": "1024.920",
+   "id": "f000395",
+   "language": "por",
+   "lines": [
+    "Das Nereidas, e junto caminhava"
+   ]
+  },
+  {
+   "begin": "1024.920",
+   "children": [],
+   "end": "1027.480",
+   "id": "f000396",
+   "language": "por",
+   "lines": [
+    "Em coreias gentis, usan\u00e7a velha,"
+   ]
+  },
+  {
+   "begin": "1027.480",
+   "children": [],
+   "end": "1029.560",
+   "id": "f000397",
+   "language": "por",
+   "lines": [
+    "Para a ilha, a que V\u00e9nus as guiava."
+   ]
+  },
+  {
+   "begin": "1029.560",
+   "children": [],
+   "end": "1032.760",
+   "id": "f000398",
+   "language": "por",
+   "lines": [
+    "Ali a formosa Deusa lhe aconselha"
+   ]
+  },
+  {
+   "begin": "1032.760",
+   "children": [],
+   "end": "1035.280",
+   "id": "f000399",
+   "language": "por",
+   "lines": [
+    "O que ela fez mil vezes, quando amava."
+   ]
+  },
+  {
+   "begin": "1035.280",
+   "children": [],
+   "end": "1038.600",
+   "id": "f000400",
+   "language": "por",
+   "lines": [
+    "Elas, que v\u00e3o do doce amor vencidas,"
+   ]
+  },
+  {
+   "begin": "1038.600",
+   "children": [],
+   "end": "1040.920",
+   "id": "f000401",
+   "language": "por",
+   "lines": [
+    "Est\u00e3o a seu conselho oferecidas."
+   ]
+  },
+  {
+   "begin": "1040.920",
+   "children": [],
+   "end": "1044.640",
+   "id": "f000402",
+   "language": "por",
+   "lines": [
+    "Cortando v\u00e3o as naus a larga via"
+   ]
+  },
+  {
+   "begin": "1044.640",
+   "children": [],
+   "end": "1046.840",
+   "id": "f000403",
+   "language": "por",
+   "lines": [
+    "Do mar ingente para a p\u00e1tria amada,"
+   ]
+  },
+  {
+   "begin": "1046.840",
+   "children": [],
+   "end": "1049.440",
+   "id": "f000404",
+   "language": "por",
+   "lines": [
+    "Desejando prover-se de \u00e1gua fria,"
+   ]
+  },
+  {
+   "begin": "1049.440",
+   "children": [],
+   "end": "1051.400",
+   "id": "f000405",
+   "language": "por",
+   "lines": [
+    "Para a grande viagem prolongada,"
+   ]
+  },
+  {
+   "begin": "1051.400",
+   "children": [],
+   "end": "1054.080",
+   "id": "f000406",
+   "language": "por",
+   "lines": [
+    "Quando juntas, com s\u00fabita alegria,"
+   ]
+  },
+  {
+   "begin": "1054.080",
+   "children": [],
+   "end": "1056.120",
+   "id": "f000407",
+   "language": "por",
+   "lines": [
+    "Houveram vista da ilha namorada,"
+   ]
+  },
+  {
+   "begin": "1056.120",
+   "children": [],
+   "end": "1058.840",
+   "id": "f000408",
+   "language": "por",
+   "lines": [
+    "Rompendo pelo c\u00e9u a m\u00e3e formosa"
+   ]
+  },
+  {
+   "begin": "1058.840",
+   "children": [],
+   "end": "1061.040",
+   "id": "f000409",
+   "language": "por",
+   "lines": [
+    "De Men\u00f3nio, suave e deleitosa."
+   ]
+  },
+  {
+   "begin": "1061.040",
+   "children": [],
+   "end": "1064.800",
+   "id": "f000410",
+   "language": "por",
+   "lines": [
+    "De longe a Ilha viram fresca e bela,"
+   ]
+  },
+  {
+   "begin": "1064.800",
+   "children": [],
+   "end": "1067.200",
+   "id": "f000411",
+   "language": "por",
+   "lines": [
+    "Que V\u00e9nus pelas ondas lha levava"
+   ]
+  },
+  {
+   "begin": "1067.200",
+   "children": [],
+   "end": "1069.960",
+   "id": "f000412",
+   "language": "por",
+   "lines": [
+    "(Bem como o vento leva branca vela)"
+   ]
+  },
+  {
+   "begin": "1069.960",
+   "children": [],
+   "end": "1072.520",
+   "id": "f000413",
+   "language": "por",
+   "lines": [
+    "Para onde a forte armada se enxergava;"
+   ]
+  },
+  {
+   "begin": "1072.520",
+   "children": [],
+   "end": "1075.640",
+   "id": "f000414",
+   "language": "por",
+   "lines": [
+    "Que, por que n\u00e3o passassem, sem que nela"
+   ]
+  },
+  {
+   "begin": "1075.640",
+   "children": [],
+   "end": "1077.720",
+   "id": "f000415",
+   "language": "por",
+   "lines": [
+    "Tomassem porto, como desejava,"
+   ]
+  },
+  {
+   "begin": "1077.720",
+   "children": [],
+   "end": "1080.240",
+   "id": "f000416",
+   "language": "por",
+   "lines": [
+    "Para onde as naus navegam a movia"
+   ]
+  },
+  {
+   "begin": "1080.240",
+   "children": [],
+   "end": "1082.720",
+   "id": "f000417",
+   "language": "por",
+   "lines": [
+    "A Acid\u00e1lia, que tudo enfim podia."
+   ]
+  },
+  {
+   "begin": "1082.720",
+   "children": [],
+   "end": "1086.160",
+   "id": "f000418",
+   "language": "por",
+   "lines": [
+    "Mas firme a fez e im\u00f3vel, como viu"
+   ]
+  },
+  {
+   "begin": "1086.160",
+   "children": [],
+   "end": "1088.480",
+   "id": "f000419",
+   "language": "por",
+   "lines": [
+    "Que era dos Nautas vista e demandada;"
+   ]
+  },
+  {
+   "begin": "1088.480",
+   "children": [],
+   "end": "1091.080",
+   "id": "f000420",
+   "language": "por",
+   "lines": [
+    "Qual ficou Delos, tanto que pariu"
+   ]
+  },
+  {
+   "begin": "1091.080",
+   "children": [],
+   "end": "1093.800",
+   "id": "f000421",
+   "language": "por",
+   "lines": [
+    "Latona Febo e a Deusa \u00e0 ca\u00e7a usada."
+   ]
+  },
+  {
+   "begin": "1093.800",
+   "children": [],
+   "end": "1097.200",
+   "id": "f000422",
+   "language": "por",
+   "lines": [
+    "Para l\u00e1 logo a proa o mar abriu,"
+   ]
+  },
+  {
+   "begin": "1097.200",
+   "children": [],
+   "end": "1099.360",
+   "id": "f000423",
+   "language": "por",
+   "lines": [
+    "Onde a costa fazia uma enseada"
+   ]
+  },
+  {
+   "begin": "1099.360",
+   "children": [],
+   "end": "1101.920",
+   "id": "f000424",
+   "language": "por",
+   "lines": [
+    "Curva e quieta, cuja branca areia,"
+   ]
+  },
+  {
+   "begin": "1101.920",
+   "children": [],
+   "end": "1104.200",
+   "id": "f000425",
+   "language": "por",
+   "lines": [
+    "Pintou de ruivas conchas Citereia."
+   ]
+  },
+  {
+   "begin": "1104.200",
+   "children": [],
+   "end": "1107.840",
+   "id": "f000426",
+   "language": "por",
+   "lines": [
+    "Tr\u00eas formosos outeiros se mostravam"
+   ]
+  },
+  {
+   "begin": "1107.840",
+   "children": [],
+   "end": "1110.160",
+   "id": "f000427",
+   "language": "por",
+   "lines": [
+    "Erguidos com soberba graciosa,"
+   ]
+  },
+  {
+   "begin": "1110.160",
+   "children": [],
+   "end": "1112.840",
+   "id": "f000428",
+   "language": "por",
+   "lines": [
+    "Que de gram\u00edneo esmalte se adornavam.."
+   ]
+  },
+  {
+   "begin": "1112.840",
+   "children": [],
+   "end": "1115.360",
+   "id": "f000429",
+   "language": "por",
+   "lines": [
+    "Na formosa ilha alegre e deleitosa;"
+   ]
+  },
+  {
+   "begin": "1115.360",
+   "children": [],
+   "end": "1118.640",
+   "id": "f000430",
+   "language": "por",
+   "lines": [
+    "Claras fontes o l\u00edmpidas manavam"
+   ]
+  },
+  {
+   "begin": "1118.640",
+   "children": [],
+   "end": "1120.920",
+   "id": "f000431",
+   "language": "por",
+   "lines": [
+    "Do cume, que a verdura tem vi\u00e7osa;"
+   ]
+  },
+  {
+   "begin": "1120.920",
+   "children": [],
+   "end": "1123.560",
+   "id": "f000432",
+   "language": "por",
+   "lines": [
+    "Por entre pedras alvas se deriva"
+   ]
+  },
+  {
+   "begin": "1123.560",
+   "children": [],
+   "end": "1125.720",
+   "id": "f000433",
+   "language": "por",
+   "lines": [
+    "A sonorosa Ninfa fugitiva."
+   ]
+  },
+  {
+   "begin": "1125.720",
+   "children": [],
+   "end": "1129.440",
+   "id": "f000434",
+   "language": "por",
+   "lines": [
+    "Num vale ameno, que os outeiros fende,"
+   ]
+  },
+  {
+   "begin": "1129.440",
+   "children": [],
+   "end": "1131.760",
+   "id": "f000435",
+   "language": "por",
+   "lines": [
+    "Vinham as claras \u00e1guas ajuntar-se,"
+   ]
+  },
+  {
+   "begin": "1131.760",
+   "children": [],
+   "end": "1134.360",
+   "id": "f000436",
+   "language": "por",
+   "lines": [
+    "Onde uma mesa fazem, que se estende"
+   ]
+  },
+  {
+   "begin": "1134.360",
+   "children": [],
+   "end": "1136.480",
+   "id": "f000437",
+   "language": "por",
+   "lines": [
+    "T\u00e3o bela quanto pode imaginar-se;"
+   ]
+  },
+  {
+   "begin": "1136.480",
+   "children": [],
+   "end": "1139.400",
+   "id": "f000438",
+   "language": "por",
+   "lines": [
+    "Arvoredo gentil sobre ela pende,"
+   ]
+  },
+  {
+   "begin": "1139.400",
+   "children": [],
+   "end": "1141.720",
+   "id": "f000439",
+   "language": "por",
+   "lines": [
+    "Como que pronto est\u00e1 para afeitar-se,"
+   ]
+  },
+  {
+   "begin": "1141.720",
+   "children": [],
+   "end": "1144.360",
+   "id": "f000440",
+   "language": "por",
+   "lines": [
+    "Vendo-se no cristal resplandecente,"
+   ]
+  },
+  {
+   "begin": "1144.360",
+   "children": [],
+   "end": "1146.920",
+   "id": "f000441",
+   "language": "por",
+   "lines": [
+    "Que em si o est\u00e1 pintando propriamente."
+   ]
+  },
+  {
+   "begin": "1146.920",
+   "children": [],
+   "end": "1150.600",
+   "id": "f000442",
+   "language": "por",
+   "lines": [
+    "Mil \u00e1rvores est\u00e3o ao c\u00e9u subindo,"
+   ]
+  },
+  {
+   "begin": "1150.600",
+   "children": [],
+   "end": "1152.920",
+   "id": "f000443",
+   "language": "por",
+   "lines": [
+    "Com pomos odor\u00edferos e belos:"
+   ]
+  },
+  {
+   "begin": "1152.920",
+   "children": [],
+   "end": "1155.440",
+   "id": "f000444",
+   "language": "por",
+   "lines": [
+    "A laranjeira tem no fruto lindo"
+   ]
+  },
+  {
+   "begin": "1155.440",
+   "children": [],
+   "end": "1157.720",
+   "id": "f000445",
+   "language": "por",
+   "lines": [
+    "A cor que tinha Dafne nos cabelos;"
+   ]
+  },
+  {
+   "begin": "1157.720",
+   "children": [],
+   "end": "1160.240",
+   "id": "f000446",
+   "language": "por",
+   "lines": [
+    "Encosta-se no ch\u00e3o, que est\u00e1 caindo,"
+   ]
+  },
+  {
+   "begin": "1160.240",
+   "children": [],
+   "end": "1162.600",
+   "id": "f000447",
+   "language": "por",
+   "lines": [
+    "A cidreira com os pesos amarelos;"
+   ]
+  },
+  {
+   "begin": "1162.600",
+   "children": [],
+   "end": "1165.120",
+   "id": "f000448",
+   "language": "por",
+   "lines": [
+    "Os formosos lim\u00f5es ali, cheirando,"
+   ]
+  },
+  {
+   "begin": "1165.120",
+   "children": [],
+   "end": "1167.520",
+   "id": "f000449",
+   "language": "por",
+   "lines": [
+    "Est\u00e3o virg\u00edneas tetas imitando."
+   ]
+  },
+  {
+   "begin": "1167.520",
+   "children": [],
+   "end": "1171.240",
+   "id": "f000450",
+   "language": "por",
+   "lines": [
+    "As \u00e1rvores agrestes que os outeiros"
+   ]
+  },
+  {
+   "begin": "1171.240",
+   "children": [],
+   "end": "1173.680",
+   "id": "f000451",
+   "language": "por",
+   "lines": [
+    "T\u00eam com frondente coma enobrecidos,"
+   ]
+  },
+  {
+   "begin": "1173.680",
+   "children": [],
+   "end": "1176.560",
+   "id": "f000452",
+   "language": "por",
+   "lines": [
+    "Alemos s\u00e3o de Alcides, e os loureiros"
+   ]
+  },
+  {
+   "begin": "1176.560",
+   "children": [],
+   "end": "1178.800",
+   "id": "f000453",
+   "language": "por",
+   "lines": [
+    "Do louro Deus amados e queridos;"
+   ]
+  },
+  {
+   "begin": "1178.800",
+   "children": [],
+   "end": "1181.520",
+   "id": "f000454",
+   "language": "por",
+   "lines": [
+    "Mirtos de Citereia, com os pinheiros"
+   ]
+  },
+  {
+   "begin": "1181.520",
+   "children": [],
+   "end": "1184.120",
+   "id": "f000455",
+   "language": "por",
+   "lines": [
+    "De Cibele, por outro amor vencidos;"
+   ]
+  },
+  {
+   "begin": "1184.120",
+   "children": [],
+   "end": "1186.840",
+   "id": "f000456",
+   "language": "por",
+   "lines": [
+    "Est\u00e1 apontando o agudo cipariso"
+   ]
+  },
+  {
+   "begin": "1186.840",
+   "children": [],
+   "end": "1189.080",
+   "id": "f000457",
+   "language": "por",
+   "lines": [
+    "Para onde \u00e9 posto o et\u00e9reo para\u00edso."
+   ]
+  },
+  {
+   "begin": "1189.080",
+   "children": [],
+   "end": "1193.000",
+   "id": "f000458",
+   "language": "por",
+   "lines": [
+    "Os dons que d\u00e1 Pomona, ali Natura"
+   ]
+  },
+  {
+   "begin": "1193.000",
+   "children": [],
+   "end": "1195.320",
+   "id": "f000459",
+   "language": "por",
+   "lines": [
+    "Produz diferentes nos sabores,"
+   ]
+  },
+  {
+   "begin": "1195.320",
+   "children": [],
+   "end": "1197.640",
+   "id": "f000460",
+   "language": "por",
+   "lines": [
+    "Sem ter necessidade de cultura,"
+   ]
+  },
+  {
+   "begin": "1197.640",
+   "children": [],
+   "end": "1200.000",
+   "id": "f000461",
+   "language": "por",
+   "lines": [
+    "Que sem ela se d\u00e3o muito melhores:"
+   ]
+  },
+  {
+   "begin": "1200.000",
+   "children": [],
+   "end": "1202.840",
+   "id": "f000462",
+   "language": "por",
+   "lines": [
+    "As cerejas purp\u00fareas na pintura,"
+   ]
+  },
+  {
+   "begin": "1202.840",
+   "children": [],
+   "end": "1205.480",
+   "id": "f000463",
+   "language": "por",
+   "lines": [
+    "As amoras, que o nome t\u00eam de amores,"
+   ]
+  },
+  {
+   "begin": "1205.480",
+   "children": [],
+   "end": "1208.160",
+   "id": "f000464",
+   "language": "por",
+   "lines": [
+    "O pomo que da p\u00e1tria P\u00e9rsia veio,"
+   ]
+  },
+  {
+   "begin": "1208.160",
+   "children": [],
+   "end": "1210.400",
+   "id": "f000465",
+   "language": "por",
+   "lines": [
+    "Melhor tornado no terreno alheio."
+   ]
+  },
+  {
+   "begin": "1210.400",
+   "children": [],
+   "end": "1213.560",
+   "id": "f000466",
+   "language": "por",
+   "lines": [
+    "Abre a rom\u00e3, mostrando a rubicunda"
+   ]
+  },
+  {
+   "begin": "1213.560",
+   "children": [],
+   "end": "1216.880",
+   "id": "f000467",
+   "language": "por",
+   "lines": [
+    "Cor, com que tu, rubi, teu pre\u00e7o perdes;"
+   ]
+  },
+  {
+   "begin": "1216.880",
+   "children": [],
+   "end": "1219.320",
+   "id": "f000468",
+   "language": "por",
+   "lines": [
+    "Entre os bra\u00e7os do ulmeiro est\u00e1 a jocunda"
+   ]
+  },
+  {
+   "begin": "1219.320",
+   "children": [],
+   "end": "1222.680",
+   "id": "f000469",
+   "language": "por",
+   "lines": [
+    "Vide, com uns cachos roxos e outros verdes;"
+   ]
+  },
+  {
+   "begin": "1222.680",
+   "children": [],
+   "end": "1225.480",
+   "id": "f000470",
+   "language": "por",
+   "lines": [
+    "E v\u00f3s, se na vossa \u00e1rvore fecunda,"
+   ]
+  },
+  {
+   "begin": "1225.480",
+   "children": [],
+   "end": "1228.360",
+   "id": "f000471",
+   "language": "por",
+   "lines": [
+    "Peras piramidais, viver quiserdes,"
+   ]
+  },
+  {
+   "begin": "1228.360",
+   "children": [],
+   "end": "1230.840",
+   "id": "f000472",
+   "language": "por",
+   "lines": [
+    "Entregai-vos ao dano, que, com os bicos,"
+   ]
+  },
+  {
+   "begin": "1230.840",
+   "children": [],
+   "end": "1233.360",
+   "id": "f000473",
+   "language": "por",
+   "lines": [
+    "Em v\u00f3s fazem os p\u00e1ssaros inicos."
+   ]
+  },
+  {
+   "begin": "1233.360",
+   "children": [],
+   "end": "1236.480",
+   "id": "f000474",
+   "language": "por",
+   "lines": [
+    "Pois a tape\u00e7aria bela e fina,"
+   ]
+  },
+  {
+   "begin": "1236.480",
+   "children": [],
+   "end": "1238.520",
+   "id": "f000475",
+   "language": "por",
+   "lines": [
+    "Com que se cobre o r\u00fastico terreno,"
+   ]
+  },
+  {
+   "begin": "1238.520",
+   "children": [],
+   "end": "1241.240",
+   "id": "f000476",
+   "language": "por",
+   "lines": [
+    "Faz ser a de Aquem\u00e9nia menos diria,"
+   ]
+  },
+  {
+   "begin": "1241.240",
+   "children": [],
+   "end": "1243.760",
+   "id": "f000477",
+   "language": "por",
+   "lines": [
+    "Mas o sombrio vale mais ameno."
+   ]
+  },
+  {
+   "begin": "1243.760",
+   "children": [],
+   "end": "1247.680",
+   "id": "f000478",
+   "language": "por",
+   "lines": [
+    "Ali a cabe\u00e7a a flor Cif\u00edsia inclina"
+   ]
+  },
+  {
+   "begin": "1247.680",
+   "children": [],
+   "end": "1250.000",
+   "id": "f000479",
+   "language": "por",
+   "lines": [
+    "S\u00f4bolo tanque l\u00facido e sereno;"
+   ]
+  },
+  {
+   "begin": "1250.000",
+   "children": [],
+   "end": "1253.000",
+   "id": "f000480",
+   "language": "por",
+   "lines": [
+    "Floresce o filho e neto de Ciniras,"
+   ]
+  },
+  {
+   "begin": "1253.000",
+   "children": [],
+   "end": "1255.920",
+   "id": "f000481",
+   "language": "por",
+   "lines": [
+    "Por quem tu, Deusa P\u00e1fia, inda suspiras."
+   ]
+  },
+  {
+   "begin": "1255.920",
+   "children": [],
+   "end": "1259.120",
+   "id": "f000482",
+   "language": "por",
+   "lines": [
+    "Para julgar, dif\u00edcil coisa fora,"
+   ]
+  },
+  {
+   "begin": "1259.120",
+   "children": [],
+   "end": "1261.720",
+   "id": "f000483",
+   "language": "por",
+   "lines": [
+    "No c\u00e9u vendo e na terra as mesmas cores,"
+   ]
+  },
+  {
+   "begin": "1261.720",
+   "children": [],
+   "end": "1264.640",
+   "id": "f000484",
+   "language": "por",
+   "lines": [
+    "Se dava \u00e0s flores cor a bela Aurora,"
+   ]
+  },
+  {
+   "begin": "1264.640",
+   "children": [],
+   "end": "1267.480",
+   "id": "f000485",
+   "language": "por",
+   "lines": [
+    "Ou se lha d\u00e3o a ela as belas flores."
+   ]
+  },
+  {
+   "begin": "1267.480",
+   "children": [],
+   "end": "1270.640",
+   "id": "f000486",
+   "language": "por",
+   "lines": [
+    "Pintando estava ali Z\u00e9firo e Flora"
+   ]
+  },
+  {
+   "begin": "1270.640",
+   "children": [],
+   "end": "1272.920",
+   "id": "f000487",
+   "language": "por",
+   "lines": [
+    "As violas da cor dos amadores;"
+   ]
+  },
+  {
+   "begin": "1272.920",
+   "children": [],
+   "end": "1275.800",
+   "id": "f000488",
+   "language": "por",
+   "lines": [
+    "O l\u00edrio roxo, a fresca rosa bela,"
+   ]
+  },
+  {
+   "begin": "1275.800",
+   "children": [],
+   "end": "1278.640",
+   "id": "f000489",
+   "language": "por",
+   "lines": [
+    "Qual reluz nas faces da donzela;"
+   ]
+  },
+  {
+   "begin": "1278.640",
+   "children": [],
+   "end": "1281.360",
+   "id": "f000490",
+   "language": "por",
+   "lines": [
+    "A c\u00e2ndida cec\u00e9m, das matutinas"
+   ]
+  },
+  {
+   "begin": "1281.360",
+   "children": [],
+   "end": "1283.720",
+   "id": "f000491",
+   "language": "por",
+   "lines": [
+    "L\u00e1grimas rociada, e a manjarona."
+   ]
+  },
+  {
+   "begin": "1283.720",
+   "children": [],
+   "end": "1287.040",
+   "id": "f000492",
+   "language": "por",
+   "lines": [
+    "V\u00eaem-se as letras nas flores Hiacintinas,"
+   ]
+  },
+  {
+   "begin": "1287.040",
+   "children": [],
+   "end": "1289.280",
+   "id": "f000493",
+   "language": "por",
+   "lines": [
+    "T\u00e3o queridas do filho de Latona."
+   ]
+  },
+  {
+   "begin": "1289.280",
+   "children": [],
+   "end": "1292.400",
+   "id": "f000494",
+   "language": "por",
+   "lines": [
+    "Bem se enxerga nos pomos e boninas"
+   ]
+  },
+  {
+   "begin": "1292.400",
+   "children": [],
+   "end": "1294.400",
+   "id": "f000495",
+   "language": "por",
+   "lines": [
+    "Que competia Cloris com Pomona."
+   ]
+  },
+  {
+   "begin": "1294.400",
+   "children": [],
+   "end": "1297.800",
+   "id": "f000496",
+   "language": "por",
+   "lines": [
+    "Pois se as aves no ar cantando voam,"
+   ]
+  },
+  {
+   "begin": "1297.800",
+   "children": [],
+   "end": "1300.360",
+   "id": "f000497",
+   "language": "por",
+   "lines": [
+    "Alegres animais o ch\u00e3o povoam."
+   ]
+  },
+  {
+   "begin": "1300.360",
+   "children": [],
+   "end": "1304.040",
+   "id": "f000498",
+   "language": "por",
+   "lines": [
+    "Ao longo da \u00e1gua o n\u00edveo cisne canta,"
+   ]
+  },
+  {
+   "begin": "1304.040",
+   "children": [],
+   "end": "1306.200",
+   "id": "f000499",
+   "language": "por",
+   "lines": [
+    "Responde-lhe do ramo filomela;"
+   ]
+  },
+  {
+   "begin": "1306.200",
+   "children": [],
+   "end": "1309.400",
+   "id": "f000500",
+   "language": "por",
+   "lines": [
+    "Da sombra de seus cornos n\u00e3o se espanta"
+   ]
+  },
+  {
+   "begin": "1309.400",
+   "children": [],
+   "end": "1311.880",
+   "id": "f000501",
+   "language": "por",
+   "lines": [
+    "Acteon, n'\u00e1gua cristalina e bela;"
+   ]
+  },
+  {
+   "begin": "1311.880",
+   "children": [],
+   "end": "1315.160",
+   "id": "f000502",
+   "language": "por",
+   "lines": [
+    "Aqui a fugace lebre se levanta"
+   ]
+  },
+  {
+   "begin": "1315.160",
+   "children": [],
+   "end": "1317.800",
+   "id": "f000503",
+   "language": "por",
+   "lines": [
+    "Da espessa mata, ou t\u00edmida gazela;"
+   ]
+  },
+  {
+   "begin": "1317.800",
+   "children": [],
+   "end": "1320.840",
+   "id": "f000504",
+   "language": "por",
+   "lines": [
+    "Ali no bico traz ao caro ninho"
+   ]
+  },
+  {
+   "begin": "1320.840",
+   "children": [],
+   "end": "1322.840",
+   "id": "f000505",
+   "language": "por",
+   "lines": [
+    "O mantimento o leve passarinho."
+   ]
+  },
+  {
+   "begin": "1322.840",
+   "children": [],
+   "end": "1326.600",
+   "id": "f000506",
+   "language": "por",
+   "lines": [
+    "Nesta frescura tal desembarcavam"
+   ]
+  },
+  {
+   "begin": "1326.600",
+   "children": [],
+   "end": "1329.440",
+   "id": "f000507",
+   "language": "por",
+   "lines": [
+    "J\u00e1 das naus os segundos Argonautas,"
+   ]
+  },
+  {
+   "begin": "1329.440",
+   "children": [],
+   "end": "1331.640",
+   "id": "f000508",
+   "language": "por",
+   "lines": [
+    "Onde pela floresta se deixavam"
+   ]
+  },
+  {
+   "begin": "1331.640",
+   "children": [],
+   "end": "1334.200",
+   "id": "f000509",
+   "language": "por",
+   "lines": [
+    "Andar as belas Deusas, como incautas."
+   ]
+  },
+  {
+   "begin": "1334.200",
+   "children": [],
+   "end": "1336.800",
+   "id": "f000510",
+   "language": "por",
+   "lines": [
+    "Algumas doces c\u00edtaras tocavam,"
+   ]
+  },
+  {
+   "begin": "1336.800",
+   "children": [],
+   "end": "1339.600",
+   "id": "f000511",
+   "language": "por",
+   "lines": [
+    "Algumas harpas e sonoras flautas,"
+   ]
+  },
+  {
+   "begin": "1339.600",
+   "children": [],
+   "end": "1342.600",
+   "id": "f000512",
+   "language": "por",
+   "lines": [
+    "Outras com os arcos de ouro se fingiam"
+   ]
+  },
+  {
+   "begin": "1342.600",
+   "children": [],
+   "end": "1344.840",
+   "id": "f000513",
+   "language": "por",
+   "lines": [
+    "Seguir os animais, que n\u00e3o seguiam."
+   ]
+  },
+  {
+   "begin": "1344.840",
+   "children": [],
+   "end": "1348.160",
+   "id": "f000514",
+   "language": "por",
+   "lines": [
+    "Assim lhe aconselhara a mestra experta;"
+   ]
+  },
+  {
+   "begin": "1348.160",
+   "children": [],
+   "end": "1350.760",
+   "id": "f000515",
+   "language": "por",
+   "lines": [
+    "Que andassem pelos campos espalhadas;"
+   ]
+  },
+  {
+   "begin": "1350.760",
+   "children": [],
+   "end": "1353.400",
+   "id": "f000516",
+   "language": "por",
+   "lines": [
+    "Que, vista dos bar\u00f5es a presa incerta,"
+   ]
+  },
+  {
+   "begin": "1353.400",
+   "children": [],
+   "end": "1355.920",
+   "id": "f000517",
+   "language": "por",
+   "lines": [
+    "Se fizessem primeiro desejadas."
+   ]
+  },
+  {
+   "begin": "1355.920",
+   "children": [],
+   "end": "1358.600",
+   "id": "f000518",
+   "language": "por",
+   "lines": [
+    "Algumas, que na forma descoberta"
+   ]
+  },
+  {
+   "begin": "1358.600",
+   "children": [],
+   "end": "1361.040",
+   "id": "f000519",
+   "language": "por",
+   "lines": [
+    "Do belo corpo estavam confiadas,"
+   ]
+  },
+  {
+   "begin": "1361.040",
+   "children": [],
+   "end": "1363.360",
+   "id": "f000520",
+   "language": "por",
+   "lines": [
+    "Posta a artificiosa formosura,"
+   ]
+  },
+  {
+   "begin": "1363.360",
+   "children": [],
+   "end": "1366.040",
+   "id": "f000521",
+   "language": "por",
+   "lines": [
+    "Nuas lavar-se deixam na \u00e1gua pura,"
+   ]
+  },
+  {
+   "begin": "1366.040",
+   "children": [],
+   "end": "1369.760",
+   "id": "f000522",
+   "language": "por",
+   "lines": [
+    "Mas os fortes mancebos, que na praia"
+   ]
+  },
+  {
+   "begin": "1369.760",
+   "children": [],
+   "end": "1372.040",
+   "id": "f000523",
+   "language": "por",
+   "lines": [
+    "Punham os p\u00e9s, de terra cobi\u00e7osos,"
+   ]
+  },
+  {
+   "begin": "1372.040",
+   "children": [],
+   "end": "1374.600",
+   "id": "f000524",
+   "language": "por",
+   "lines": [
+    "Que n\u00e3o h\u00e1 nenhum deles que n\u00e3o saia"
+   ]
+  },
+  {
+   "begin": "1374.600",
+   "children": [],
+   "end": "1377.520",
+   "id": "f000525",
+   "language": "por",
+   "lines": [
+    "De acharem ca\u00e7a agreste desejosos,"
+   ]
+  },
+  {
+   "begin": "1377.520",
+   "children": [],
+   "end": "1380.240",
+   "id": "f000526",
+   "language": "por",
+   "lines": [
+    "N\u00e3o cuidam que, sem la\u00e7o ou redes, caia"
+   ]
+  },
+  {
+   "begin": "1380.240",
+   "children": [],
+   "end": "1382.480",
+   "id": "f000527",
+   "language": "por",
+   "lines": [
+    "Ca\u00e7a naqueles montes deleitosos,"
+   ]
+  },
+  {
+   "begin": "1382.480",
+   "children": [],
+   "end": "1384.640",
+   "id": "f000528",
+   "language": "por",
+   "lines": [
+    "T\u00e3o suave, dom\u00e9stica e benigna,"
+   ]
+  },
+  {
+   "begin": "1384.640",
+   "children": [],
+   "end": "1387.480",
+   "id": "f000529",
+   "language": "por",
+   "lines": [
+    "Qual ferida lha tinha j\u00e1 Ericina."
+   ]
+  },
+  {
+   "begin": "1387.480",
+   "children": [],
+   "end": "1391.320",
+   "id": "f000530",
+   "language": "por",
+   "lines": [
+    "Alguns, que em espingardas e nas bestas,"
+   ]
+  },
+  {
+   "begin": "1391.320",
+   "children": [],
+   "end": "1393.320",
+   "id": "f000531",
+   "language": "por",
+   "lines": [
+    "Para ferir os cervos se fiavam,"
+   ]
+  },
+  {
+   "begin": "1393.320",
+   "children": [],
+   "end": "1395.880",
+   "id": "f000532",
+   "language": "por",
+   "lines": [
+    "Pelos sombrios matos e florestas"
+   ]
+  },
+  {
+   "begin": "1395.880",
+   "children": [],
+   "end": "1397.800",
+   "id": "f000533",
+   "language": "por",
+   "lines": [
+    "Determinadamente se lan\u00e7avam:"
+   ]
+  },
+  {
+   "begin": "1397.800",
+   "children": [],
+   "end": "1401.120",
+   "id": "f000534",
+   "language": "por",
+   "lines": [
+    "Outros, nas sombras, que de as altas sestas"
+   ]
+  },
+  {
+   "begin": "1401.120",
+   "children": [],
+   "end": "1403.000",
+   "id": "f000535",
+   "language": "por",
+   "lines": [
+    "Defendem a verdura, passeavam"
+   ]
+  },
+  {
+   "begin": "1403.000",
+   "children": [],
+   "end": "1405.360",
+   "id": "f000536",
+   "language": "por",
+   "lines": [
+    "Ao longo da \u00e1gua que, suave e queda,"
+   ]
+  },
+  {
+   "begin": "1405.360",
+   "children": [],
+   "end": "1408.480",
+   "id": "f000537",
+   "language": "por",
+   "lines": [
+    "Por alvas pedras corre \u00e0 praia leda."
+   ]
+  },
+  {
+   "begin": "1408.480",
+   "children": [],
+   "end": "1412.360",
+   "id": "f000538",
+   "language": "por",
+   "lines": [
+    "Come\u00e7am de enxergar subitamente"
+   ]
+  },
+  {
+   "begin": "1412.360",
+   "children": [],
+   "end": "1414.840",
+   "id": "f000539",
+   "language": "por",
+   "lines": [
+    "Por entre verdes ramos v\u00e1rias cores,"
+   ]
+  },
+  {
+   "begin": "1414.840",
+   "children": [],
+   "end": "1417.400",
+   "id": "f000540",
+   "language": "por",
+   "lines": [
+    "Cores de quem a vista julga e sente"
+   ]
+  },
+  {
+   "begin": "1417.400",
+   "children": [],
+   "end": "1419.560",
+   "id": "f000541",
+   "language": "por",
+   "lines": [
+    "Que n\u00e3o eram das rosas ou das flores,"
+   ]
+  },
+  {
+   "begin": "1419.560",
+   "children": [],
+   "end": "1422.520",
+   "id": "f000542",
+   "language": "por",
+   "lines": [
+    "Mas da l\u00e3 fina e seda diferente,"
+   ]
+  },
+  {
+   "begin": "1422.520",
+   "children": [],
+   "end": "1424.960",
+   "id": "f000543",
+   "language": "por",
+   "lines": [
+    "Que mais incita a for\u00e7a dos amores,"
+   ]
+  },
+  {
+   "begin": "1424.960",
+   "children": [],
+   "end": "1427.480",
+   "id": "f000544",
+   "language": "por",
+   "lines": [
+    "De que se vestem as humanas rosas,"
+   ]
+  },
+  {
+   "begin": "1427.480",
+   "children": [],
+   "end": "1430.240",
+   "id": "f000545",
+   "language": "por",
+   "lines": [
+    "Fazendo-se por arte mais formosas."
+   ]
+  },
+  {
+   "begin": "1430.240",
+   "children": [],
+   "end": "1433.400",
+   "id": "f000546",
+   "language": "por",
+   "lines": [
+    "D\u00e1 Veloso espantado um grande grito:"
+   ]
+  },
+  {
+   "begin": "1433.400",
+   "children": [],
+   "end": "1436.560",
+   "id": "f000547",
+   "language": "por",
+   "lines": [
+    "\"Senhores, ca\u00e7a estranha, disse, \u00e9 esta!"
+   ]
+  },
+  {
+   "begin": "1436.560",
+   "children": [],
+   "end": "1439.200",
+   "id": "f000548",
+   "language": "por",
+   "lines": [
+    "Se ainda dura o Gentio antigo rito,"
+   ]
+  },
+  {
+   "begin": "1439.200",
+   "children": [],
+   "end": "1441.880",
+   "id": "f000549",
+   "language": "por",
+   "lines": [
+    "A Deusas \u00e9 sagrada esta floresta."
+   ]
+  },
+  {
+   "begin": "1441.880",
+   "children": [],
+   "end": "1444.880",
+   "id": "f000550",
+   "language": "por",
+   "lines": [
+    "Mais descobrimos do que humano esp\u00edrito"
+   ]
+  },
+  {
+   "begin": "1444.880",
+   "children": [],
+   "end": "1447.160",
+   "id": "f000551",
+   "language": "por",
+   "lines": [
+    "Desejou nunca; e bem se manifesta"
+   ]
+  },
+  {
+   "begin": "1447.160",
+   "children": [],
+   "end": "1449.800",
+   "id": "f000552",
+   "language": "por",
+   "lines": [
+    "Que s\u00e3o grandes as coisas e excelentes,"
+   ]
+  },
+  {
+   "begin": "1449.800",
+   "children": [],
+   "end": "1452.560",
+   "id": "f000553",
+   "language": "por",
+   "lines": [
+    "Que o mundo encobre aos homens imprudentes."
+   ]
+  },
+  {
+   "begin": "1452.560",
+   "children": [],
+   "end": "1455.520",
+   "id": "f000554",
+   "language": "por",
+   "lines": [
+    "\"Sigamos estas Deusas, e vejamos"
+   ]
+  },
+  {
+   "begin": "1455.520",
+   "children": [],
+   "end": "1457.920",
+   "id": "f000555",
+   "language": "por",
+   "lines": [
+    "Se fant\u00e1sticas s\u00e3o, se verdadeiras.\""
+   ]
+  },
+  {
+   "begin": "1457.920",
+   "children": [],
+   "end": "1461.120",
+   "id": "f000556",
+   "language": "por",
+   "lines": [
+    "Isto dito, velozes mais que gamos,"
+   ]
+  },
+  {
+   "begin": "1461.120",
+   "children": [],
+   "end": "1463.480",
+   "id": "f000557",
+   "language": "por",
+   "lines": [
+    "Se lan\u00e7am a correr pelas ribeiras."
+   ]
+  },
+  {
+   "begin": "1463.480",
+   "children": [],
+   "end": "1466.440",
+   "id": "f000558",
+   "language": "por",
+   "lines": [
+    "Fugindo as Ninfas v\u00e3o por entre os ramos,"
+   ]
+  },
+  {
+   "begin": "1466.440",
+   "children": [],
+   "end": "1469.120",
+   "id": "f000559",
+   "language": "por",
+   "lines": [
+    "Mas, mais industriosas que ligeiras,"
+   ]
+  },
+  {
+   "begin": "1469.120",
+   "children": [],
+   "end": "1472.200",
+   "id": "f000560",
+   "language": "por",
+   "lines": [
+    "Pouco e pouco sorrindo e gritos dando,"
+   ]
+  },
+  {
+   "begin": "1472.200",
+   "children": [],
+   "end": "1474.920",
+   "id": "f000561",
+   "language": "por",
+   "lines": [
+    "Se deixam ir dos galgos alcan\u00e7ando."
+   ]
+  },
+  {
+   "begin": "1474.920",
+   "children": [],
+   "end": "1478.640",
+   "id": "f000562",
+   "language": "por",
+   "lines": [
+    "De uma os cabelos de ouro o vento leva"
+   ]
+  },
+  {
+   "begin": "1478.640",
+   "children": [],
+   "end": "1481.400",
+   "id": "f000563",
+   "language": "por",
+   "lines": [
+    "Correndo, e de outra as fraldas delicadas;"
+   ]
+  },
+  {
+   "begin": "1481.400",
+   "children": [],
+   "end": "1483.960",
+   "id": "f000564",
+   "language": "por",
+   "lines": [
+    "Acende-se o desejo, que se ceva"
+   ]
+  },
+  {
+   "begin": "1483.960",
+   "children": [],
+   "end": "1486.440",
+   "id": "f000565",
+   "language": "por",
+   "lines": [
+    "Nas alvas carnes s\u00fabito mostradas;"
+   ]
+  },
+  {
+   "begin": "1486.440",
+   "children": [],
+   "end": "1489.360",
+   "id": "f000566",
+   "language": "por",
+   "lines": [
+    "Uma de ind\u00fastria cai, e j\u00e1 releva,"
+   ]
+  },
+  {
+   "begin": "1489.360",
+   "children": [],
+   "end": "1492.080",
+   "id": "f000567",
+   "language": "por",
+   "lines": [
+    "Com mostras mais macias que indignadas,"
+   ]
+  },
+  {
+   "begin": "1492.080",
+   "children": [],
+   "end": "1494.920",
+   "id": "f000568",
+   "language": "por",
+   "lines": [
+    "Que sobre ela, empecendo, tamb\u00e9m caia"
+   ]
+  },
+  {
+   "begin": "1494.920",
+   "children": [],
+   "end": "1497.000",
+   "id": "f000569",
+   "language": "por",
+   "lines": [
+    "Quem a seguiu pela arenosa praia."
+   ]
+  },
+  {
+   "begin": "1497.000",
+   "children": [],
+   "end": "1499.880",
+   "id": "f000570",
+   "language": "por",
+   "lines": [
+    "Outros, por outra parte, v\u00e3o topar"
+   ]
+  },
+  {
+   "begin": "1499.880",
+   "children": [],
+   "end": "1501.960",
+   "id": "f000571",
+   "language": "por",
+   "lines": [
+    "Com as Deusas despidas, que se lavam:"
+   ]
+  },
+  {
+   "begin": "1501.960",
+   "children": [],
+   "end": "1504.440",
+   "id": "f000572",
+   "language": "por",
+   "lines": [
+    "Elas come\u00e7am s\u00fabito a gritar,"
+   ]
+  },
+  {
+   "begin": "1504.440",
+   "children": [],
+   "end": "1506.680",
+   "id": "f000573",
+   "language": "por",
+   "lines": [
+    "Como que assalto tal n\u00e3o esperavam."
+   ]
+  },
+  {
+   "begin": "1506.680",
+   "children": [],
+   "end": "1509.600",
+   "id": "f000574",
+   "language": "por",
+   "lines": [
+    "Umas, fingindo menos estimar"
+   ]
+  },
+  {
+   "begin": "1509.600",
+   "children": [],
+   "end": "1511.680",
+   "id": "f000575",
+   "language": "por",
+   "lines": [
+    "A vergonha que a for\u00e7a, se lan\u00e7avam"
+   ]
+  },
+  {
+   "begin": "1511.680",
+   "children": [],
+   "end": "1514.120",
+   "id": "f000576",
+   "language": "por",
+   "lines": [
+    "Nuas por entre o mato, aos olhos dando"
+   ]
+  },
+  {
+   "begin": "1514.120",
+   "children": [],
+   "end": "1516.840",
+   "id": "f000577",
+   "language": "por",
+   "lines": [
+    "O que \u00e0s m\u00e3os cobi\u00e7osas v\u00e3o negando."
+   ]
+  },
+  {
+   "begin": "1516.840",
+   "children": [],
+   "end": "1520.160",
+   "id": "f000578",
+   "language": "por",
+   "lines": [
+    "Outra, como acudindo mais depressa"
+   ]
+  },
+  {
+   "begin": "1520.160",
+   "children": [],
+   "end": "1521.960",
+   "id": "f000579",
+   "language": "por",
+   "lines": [
+    "A vergonha da Deusa ca\u00e7adora,"
+   ]
+  },
+  {
+   "begin": "1521.960",
+   "children": [],
+   "end": "1524.840",
+   "id": "f000580",
+   "language": "por",
+   "lines": [
+    "Esconde o corpo n'\u00e1gua; outra se apressa"
+   ]
+  },
+  {
+   "begin": "1524.840",
+   "children": [],
+   "end": "1527.080",
+   "id": "f000581",
+   "language": "por",
+   "lines": [
+    "Por tomar os vestidos, que tem fora."
+   ]
+  },
+  {
+   "begin": "1527.080",
+   "children": [],
+   "end": "1529.680",
+   "id": "f000582",
+   "language": "por",
+   "lines": [
+    "Tal dos mancebos h\u00e1, que se arremessa,"
+   ]
+  },
+  {
+   "begin": "1529.680",
+   "children": [],
+   "end": "1532.520",
+   "id": "f000583",
+   "language": "por",
+   "lines": [
+    "Vestido assim e cal\u00e7ado (que, coa mora"
+   ]
+  },
+  {
+   "begin": "1532.520",
+   "children": [],
+   "end": "1535.000",
+   "id": "f000584",
+   "language": "por",
+   "lines": [
+    "De se despir, h\u00e1 medo que ainda tarde)"
+   ]
+  },
+  {
+   "begin": "1535.000",
+   "children": [],
+   "end": "1537.680",
+   "id": "f000585",
+   "language": "por",
+   "lines": [
+    "A matar na \u00e1gua o fogo que nele arde."
+   ]
+  },
+  {
+   "begin": "1537.680",
+   "children": [],
+   "end": "1541.320",
+   "id": "f000586",
+   "language": "por",
+   "lines": [
+    "Qual c\u00e3o de ca\u00e7ador, sagaz e ardido,"
+   ]
+  },
+  {
+   "begin": "1541.320",
+   "children": [],
+   "end": "1543.840",
+   "id": "f000587",
+   "language": "por",
+   "lines": [
+    "Usado a tomar na \u00e1gua a ave ferida,"
+   ]
+  },
+  {
+   "begin": "1543.840",
+   "children": [],
+   "end": "1546.920",
+   "id": "f000588",
+   "language": "por",
+   "lines": [
+    "Vendo no rosto o f\u00e9rreo cano erguido"
+   ]
+  },
+  {
+   "begin": "1546.920",
+   "children": [],
+   "end": "1549.080",
+   "id": "f000589",
+   "language": "por",
+   "lines": [
+    "Para a garcenha ou pata conhecida,"
+   ]
+  },
+  {
+   "begin": "1549.080",
+   "children": [],
+   "end": "1551.840",
+   "id": "f000590",
+   "language": "por",
+   "lines": [
+    "Antes que soe o estouro, mal sofrido"
+   ]
+  },
+  {
+   "begin": "1551.840",
+   "children": [],
+   "end": "1554.080",
+   "id": "f000591",
+   "language": "por",
+   "lines": [
+    "Salta n'\u00e1gua, e da presa n\u00e3o duvida,"
+   ]
+  },
+  {
+   "begin": "1554.080",
+   "children": [],
+   "end": "1557.800",
+   "id": "f000592",
+   "language": "por",
+   "lines": [
+    "Nadando vai e latindo: assim o mancebo"
+   ]
+  },
+  {
+   "begin": "1557.800",
+   "children": [],
+   "end": "1559.880",
+   "id": "f000593",
+   "language": "por",
+   "lines": [
+    "Remete \u00e0 que n\u00e3o era irm\u00e3 de Febo."
+   ]
+  },
+  {
+   "begin": "1559.880",
+   "children": [],
+   "end": "1563.440",
+   "id": "f000594",
+   "language": "por",
+   "lines": [
+    "Leonardo, soldado bem disposto,"
+   ]
+  },
+  {
+   "begin": "1563.440",
+   "children": [],
+   "end": "1565.440",
+   "id": "f000595",
+   "language": "por",
+   "lines": [
+    "Manhoso, cavaleiro e namorado,"
+   ]
+  },
+  {
+   "begin": "1565.440",
+   "children": [],
+   "end": "1568.360",
+   "id": "f000596",
+   "language": "por",
+   "lines": [
+    "A quem amor n\u00e3o dera um s\u00f3 desgosto,"
+   ]
+  },
+  {
+   "begin": "1568.360",
+   "children": [],
+   "end": "1570.400",
+   "id": "f000597",
+   "language": "por",
+   "lines": [
+    "Mas sempre fora dele maltratado,"
+   ]
+  },
+  {
+   "begin": "1570.400",
+   "children": [],
+   "end": "1573.280",
+   "id": "f000598",
+   "language": "por",
+   "lines": [
+    "E tinha j\u00e1 por firme pressuposto"
+   ]
+  },
+  {
+   "begin": "1573.280",
+   "children": [],
+   "end": "1575.280",
+   "id": "f000599",
+   "language": "por",
+   "lines": [
+    "Ser com amores mal afortunado,"
+   ]
+  },
+  {
+   "begin": "1575.280",
+   "children": [],
+   "end": "1577.880",
+   "id": "f000600",
+   "language": "por",
+   "lines": [
+    "Por\u00e9m n\u00e3o que perdesse a esperan\u00e7a"
+   ]
+  },
+  {
+   "begin": "1577.880",
+   "children": [],
+   "end": "1580.120",
+   "id": "f000601",
+   "language": "por",
+   "lines": [
+    "De ainda poder seu fado ter mudan\u00e7a,"
+   ]
+  },
+  {
+   "begin": "1580.120",
+   "children": [],
+   "end": "1583.040",
+   "id": "f000602",
+   "language": "por",
+   "lines": [
+    "Quis aqui sua ventura, que corria"
+   ]
+  },
+  {
+   "begin": "1583.040",
+   "children": [],
+   "end": "1585.080",
+   "id": "f000603",
+   "language": "por",
+   "lines": [
+    "Ap\u00f3s Efire, exemplo de beleza,"
+   ]
+  },
+  {
+   "begin": "1585.080",
+   "children": [],
+   "end": "1588.280",
+   "id": "f000604",
+   "language": "por",
+   "lines": [
+    "Que mais caro que as outras dar queria"
+   ]
+  },
+  {
+   "begin": "1588.280",
+   "children": [],
+   "end": "1590.360",
+   "id": "f000605",
+   "language": "por",
+   "lines": [
+    "O que deu para dar-se a natureza."
+   ]
+  },
+  {
+   "begin": "1590.360",
+   "children": [],
+   "end": "1593.280",
+   "id": "f000606",
+   "language": "por",
+   "lines": [
+    "J\u00e1 cansado correndo lhe dizia:"
+   ]
+  },
+  {
+   "begin": "1593.280",
+   "children": [],
+   "end": "1596.040",
+   "id": "f000607",
+   "language": "por",
+   "lines": [
+    "\"\u00d3 formosura indigna de aspereza,"
+   ]
+  },
+  {
+   "begin": "1596.040",
+   "children": [],
+   "end": "1598.840",
+   "id": "f000608",
+   "language": "por",
+   "lines": [
+    "Pois desta vida te concedo a palma,"
+   ]
+  },
+  {
+   "begin": "1598.840",
+   "children": [],
+   "end": "1601.520",
+   "id": "f000609",
+   "language": "por",
+   "lines": [
+    "Espera um corpo de quem levas a alma."
+   ]
+  },
+  {
+   "begin": "1601.520",
+   "children": [],
+   "end": "1604.520",
+   "id": "f000610",
+   "language": "por",
+   "lines": [
+    "\"Todas de correr cansam, Ninfa pura,"
+   ]
+  },
+  {
+   "begin": "1604.520",
+   "children": [],
+   "end": "1606.520",
+   "id": "f000611",
+   "language": "por",
+   "lines": [
+    "Rendendo-se \u00e0 vontade do inimigo,"
+   ]
+  },
+  {
+   "begin": "1606.520",
+   "children": [],
+   "end": "1609.760",
+   "id": "f000612",
+   "language": "por",
+   "lines": [
+    "Tu s\u00f3 de mi s\u00f3 foges na espessura?"
+   ]
+  },
+  {
+   "begin": "1609.760",
+   "children": [],
+   "end": "1612.320",
+   "id": "f000613",
+   "language": "por",
+   "lines": [
+    "Quem te disse que eu era o que te sigo?"
+   ]
+  },
+  {
+   "begin": "1612.320",
+   "children": [],
+   "end": "1614.920",
+   "id": "f000614",
+   "language": "por",
+   "lines": [
+    "Se to tem dito j\u00e1 aquela ventura,"
+   ]
+  },
+  {
+   "begin": "1614.920",
+   "children": [],
+   "end": "1617.360",
+   "id": "f000615",
+   "language": "por",
+   "lines": [
+    "Que em toda a parte sempre anda comigo,"
+   ]
+  },
+  {
+   "begin": "1617.360",
+   "children": [],
+   "end": "1620.360",
+   "id": "f000616",
+   "language": "por",
+   "lines": [
+    "\u00d3 n\u00e3o na creias, porque eu, quando a cria,"
+   ]
+  },
+  {
+   "begin": "1620.360",
+   "children": [],
+   "end": "1622.600",
+   "id": "f000617",
+   "language": "por",
+   "lines": [
+    "Mil vezes cada hora me mentia."
+   ]
+  },
+  {
+   "begin": "1622.600",
+   "children": [],
+   "end": "1625.680",
+   "id": "f000618",
+   "language": "por",
+   "lines": [
+    "\"N\u00e3o canses, que me cansas: e se queres"
+   ]
+  },
+  {
+   "begin": "1625.680",
+   "children": [],
+   "end": "1627.720",
+   "id": "f000619",
+   "language": "por",
+   "lines": [
+    "Fugir-me, por que n\u00e3o possa tocar-te,"
+   ]
+  },
+  {
+   "begin": "1627.720",
+   "children": [],
+   "end": "1630.520",
+   "id": "f000620",
+   "language": "por",
+   "lines": [
+    "Minha ventura \u00e9 tal que, ainda que esperes,"
+   ]
+  },
+  {
+   "begin": "1630.520",
+   "children": [],
+   "end": "1632.760",
+   "id": "f000621",
+   "language": "por",
+   "lines": [
+    "Ela far\u00e1 que n\u00e3o possa alcan\u00e7ar-te."
+   ]
+  },
+  {
+   "begin": "1632.760",
+   "children": [],
+   "end": "1635.400",
+   "id": "f000622",
+   "language": "por",
+   "lines": [
+    "Espora; quero ver, se tu quiseres,"
+   ]
+  },
+  {
+   "begin": "1635.400",
+   "children": [],
+   "end": "1637.760",
+   "id": "f000623",
+   "language": "por",
+   "lines": [
+    "Que subtil modo busca de escapar-te,"
+   ]
+  },
+  {
+   "begin": "1637.760",
+   "children": [],
+   "end": "1640.360",
+   "id": "f000624",
+   "language": "por",
+   "lines": [
+    "E notar\u00e1s, no fim deste sucesso,"
+   ]
+  },
+  {
+   "begin": "1640.360",
+   "children": [],
+   "end": "1643.560",
+   "id": "f000625",
+   "language": "por",
+   "lines": [
+    "Tra la spica e la man, qual muro \u00e8 messo."
+   ]
+  },
+  {
+   "begin": "1643.560",
+   "children": [],
+   "end": "1646.960",
+   "id": "f000626",
+   "language": "por",
+   "lines": [
+    "\"\u00d3 n\u00e3o me fujas! Assim nunca o breve"
+   ]
+  },
+  {
+   "begin": "1646.960",
+   "children": [],
+   "end": "1649.200",
+   "id": "f000627",
+   "language": "por",
+   "lines": [
+    "Tempo fuja de tua formosura!"
+   ]
+  },
+  {
+   "begin": "1649.200",
+   "children": [],
+   "end": "1651.600",
+   "id": "f000628",
+   "language": "por",
+   "lines": [
+    "Que, s\u00f3 com refrear o passo leve,"
+   ]
+  },
+  {
+   "begin": "1651.600",
+   "children": [],
+   "end": "1654.200",
+   "id": "f000629",
+   "language": "por",
+   "lines": [
+    "Vencer\u00e1s da fortuna a for\u00e7a dura."
+   ]
+  },
+  {
+   "begin": "1654.200",
+   "children": [],
+   "end": "1657.120",
+   "id": "f000630",
+   "language": "por",
+   "lines": [
+    "Que Imperador, que ex\u00e9rcito se atreve"
+   ]
+  },
+  {
+   "begin": "1657.120",
+   "children": [],
+   "end": "1659.000",
+   "id": "f000631",
+   "language": "por",
+   "lines": [
+    "A quebrantar a f\u00faria da ventura,"
+   ]
+  },
+  {
+   "begin": "1659.000",
+   "children": [],
+   "end": "1661.000",
+   "id": "f000632",
+   "language": "por",
+   "lines": [
+    "Que, em quanto desejei, me vai seguindo,"
+   ]
+  },
+  {
+   "begin": "1661.000",
+   "children": [],
+   "end": "1663.880",
+   "id": "f000633",
+   "language": "por",
+   "lines": [
+    "O que tu s\u00f3 far\u00e1s n\u00e3o me fugindo!"
+   ]
+  },
+  {
+   "begin": "1663.880",
+   "children": [],
+   "end": "1667.120",
+   "id": "f000634",
+   "language": "por",
+   "lines": [
+    "\"P\u00f5es-te da parte da desdita minha?"
+   ]
+  },
+  {
+   "begin": "1667.120",
+   "children": [],
+   "end": "1669.920",
+   "id": "f000635",
+   "language": "por",
+   "lines": [
+    "Fraqueza \u00e9 dar ajuda ao mais potente."
+   ]
+  },
+  {
+   "begin": "1669.920",
+   "children": [],
+   "end": "1672.680",
+   "id": "f000636",
+   "language": "por",
+   "lines": [
+    "Levas-me um cora\u00e7\u00e3o, que livre tinha?"
+   ]
+  },
+  {
+   "begin": "1672.680",
+   "children": [],
+   "end": "1675.400",
+   "id": "f000637",
+   "language": "por",
+   "lines": [
+    "Solta-me, e correr\u00e1s mais levemente."
+   ]
+  },
+  {
+   "begin": "1675.400",
+   "children": [],
+   "end": "1678.200",
+   "id": "f000638",
+   "language": "por",
+   "lines": [
+    "N\u00e3o te carrega essa alma t\u00e3o mesquinha,"
+   ]
+  },
+  {
+   "begin": "1678.200",
+   "children": [],
+   "end": "1680.360",
+   "id": "f000639",
+   "language": "por",
+   "lines": [
+    "Que nesses fios de ouro reluzente"
+   ]
+  },
+  {
+   "begin": "1680.360",
+   "children": [],
+   "end": "1682.840",
+   "id": "f000640",
+   "language": "por",
+   "lines": [
+    "Atada levas? Ou, depois de presa,"
+   ]
+  },
+  {
+   "begin": "1682.840",
+   "children": [],
+   "end": "1685.120",
+   "id": "f000641",
+   "language": "por",
+   "lines": [
+    "Lhe mudaste a ventura, e menos pesa?"
+   ]
+  },
+  {
+   "begin": "1685.120",
+   "children": [],
+   "end": "1688.360",
+   "id": "f000642",
+   "language": "por",
+   "lines": [
+    "\"Nesta esperan\u00e7a s\u00f3 te vou seguindo:"
+   ]
+  },
+  {
+   "begin": "1688.360",
+   "children": [],
+   "end": "1690.880",
+   "id": "f000643",
+   "language": "por",
+   "lines": [
+    "Que, ou tu n\u00e3o sofrer\u00e1s o peso dela,"
+   ]
+  },
+  {
+   "begin": "1690.880",
+   "children": [],
+   "end": "1693.680",
+   "id": "f000644",
+   "language": "por",
+   "lines": [
+    "Ou na virtude de teu gesto lindo"
+   ]
+  },
+  {
+   "begin": "1693.680",
+   "children": [],
+   "end": "1696.080",
+   "id": "f000645",
+   "language": "por",
+   "lines": [
+    "Lhe mudar\u00e1s a triste e dura estrela:"
+   ]
+  },
+  {
+   "begin": "1696.080",
+   "children": [],
+   "end": "1698.840",
+   "id": "f000646",
+   "language": "por",
+   "lines": [
+    "E se se lhe mudar, n\u00e3o v\u00e1s fugindo,"
+   ]
+  },
+  {
+   "begin": "1698.840",
+   "children": [],
+   "end": "1701.120",
+   "id": "f000647",
+   "language": "por",
+   "lines": [
+    "Que Amor te ferir\u00e1, gentil donzela,"
+   ]
+  },
+  {
+   "begin": "1701.120",
+   "children": [],
+   "end": "1703.920",
+   "id": "f000648",
+   "language": "por",
+   "lines": [
+    "E tu me esperar\u00e1s, se Amor te fere:"
+   ]
+  },
+  {
+   "begin": "1703.920",
+   "children": [],
+   "end": "1706.800",
+   "id": "f000649",
+   "language": "por",
+   "lines": [
+    "E se me esperas, n\u00e3o h\u00e1 mais que espere.\""
+   ]
+  },
+  {
+   "begin": "1706.800",
+   "children": [],
+   "end": "1710.280",
+   "id": "f000650",
+   "language": "por",
+   "lines": [
+    "J\u00e1 n\u00e3o fugia a bela Ninfa, tanto"
+   ]
+  },
+  {
+   "begin": "1710.280",
+   "children": [],
+   "end": "1712.640",
+   "id": "f000651",
+   "language": "por",
+   "lines": [
+    "Por se dar cara ao triste que a seguia,"
+   ]
+  },
+  {
+   "begin": "1712.640",
+   "children": [],
+   "end": "1714.960",
+   "id": "f000652",
+   "language": "por",
+   "lines": [
+    "Como por ir ouvindo o doce canto,"
+   ]
+  },
+  {
+   "begin": "1714.960",
+   "children": [],
+   "end": "1717.280",
+   "id": "f000653",
+   "language": "por",
+   "lines": [
+    "As namoradas m\u00e1goas que dizia."
+   ]
+  },
+  {
+   "begin": "1717.280",
+   "children": [],
+   "end": "1720.480",
+   "id": "f000654",
+   "language": "por",
+   "lines": [
+    "Volvendo o rosto j\u00e1 sereno e santo,"
+   ]
+  },
+  {
+   "begin": "1720.480",
+   "children": [],
+   "end": "1722.760",
+   "id": "f000655",
+   "language": "por",
+   "lines": [
+    "Toda banhada em riso e alegria,"
+   ]
+  },
+  {
+   "begin": "1722.760",
+   "children": [],
+   "end": "1725.440",
+   "id": "f000656",
+   "language": "por",
+   "lines": [
+    "Cair se deixa aos p\u00e9s do vencedor,"
+   ]
+  },
+  {
+   "begin": "1725.440",
+   "children": [],
+   "end": "1728.080",
+   "id": "f000657",
+   "language": "por",
+   "lines": [
+    "Que todo se desfaz em puro amor."
+   ]
+  },
+  {
+   "begin": "1728.080",
+   "children": [],
+   "end": "1731.160",
+   "id": "f000658",
+   "language": "por",
+   "lines": [
+    "\u00d3 que famintos beijos na floresta,"
+   ]
+  },
+  {
+   "begin": "1731.160",
+   "children": [],
+   "end": "1733.640",
+   "id": "f000659",
+   "language": "por",
+   "lines": [
+    "E que mimoso choro que soava!"
+   ]
+  },
+  {
+   "begin": "1733.640",
+   "children": [],
+   "end": "1736.640",
+   "id": "f000660",
+   "language": "por",
+   "lines": [
+    "Que afagos t\u00e3o suaves, que ira honesta,"
+   ]
+  },
+  {
+   "begin": "1736.640",
+   "children": [],
+   "end": "1739.040",
+   "id": "f000661",
+   "language": "por",
+   "lines": [
+    "Que em risinhos alegres se tornava!"
+   ]
+  },
+  {
+   "begin": "1739.040",
+   "children": [],
+   "end": "1742.160",
+   "id": "f000662",
+   "language": "por",
+   "lines": [
+    "O que mais passam na manh\u00e3, e na sesta,"
+   ]
+  },
+  {
+   "begin": "1742.160",
+   "children": [],
+   "end": "1744.320",
+   "id": "f000663",
+   "language": "por",
+   "lines": [
+    "Que V\u00e9nus com prazeres inflamava,"
+   ]
+  },
+  {
+   "begin": "1744.320",
+   "children": [],
+   "end": "1747.040",
+   "id": "f000664",
+   "language": "por",
+   "lines": [
+    "Melhor \u00e9 experiment\u00e1-lo que julg\u00e1-lo,"
+   ]
+  },
+  {
+   "begin": "1747.040",
+   "children": [],
+   "end": "1749.880",
+   "id": "f000665",
+   "language": "por",
+   "lines": [
+    "Mas julgue-o quem n\u00e3o pode experiment\u00e1-lo."
+   ]
+  },
+  {
+   "begin": "1749.880",
+   "children": [],
+   "end": "1755.000",
+   "id": "f000666",
+   "language": "por",
+   "lines": [
+    "Desta arte enfim conformes j\u00e1 as formosas"
+   ]
+  },
+  {
+   "begin": "1755.000",
+   "children": [],
+   "end": "1757.160",
+   "id": "f000667",
+   "language": "por",
+   "lines": [
+    "Ninfas com os seus amados navegantes,"
+   ]
+  },
+  {
+   "begin": "1757.160",
+   "children": [],
+   "end": "1759.760",
+   "id": "f000668",
+   "language": "por",
+   "lines": [
+    "Os ornam de capelas deleitosas"
+   ]
+  },
+  {
+   "begin": "1759.760",
+   "children": [],
+   "end": "1762.400",
+   "id": "f000669",
+   "language": "por",
+   "lines": [
+    "De louro, e de ouro, e flores abundantes."
+   ]
+  },
+  {
+   "begin": "1762.400",
+   "children": [],
+   "end": "1765.520",
+   "id": "f000670",
+   "language": "por",
+   "lines": [
+    "As m\u00e3os alvas lhes davam como esposas;"
+   ]
+  },
+  {
+   "begin": "1765.520",
+   "children": [],
+   "end": "1768.000",
+   "id": "f000671",
+   "language": "por",
+   "lines": [
+    "Com palavras formais e estipulantes"
+   ]
+  },
+  {
+   "begin": "1768.000",
+   "children": [],
+   "end": "1769.880",
+   "id": "f000672",
+   "language": "por",
+   "lines": [
+    "Se prometem eterna companhia"
+   ]
+  },
+  {
+   "begin": "1769.880",
+   "children": [],
+   "end": "1772.640",
+   "id": "f000673",
+   "language": "por",
+   "lines": [
+    "Em vida e morte, de honra e alegria."
+   ]
+  },
+  {
+   "begin": "1772.640",
+   "children": [],
+   "end": "1775.640",
+   "id": "f000674",
+   "language": "por",
+   "lines": [
+    "Uma delas maior, a quem se humilha"
+   ]
+  },
+  {
+   "begin": "1775.640",
+   "children": [],
+   "end": "1777.760",
+   "id": "f000675",
+   "language": "por",
+   "lines": [
+    "Todo o coro das Ninfas, e obedece,"
+   ]
+  },
+  {
+   "begin": "1777.760",
+   "children": [],
+   "end": "1780.880",
+   "id": "f000676",
+   "language": "por",
+   "lines": [
+    "Que dizem ser de Celo e Vesta filha,"
+   ]
+  },
+  {
+   "begin": "1780.880",
+   "children": [],
+   "end": "1783.200",
+   "id": "f000677",
+   "language": "por",
+   "lines": [
+    "O que no gesto belo se parece,"
+   ]
+  },
+  {
+   "begin": "1783.200",
+   "children": [],
+   "end": "1786.080",
+   "id": "f000678",
+   "language": "por",
+   "lines": [
+    "Enchendo a terra e o mar de maravilha,"
+   ]
+  },
+  {
+   "begin": "1786.080",
+   "children": [],
+   "end": "1788.240",
+   "id": "f000679",
+   "language": "por",
+   "lines": [
+    "O Capit\u00e3o ilustre, que o merece,"
+   ]
+  },
+  {
+   "begin": "1788.240",
+   "children": [],
+   "end": "1791.440",
+   "id": "f000680",
+   "language": "por",
+   "lines": [
+    "Recebe ali com pompa honesta e r\u00e9gia,"
+   ]
+  },
+  {
+   "begin": "1791.440",
+   "children": [],
+   "end": "1794.000",
+   "id": "f000681",
+   "language": "por",
+   "lines": [
+    "Mostrando-se senhora grande e egr\u00e9gia."
+   ]
+  },
+  {
+   "begin": "1794.000",
+   "children": [],
+   "end": "1796.880",
+   "id": "f000682",
+   "language": "por",
+   "lines": [
+    "Que, depois de lhe ter dito quem era,"
+   ]
+  },
+  {
+   "begin": "1796.880",
+   "children": [],
+   "end": "1799.600",
+   "id": "f000683",
+   "language": "por",
+   "lines": [
+    "Com um alto ex\u00f3rdio, de alta gra\u00e7a ornado,"
+   ]
+  },
+  {
+   "begin": "1799.600",
+   "children": [],
+   "end": "1802.120",
+   "id": "f000684",
+   "language": "por",
+   "lines": [
+    "Dando-lhe a entender que ali viera"
+   ]
+  },
+  {
+   "begin": "1802.120",
+   "children": [],
+   "end": "1804.320",
+   "id": "f000685",
+   "language": "por",
+   "lines": [
+    "Por alta influi\u00e7\u00e3o do im\u00f3vel fado,"
+   ]
+  },
+  {
+   "begin": "1804.320",
+   "children": [],
+   "end": "1807.040",
+   "id": "f000686",
+   "language": "por",
+   "lines": [
+    "Para lhe descobrir da unida esfera"
+   ]
+  },
+  {
+   "begin": "1807.040",
+   "children": [],
+   "end": "1809.200",
+   "id": "f000687",
+   "language": "por",
+   "lines": [
+    "Da terra imensa, e mar n\u00e3o navegado,"
+   ]
+  },
+  {
+   "begin": "1809.200",
+   "children": [],
+   "end": "1811.440",
+   "id": "f000688",
+   "language": "por",
+   "lines": [
+    "Os segredos, por alta profecia,"
+   ]
+  },
+  {
+   "begin": "1811.440",
+   "children": [],
+   "end": "1814.200",
+   "id": "f000689",
+   "language": "por",
+   "lines": [
+    "O que esta sua na\u00e7\u00e3o s\u00f3 merecia,"
+   ]
+  },
+  {
+   "begin": "1814.200",
+   "children": [],
+   "end": "1817.240",
+   "id": "f000690",
+   "language": "por",
+   "lines": [
+    "Tomando-o pela m\u00e3o, o leva e guia"
+   ]
+  },
+  {
+   "begin": "1817.240",
+   "children": [],
+   "end": "1819.640",
+   "id": "f000691",
+   "language": "por",
+   "lines": [
+    "Para o cume dum monte alto e divino,"
+   ]
+  },
+  {
+   "begin": "1819.640",
+   "children": [],
+   "end": "1822.680",
+   "id": "f000692",
+   "language": "por",
+   "lines": [
+    "No qual uma rica f\u00e1brica se erguia"
+   ]
+  },
+  {
+   "begin": "1822.680",
+   "children": [],
+   "end": "1825.440",
+   "id": "f000693",
+   "language": "por",
+   "lines": [
+    "De cristal toda, e de ouro puro e fino."
+   ]
+  },
+  {
+   "begin": "1825.440",
+   "children": [],
+   "end": "1828.760",
+   "id": "f000694",
+   "language": "por",
+   "lines": [
+    "A maior parte aqui passam do dia"
+   ]
+  },
+  {
+   "begin": "1828.760",
+   "children": [],
+   "end": "1831.200",
+   "id": "f000695",
+   "language": "por",
+   "lines": [
+    "Em doces jogos e em prazer contino:"
+   ]
+  },
+  {
+   "begin": "1831.200",
+   "children": [],
+   "end": "1834.360",
+   "id": "f000696",
+   "language": "por",
+   "lines": [
+    "Ela nos pa\u00e7os logra seus amores,"
+   ]
+  },
+  {
+   "begin": "1834.360",
+   "children": [],
+   "end": "1837.360",
+   "id": "f000697",
+   "language": "por",
+   "lines": [
+    "As outras pelas sombras entre as flores."
+   ]
+  },
+  {
+   "begin": "1837.360",
+   "children": [],
+   "end": "1840.960",
+   "id": "f000698",
+   "language": "por",
+   "lines": [
+    "Assim a formosa e a forte companhia"
+   ]
+  },
+  {
+   "begin": "1840.960",
+   "children": [],
+   "end": "1843.000",
+   "id": "f000699",
+   "language": "por",
+   "lines": [
+    "O dia quase todo est\u00e3o passando,"
+   ]
+  },
+  {
+   "begin": "1843.000",
+   "children": [],
+   "end": "1846.040",
+   "id": "f000700",
+   "language": "por",
+   "lines": [
+    "Numa alma, doce, inc\u00f3gnita alegria,"
+   ]
+  },
+  {
+   "begin": "1846.040",
+   "children": [],
+   "end": "1848.760",
+   "id": "f000701",
+   "language": "por",
+   "lines": [
+    "Os trabalhos t\u00e3o longos compensando."
+   ]
+  },
+  {
+   "begin": "1848.760",
+   "children": [],
+   "end": "1852.120",
+   "id": "f000702",
+   "language": "por",
+   "lines": [
+    "Porque dos feitos grandes, da ousadia"
+   ]
+  },
+  {
+   "begin": "1852.120",
+   "children": [],
+   "end": "1854.640",
+   "id": "f000703",
+   "language": "por",
+   "lines": [
+    "Forte e famosa, o mundo est\u00e1 guardando"
+   ]
+  },
+  {
+   "begin": "1854.640",
+   "children": [],
+   "end": "1856.800",
+   "id": "f000704",
+   "language": "por",
+   "lines": [
+    "O pr\u00e9mio l\u00e1 no fim, bem merecido,"
+   ]
+  },
+  {
+   "begin": "1856.800",
+   "children": [],
+   "end": "1859.720",
+   "id": "f000705",
+   "language": "por",
+   "lines": [
+    "Com fama grande e nome alto e subido."
+   ]
+  },
+  {
+   "begin": "1859.720",
+   "children": [],
+   "end": "1863.160",
+   "id": "f000706",
+   "language": "por",
+   "lines": [
+    "Que as Ninfas do Oceano t\u00e3o formosas,"
+   ]
+  },
+  {
+   "begin": "1863.160",
+   "children": [],
+   "end": "1865.520",
+   "id": "f000707",
+   "language": "por",
+   "lines": [
+    "Tethys, e a ilha ang\u00e9lica pintada,"
+   ]
+  },
+  {
+   "begin": "1865.520",
+   "children": [],
+   "end": "1868.360",
+   "id": "f000708",
+   "language": "por",
+   "lines": [
+    "Outra coisa n\u00e3o \u00e9 que as deleitosas"
+   ]
+  },
+  {
+   "begin": "1868.360",
+   "children": [],
+   "end": "1870.640",
+   "id": "f000709",
+   "language": "por",
+   "lines": [
+    "Honras que a vida fazem sublimada."
+   ]
+  },
+  {
+   "begin": "1870.640",
+   "children": [],
+   "end": "1873.280",
+   "id": "f000710",
+   "language": "por",
+   "lines": [
+    "Aquelas proemin\u00eancias gloriosas,"
+   ]
+  },
+  {
+   "begin": "1873.280",
+   "children": [],
+   "end": "1875.280",
+   "id": "f000711",
+   "language": "por",
+   "lines": [
+    "Os triunfos, a fronte coroada"
+   ]
+  },
+  {
+   "begin": "1875.280",
+   "children": [],
+   "end": "1877.920",
+   "id": "f000712",
+   "language": "por",
+   "lines": [
+    "De palma e louro, a gl\u00f3ria e maravilha:"
+   ]
+  },
+  {
+   "begin": "1877.920",
+   "children": [],
+   "end": "1880.520",
+   "id": "f000713",
+   "language": "por",
+   "lines": [
+    "Estes s\u00e3o os deleites desta ilha."
+   ]
+  },
+  {
+   "begin": "1880.520",
+   "children": [],
+   "end": "1883.360",
+   "id": "f000714",
+   "language": "por",
+   "lines": [
+    "Que as imortalidades que fingia"
+   ]
+  },
+  {
+   "begin": "1883.360",
+   "children": [],
+   "end": "1885.320",
+   "id": "f000715",
+   "language": "por",
+   "lines": [
+    "A antiguidade, que os ilustres ama,"
+   ]
+  },
+  {
+   "begin": "1885.320",
+   "children": [],
+   "end": "1888.040",
+   "id": "f000716",
+   "language": "por",
+   "lines": [
+    "L\u00e1 no estelante Olimpo, a quem subia"
+   ]
+  },
+  {
+   "begin": "1888.040",
+   "children": [],
+   "end": "1890.360",
+   "id": "f000717",
+   "language": "por",
+   "lines": [
+    "Sobre as asas \u00ednclitas da Fama,"
+   ]
+  },
+  {
+   "begin": "1890.360",
+   "children": [],
+   "end": "1893.040",
+   "id": "f000718",
+   "language": "por",
+   "lines": [
+    "Por obras valorosas que fazia,"
+   ]
+  },
+  {
+   "begin": "1893.040",
+   "children": [],
+   "end": "1895.160",
+   "id": "f000719",
+   "language": "por",
+   "lines": [
+    "Pelo trabalho imenso que se chama"
+   ]
+  },
+  {
+   "begin": "1895.160",
+   "children": [],
+   "end": "1897.560",
+   "id": "f000720",
+   "language": "por",
+   "lines": [
+    "Caminho da virtude alto e fragoso,"
+   ]
+  },
+  {
+   "begin": "1897.560",
+   "children": [],
+   "end": "1900.560",
+   "id": "f000721",
+   "language": "por",
+   "lines": [
+    "Mas no fim doce, alegre e deleitoso:"
+   ]
+  },
+  {
+   "begin": "1900.560",
+   "children": [],
+   "end": "1903.280",
+   "id": "f000722",
+   "language": "por",
+   "lines": [
+    "N\u00e3o eram sen\u00e3o pr\u00e9mios que reparte"
+   ]
+  },
+  {
+   "begin": "1903.280",
+   "children": [],
+   "end": "1905.640",
+   "id": "f000723",
+   "language": "por",
+   "lines": [
+    "Por feitos imortais e soberanos"
+   ]
+  },
+  {
+   "begin": "1905.640",
+   "children": [],
+   "end": "1908.560",
+   "id": "f000724",
+   "language": "por",
+   "lines": [
+    "O mundo com os var\u00f5es, que esfor\u00e7o e arte"
+   ]
+  },
+  {
+   "begin": "1908.560",
+   "children": [],
+   "end": "1910.840",
+   "id": "f000725",
+   "language": "por",
+   "lines": [
+    "Divinos os fizeram, sendo humanos."
+   ]
+  },
+  {
+   "begin": "1910.840",
+   "children": [],
+   "end": "1913.880",
+   "id": "f000726",
+   "language": "por",
+   "lines": [
+    "Que J\u00fapiter, Merc\u00fario, Febo e Marte,"
+   ]
+  },
+  {
+   "begin": "1913.880",
+   "children": [],
+   "end": "1916.520",
+   "id": "f000727",
+   "language": "por",
+   "lines": [
+    "Eneias e Quirino, e os dois Tebanos,"
+   ]
+  },
+  {
+   "begin": "1916.520",
+   "children": [],
+   "end": "1919.280",
+   "id": "f000728",
+   "language": "por",
+   "lines": [
+    "Ceres, Palas e Juno, com Diana,"
+   ]
+  },
+  {
+   "begin": "1919.280",
+   "children": [],
+   "end": "1922.160",
+   "id": "f000729",
+   "language": "por",
+   "lines": [
+    "Todos foram de fraca carne humana."
+   ]
+  },
+  {
+   "begin": "1922.160",
+   "children": [],
+   "end": "1925.600",
+   "id": "f000730",
+   "language": "por",
+   "lines": [
+    "Mas a Fama, trombeta de obras tais,"
+   ]
+  },
+  {
+   "begin": "1925.600",
+   "children": [],
+   "end": "1928.040",
+   "id": "f000731",
+   "language": "por",
+   "lines": [
+    "Lhe deu no mundo nomes t\u00e3o estranhos"
+   ]
+  },
+  {
+   "begin": "1928.040",
+   "children": [],
+   "end": "1930.200",
+   "id": "f000732",
+   "language": "por",
+   "lines": [
+    "De Deuses, Semideuses imortais,"
+   ]
+  },
+  {
+   "begin": "1930.200",
+   "children": [],
+   "end": "1932.560",
+   "id": "f000733",
+   "language": "por",
+   "lines": [
+    "Ind\u00edgetes, Her\u00f3icos e de Magnos."
+   ]
+  },
+  {
+   "begin": "1932.560",
+   "children": [],
+   "end": "1935.680",
+   "id": "f000734",
+   "language": "por",
+   "lines": [
+    "Por isso, \u00f3 v\u00f3s que as famas estimais,"
+   ]
+  },
+  {
+   "begin": "1935.680",
+   "children": [],
+   "end": "1937.800",
+   "id": "f000735",
+   "language": "por",
+   "lines": [
+    "Se quiserdes no mundo ser tamanhos,"
+   ]
+  },
+  {
+   "begin": "1937.800",
+   "children": [],
+   "end": "1941.120",
+   "id": "f000736",
+   "language": "por",
+   "lines": [
+    "Despertai j\u00e1 do sono do \u00f3cio ignavo,"
+   ]
+  },
+  {
+   "begin": "1941.120",
+   "children": [],
+   "end": "1943.920",
+   "id": "f000737",
+   "language": "por",
+   "lines": [
+    "Que o \u00e2nimo de livre faz escravo."
+   ]
+  },
+  {
+   "begin": "1943.920",
+   "children": [],
+   "end": "1946.800",
+   "id": "f000738",
+   "language": "por",
+   "lines": [
+    "E ponde na cobi\u00e7a um freio duro,"
+   ]
+  },
+  {
+   "begin": "1946.800",
+   "children": [],
+   "end": "1949.560",
+   "id": "f000739",
+   "language": "por",
+   "lines": [
+    "E na ambi\u00e7\u00e3o tamb\u00e9m, que indignamente"
+   ]
+  },
+  {
+   "begin": "1949.560",
+   "children": [],
+   "end": "1952.480",
+   "id": "f000740",
+   "language": "por",
+   "lines": [
+    "Tomais mil vezes, e no torpe e escuro"
+   ]
+  },
+  {
+   "begin": "1952.480",
+   "children": [],
+   "end": "1954.920",
+   "id": "f000741",
+   "language": "por",
+   "lines": [
+    "V\u00edcio da tirania infame e urgente;"
+   ]
+  },
+  {
+   "begin": "1954.920",
+   "children": [],
+   "end": "1958.200",
+   "id": "f000742",
+   "language": "por",
+   "lines": [
+    "Porque essas honras v\u00e3s, esse ouro puro"
+   ]
+  },
+  {
+   "begin": "1958.200",
+   "children": [],
+   "end": "1960.560",
+   "id": "f000743",
+   "language": "por",
+   "lines": [
+    "Verdadeiro valor n\u00e3o d\u00e3o \u00e0 gente:"
+   ]
+  },
+  {
+   "begin": "1960.560",
+   "children": [],
+   "end": "1963.080",
+   "id": "f000744",
+   "language": "por",
+   "lines": [
+    "Melhor \u00e9, merec\u00ea-los sem os ter,"
+   ]
+  },
+  {
+   "begin": "1963.080",
+   "children": [],
+   "end": "1965.600",
+   "id": "f000745",
+   "language": "por",
+   "lines": [
+    "Que possu\u00ed-los sem os merecer."
+   ]
+  },
+  {
+   "begin": "1965.600",
+   "children": [],
+   "end": "1969.640",
+   "id": "f000746",
+   "language": "por",
+   "lines": [
+    "Ou dai na paz as leis iguais, constantes,"
+   ]
+  },
+  {
+   "begin": "1969.640",
+   "children": [],
+   "end": "1972.040",
+   "id": "f000747",
+   "language": "por",
+   "lines": [
+    "Que aos grandes n\u00e3o d\u00eaem o dos pequenos;"
+   ]
+  },
+  {
+   "begin": "1972.040",
+   "children": [],
+   "end": "1974.680",
+   "id": "f000748",
+   "language": "por",
+   "lines": [
+    "Ou vos vesti nas armas rutilantes,"
+   ]
+  },
+  {
+   "begin": "1974.680",
+   "children": [],
+   "end": "1977.000",
+   "id": "f000749",
+   "language": "por",
+   "lines": [
+    "Contra a lei dos inimigos Sarracenos:"
+   ]
+  },
+  {
+   "begin": "1977.000",
+   "children": [],
+   "end": "1980.040",
+   "id": "f000750",
+   "language": "por",
+   "lines": [
+    "Fareis os Reinos grandes e possantes,"
+   ]
+  },
+  {
+   "begin": "1980.040",
+   "children": [],
+   "end": "1982.560",
+   "id": "f000751",
+   "language": "por",
+   "lines": [
+    "E todos tereis mais, o nenhum menos;"
+   ]
+  },
+  {
+   "begin": "1982.560",
+   "children": [],
+   "end": "1985.160",
+   "id": "f000752",
+   "language": "por",
+   "lines": [
+    "Possuireis riquezas merecidas,"
+   ]
+  },
+  {
+   "begin": "1985.160",
+   "children": [],
+   "end": "1987.800",
+   "id": "f000753",
+   "language": "por",
+   "lines": [
+    "Com as honras, que ilustram tanto as vidas."
+   ]
+  },
+  {
+   "begin": "1987.800",
+   "children": [],
+   "end": "1990.800",
+   "id": "f000754",
+   "language": "por",
+   "lines": [
+    "E fareis claro o Rei, que tanto amais,"
+   ]
+  },
+  {
+   "begin": "1990.800",
+   "children": [],
+   "end": "1993.120",
+   "id": "f000755",
+   "language": "por",
+   "lines": [
+    "Agora com os conselhos bem cuidados,"
+   ]
+  },
+  {
+   "begin": "1993.120",
+   "children": [],
+   "end": "1995.760",
+   "id": "f000756",
+   "language": "por",
+   "lines": [
+    "Agora com as espadas, que imortais"
+   ]
+  },
+  {
+   "begin": "1995.760",
+   "children": [],
+   "end": "1998.200",
+   "id": "f000757",
+   "language": "por",
+   "lines": [
+    "Vos far\u00e3o, como os vossos j\u00e1 passados;"
+   ]
+  },
+  {
+   "begin": "1998.200",
+   "children": [],
+   "end": "2000.760",
+   "id": "f000758",
+   "language": "por",
+   "lines": [
+    "Impossibilidades n\u00e3o fa\u00e7ais,"
+   ]
+  },
+  {
+   "begin": "2000.760",
+   "children": [],
+   "end": "2003.600",
+   "id": "f000759",
+   "language": "por",
+   "lines": [
+    "Que quem quis sempre p\u00f4de; e numerados"
+   ]
+  },
+  {
+   "begin": "2003.600",
+   "children": [],
+   "end": "2005.760",
+   "id": "f000760",
+   "language": "por",
+   "lines": [
+    "Sereis entre os Her\u00f3is esclarecidos,"
+   ]
+  },
+  {
+   "begin": "2005.760",
+   "children": [],
+   "end": "2009.000",
+   "id": "f000761",
+   "language": "por",
+   "lines": [
+    "E nesta Ilha de V\u00e9nus recebidos."
+   ]
+  }
+ ]
+}
