@@ -1,0 +1,1396 @@
+1
+00:00:00,000 --> 00:00:03,700
+Seção 2, de A Margem da História, de Euclides da Cunha.
+
+2
+00:00:03,700 --> 00:00:06,700
+Esta gravação LibriVox está em domínio público.
+
+3
+00:00:06,700 --> 00:00:09,900
+A Margem da História, de Euclides da Cunha.
+
+4
+00:00:09,900 --> 00:00:11,100
+Parte 1.
+
+5
+00:00:11,100 --> 00:00:12,700
+Terra sem História.
+
+6
+00:00:12,700 --> 00:00:14,100
+Amazônia.
+
+7
+00:00:14,100 --> 00:00:16,500
+Rios em abandono.
+
+8
+00:00:16,500 --> 00:00:22,500
+O geógrafo norte-americano Morris Davis revelou o ciclo vital dos rios.
+
+9
+00:00:22,500 --> 00:00:25,100
+Era uma concepção revolucionária
+
+10
+00:00:25,100 --> 00:00:30,100
+e não houve cientistas ungido a enfesada geografia descritiva,
+
+11
+00:00:30,100 --> 00:00:32,100
+dominante ainda entre nós,
+
+12
+00:00:32,100 --> 00:00:37,100
+que se não escandalizasse ante o conceito desassombrado do Yankee.
+
+13
+00:00:37,100 --> 00:00:41,100
+Mas o antagonismo foi passageiro e frágil.
+
+14
+00:00:41,100 --> 00:00:46,100
+Uma simples monografia, Rivers and Valleys of Pennsylvania,
+
+15
+00:00:46,100 --> 00:00:53,100
+deslocou de golpe, desde 1889, toda a fortaleza inerte da rotina
+
+16
+00:00:53,100 --> 00:00:57,100
+e firmou um novo rumo ao critério geográfico,
+
+17
+00:00:57,100 --> 00:01:02,100
+não já apenas pelo associar a forma à estrutura dos terrenos,
+
+18
+00:01:02,100 --> 00:01:08,100
+completando os faces inexpressivos das superfícies com os elementos geológicos,
+
+19
+00:01:08,100 --> 00:01:14,100
+senão também esclarecendo a génesis dos mais breves acidentes
+
+20
+00:01:14,100 --> 00:01:18,100
+e descobrindo nas linhas pinturescas da móvel Fisionomia da Terra
+
+21
+00:01:18,100 --> 00:01:22,100
+a expressão eloquente das energias naturais que a modelaram
+
+22
+00:01:22,100 --> 00:01:25,100
+e, sem cessar, a transfiguram.
+
+23
+00:01:25,100 --> 00:01:29,100
+Por fim, ninguém mais estranhou que Morris Davis,
+
+24
+00:01:29,100 --> 00:01:33,100
+impelido aos últimos corolários da nova doutrina,
+
+25
+00:01:33,100 --> 00:01:38,100
+se abalançasse a uma espécie de fisiologia monstruosa
+
+26
+00:01:38,100 --> 00:01:43,100
+e descrevesse dramaticamente as complexas vicissitudes
+
+27
+00:01:43,100 --> 00:01:47,100
+da existência milenária dos fartos cursos de águas,
+
+28
+00:01:47,100 --> 00:01:51,100
+mostrando-nos com uma infância enriqueta
+
+29
+00:01:51,100 --> 00:01:56,100
+uma adolescência revolta, uma virilidade equilibrada
+
+30
+00:01:56,100 --> 00:02:00,100
+e uma velhice ou uma decrepitude melancólica,
+
+31
+00:02:00,100 --> 00:02:07,100
+como se eles fossem estupendos organismos sujeitos à concorrência e à seleção,
+
+32
+00:02:07,100 --> 00:02:10,100
+destinados ao triunfo ou ao aniquilamento,
+
+33
+00:02:10,100 --> 00:02:16,100
+consoante mais ou menos se adaptam às condições exteriores.
+
+34
+00:02:16,100 --> 00:02:21,100
+Não acompanharemos o genial biógrafo dos rios pensilvânicos
+
+35
+00:02:21,100 --> 00:02:27,100
+no explanar a teoria admirável que é o caso impressionador de uma entrada triunfante
+
+36
+00:02:27,100 --> 00:02:34,100
+ou de uma rush atrevida da imaginação e da fantasia nos remanços da ciência.
+
+37
+00:02:34,100 --> 00:02:38,100
+Basta nos notar que ela foi aceita em toda a linha
+
+38
+00:02:38,100 --> 00:02:44,100
+e é infrangível, esteando-se em dados indutivos e seguros.
+
+39
+00:02:44,100 --> 00:02:49,100
+Todas as caudais, de feito, atravessam períodos inevitáveis
+
+40
+00:02:49,100 --> 00:02:55,100
+de ritmos uniformes e constantes, malgrado a variabilidade do teatro em que se operam,
+
+41
+00:02:55,100 --> 00:03:01,100
+a princípio indecisas, errantes e frágeis, derivando ao acaso,
+
+42
+00:03:01,100 --> 00:03:06,100
+ao viés dos pensadores, como à procura de um berço em cada dobra do chão,
+
+43
+00:03:06,100 --> 00:03:13,100
+e acumulando-se nos numerosos lagos incoerentemente espaços onde repousam.
+
+44
+00:03:13,100 --> 00:03:19,100
+Depois, definidas nas primeiras linhas de drenagem mais estáveis e fundas,
+
+45
+00:03:19,100 --> 00:03:25,100
+para onde convergem, adensadas, as chuvas, formando-se o aparelho das correntes,
+
+46
+00:03:25,100 --> 00:03:33,100
+reprofundando-se os leitos esboçados e iniciando-se, com a energia tumultuária das cachoeiras,
+
+47
+00:03:33,100 --> 00:03:38,100
+o choque secular com as asperezas da terra, longo tempo.
+
+48
+00:03:38,100 --> 00:03:45,100
+Até que, extintos os impeços estruturais, estabelecido um leito e definido um traçado,
+
+49
+00:03:45,100 --> 00:03:53,100
+o rio se constitua, com os seus afluentes fixos, um declive contínuo em curvaturas regulares,
+
+50
+00:03:53,100 --> 00:04:01,100
+um tal é ajustado à contextura do solo e à diferenciação morfológica que lhe reflete,
+
+51
+00:04:01,100 --> 00:04:04,100
+há um tempo, os seus vários estádios.
+
+52
+00:04:04,100 --> 00:04:10,100
+Às cabeceiras, onde perduram as águas selvagens do antigo regime entorrencial,
+
+53
+00:04:10,100 --> 00:04:14,100
+ao curso médio, que lhe caracteriza a situação presente,
+
+54
+00:04:14,100 --> 00:04:21,100
+e ao trecho inferior, prefigurando-lhe a decrepitude, onde ele se expraia repousadamente
+
+55
+00:04:21,100 --> 00:04:27,100
+e constrói, pela comatagem das vasas que acarreta com velocidade insensível,
+
+56
+00:04:27,100 --> 00:04:30,100
+a própria planície aluvial em que descansa.
+
+57
+00:04:30,100 --> 00:04:32,100
+É a fase da madureza.
+
+58
+00:04:32,100 --> 00:04:38,100
+O rio está na plenitude da vida, depois da molduragem complexa de todos os relevos.
+
+59
+00:04:38,100 --> 00:04:47,100
+Atinge-a rematando um esforço pertinaz, que é por vezes toda a história geológica da região.
+
+60
+00:04:47,100 --> 00:04:53,100
+Não houve um ponto em todo o percurso de centenares ou de milhares de quilômetros
+
+61
+00:04:53,100 --> 00:04:57,100
+que ele não atacasse, um grão de areia que não remover-se,
+
+62
+00:04:57,100 --> 00:05:03,100
+balanceando as escavações a montante com os aterros a juzante,
+
+63
+00:05:03,100 --> 00:05:10,100
+construindo-se a si mesmo, obediente à tendência universal para as situações estáveis.
+
+64
+00:05:10,100 --> 00:05:14,100
+Adquiriu, por fim, o seu perfil longitudinal de equilíbrio,
+
+65
+00:05:14,100 --> 00:05:21,100
+e este, ainda abrupto nas vertentes, onde a correnteza é máxima e o volume mínimo,
+
+66
+00:05:21,100 --> 00:05:28,100
+vem continuamente amortecendo-se, em sucessivo de cair de declive até ao quase horizontalismo
+
+67
+00:05:28,100 --> 00:05:33,100
+no nível de base da foz, onde aqueles elementos se invertem,
+
+68
+00:05:33,100 --> 00:05:37,100
+resultando o equilíbrio dinâmico do sistema da relação inversa
+
+69
+00:05:37,100 --> 00:05:43,100
+entre as massas líquidas e as velocidades que se arrastam.
+
+70
+00:05:43,100 --> 00:05:46,100
+Como quer que seja, desde que alcance este período,
+
+71
+00:05:46,100 --> 00:05:51,100
+todos os elementos do seu tau é projetados em plano vertical,
+
+72
+00:05:51,100 --> 00:05:56,100
+desenham-se com a forma aproximada de um ramo de desmedida parábola,
+
+73
+00:05:56,100 --> 00:06:01,100
+de concavidade envolvida para as alturas.
+
+74
+00:06:01,100 --> 00:06:07,100
+Assim se traduz, geometricamente, um fato mecânico complexo.
+
+75
+00:06:07,100 --> 00:06:12,100
+E bem que a tendência para aquela figura seja em geral perturbada ou extinta
+
+76
+00:06:12,100 --> 00:06:17,100
+nas camadas de resistência variável onde as rochas desvendadas
+
+77
+00:06:17,100 --> 00:06:20,100
+originam o antagonismo das cachoeiras,
+
+78
+00:06:20,100 --> 00:06:25,100
+é inegável que a curva parabólica se delineia nos terrenos homogêneos
+
+79
+00:06:25,100 --> 00:06:31,100
+como sendo a forma definitiva da seção longitudinal de todos os rios
+
+80
+00:06:31,100 --> 00:06:35,100
+no remate de suas vicissitudes evolutivas.
+
+81
+00:06:35,100 --> 00:06:39,100
+O Purus é um dos melhores exemplos.
+
+82
+00:06:39,100 --> 00:06:45,100
+Desenhando-se o perfil em toda a extensão itinerária de 3.210 km
+
+83
+00:06:45,100 --> 00:06:50,100
+que vai da embocadura no Solimões aos últimos manadeiros do Ribeirão Pucani,
+
+84
+00:06:50,100 --> 00:06:56,100
+na serraria deprimida e sem nome que separa as maiores bacias hidrográficas da Terra,
+
+85
+00:06:56,100 --> 00:07:01,100
+chega-se muito aproximadamente àquele ramo de parábola.
+
+86
+00:07:01,100 --> 00:07:05,100
+Pelo menos nenhuma outra curva o definirá melhor.
+
+87
+00:07:05,100 --> 00:07:10,100
+Demonstra-o este quadro onde os vários trechos se sucedem
+
+88
+00:07:10,100 --> 00:07:17,100
+de modo a acompanhar-se em todo o seu percurso a queda regularíssima das águas.
+
+89
+00:07:17,100 --> 00:07:22,100
+Das nascentes ao Curiuja, 117 km,
+
+90
+00:07:22,100 --> 00:07:29,100
+diferenças de nível 189 metros, declive geral 1 sobre 619,
+
+91
+00:07:29,100 --> 00:07:33,100
+declive quilométrico em metros 1,60.
+
+92
+00:07:33,100 --> 00:07:38,100
+Do Curiuja a Curanja, 278 km,
+
+93
+00:07:38,100 --> 00:07:44,100
+diferença de nível 60 metros, declive geral 1 sobre 4500,
+
+94
+00:07:44,100 --> 00:07:48,100
+declive geométrico 0,22 metros.
+
+95
+00:07:48,100 --> 00:07:53,100
+Do Curanja a Foz do Chandlis, 304 km,
+
+96
+00:07:53,100 --> 00:07:59,100
+diferença de nível 49 metros, declive geral 1 sobre 6500,
+
+97
+00:07:59,100 --> 00:08:04,100
+declive quilométrico 0,16 metros.
+
+98
+00:08:04,100 --> 00:08:08,100
+Do Chandlis a Foz do Iaco, 300 km,
+
+99
+00:08:08,100 --> 00:08:14,100
+diferença de nível 39 metros, declive geral 1 sobre 7700,
+
+100
+00:08:14,100 --> 00:08:19,100
+declive quilométrico 0,13 metros.
+
+101
+00:08:19,100 --> 00:08:23,100
+Do Iaco ao Acre, 237 km,
+
+102
+00:08:23,100 --> 00:08:29,100
+diferenças de nível 27 metros, declive geral 1 sobre 8700,
+
+103
+00:08:29,100 --> 00:08:34,100
+declive quilométrico 0,115 metros.
+
+104
+00:08:34,100 --> 00:08:38,100
+Do Acre ao Pauini, 233 km,
+
+105
+00:08:38,100 --> 00:08:43,100
+diferença de nível 20 metros, declive geral 1 sobre 11000,
+
+106
+00:08:43,100 --> 00:08:47,100
+declive quilométrico 0,085.
+
+107
+00:08:47,100 --> 00:08:51,100
+Do Pauini ao Mucuim, 740 km,
+
+108
+00:08:51,100 --> 00:08:57,100
+diferença de nível 58 metros, declive geral 1 sobre 12900,
+
+109
+00:08:57,100 --> 00:09:02,100
+declive quilométrico 0,077 metros.
+
+110
+00:09:02,100 --> 00:09:07,100
+Do Mucuim ao Solimões, 990 km,
+
+111
+00:09:07,100 --> 00:09:14,100
+diferença de nível 15 metros, declive geral 1 sobre 66700,
+
+112
+00:09:14,100 --> 00:09:19,100
+declive quilométrico 0,015 metros.
+
+113
+00:09:19,100 --> 00:09:22,100
+Aí, só há um dado vacilante,
+
+114
+00:09:22,100 --> 00:09:27,100
+o que resulta da diferença de nível nos pontos extremos do último trecho.
+
+115
+00:09:27,100 --> 00:09:32,100
+Deduzimos-lo adotando um mínimo de 18 metros para a altura da Foz do Purus,
+
+116
+00:09:32,100 --> 00:09:35,100
+sobre o nível do mar, quando ela é certamente maior
+
+117
+00:09:35,100 --> 00:09:39,100
+e mais favorável, portanto, às nossas conclusões.
+
+118
+00:09:39,100 --> 00:09:43,100
+Os demais elementos, devemos-los aos trabalhos de William Chandless
+
+119
+00:09:43,100 --> 00:09:46,100
+e às nossas observações recentes.
+
+120
+00:09:46,100 --> 00:09:51,100
+E agora, ao mais rápido lance de vistas, e sem que se exija um desenho facílimo,
+
+121
+00:09:51,100 --> 00:09:55,100
+verifica-se que o Grande Rio, atravessando um terreno homogêneo
+
+122
+00:09:55,100 --> 00:09:59,100
+e mais ou menos impermeável, subordinado a um declive,
+
+123
+00:09:59,100 --> 00:10:03,100
+que apesar de diminuto, é dominante na vasta planura,
+
+124
+00:10:03,100 --> 00:10:07,100
+onde as chuvas se distribuem com regularidade incomparável,
+
+125
+00:10:07,100 --> 00:10:12,100
+é dos que mais se adaptam às condições teóricas indicadas por Maurice Davis.
+
+126
+00:10:12,100 --> 00:10:17,100
+E no ultimar, a sua evolução geológica retrata-se, admiravelmente,
+
+127
+00:10:17,100 --> 00:10:21,100
+na parábola majestosa de que tratamos há pouco.
+
+128
+00:10:21,100 --> 00:10:26,100
+No estudar o seu regime em geral, vamos, portanto, com a firmeza
+
+129
+00:10:26,100 --> 00:10:29,100
+de quem discute a equação de uma curva.
+
+130
+00:10:29,100 --> 00:10:35,100
+Assim, considerando o primeiro trecho, aquela declividade de 1,60 metros por quilômetro,
+
+131
+00:10:35,100 --> 00:10:40,100
+tão diversa da que se lhe sucede, de 0,22 metros,
+
+132
+00:10:40,100 --> 00:10:44,100
+diz-nos para logo, dispensando o exame local,
+
+133
+00:10:44,100 --> 00:10:50,100
+que o verdadeiro Alto Purus, demarcado oficialmente a partir da Boca do Acre
+
+134
+00:10:50,100 --> 00:10:54,100
+e estendido por alguns geógrafos ainda mais prejuizante,
+
+135
+00:10:54,100 --> 00:10:59,100
+principia de fato muito além, a 3.019 quilômetros da Foz,
+
+136
+00:10:59,100 --> 00:11:04,100
+na confluência do Cujar e do Curiuja, os dois tributários
+
+137
+00:11:04,100 --> 00:11:09,100
+em que ele se reparte numa dicotomia perfeita, perdendo o nome
+
+138
+00:11:09,100 --> 00:11:14,100
+e esgalhando-se largamente fracionado pelos mais remotos pontos
+
+139
+00:11:14,100 --> 00:11:18,100
+da sua vasta bacia de captação.
+
+140
+00:11:18,100 --> 00:11:23,100
+Por outro lado, o declive real de 1 sobre 619
+
+141
+00:11:23,100 --> 00:11:27,100
+mal se aproxima da conhecida relação 1 sobre 500,
+
+142
+00:11:27,100 --> 00:11:32,100
+firmada como o limite mínimo das vertentes torrenciais.
+
+143
+00:11:32,100 --> 00:11:36,100
+Conclui-se então de pronto que o Rio, até no seu último segmento,
+
+144
+00:11:36,100 --> 00:11:40,100
+onde é sempre mais difícil e remorada a regularização dos leitos,
+
+145
+00:11:40,100 --> 00:11:44,100
+está numa fase avançadíssima de desenvolvimento.
+
+146
+00:11:44,100 --> 00:11:50,100
+É o caso excepcional de uma grande artéria, entre as maiores existentes,
+
+147
+00:11:50,100 --> 00:11:54,100
+capaz de ser navegada nas mais extremas nascentes,
+
+148
+00:11:54,100 --> 00:11:59,100
+durante as cheias que lhe encobram os numerosos degraus das corredeiras,
+
+149
+00:11:59,100 --> 00:12:04,100
+porque em tal quadra, admitindo que as águas subam de 3 metros numa calha de 10,
+
+150
+00:12:04,100 --> 00:12:10,100
+com aquele declive que corresponde a 0,0016 metros por metro,
+
+151
+00:12:10,100 --> 00:12:16,100
+o simples emprego da fórmula de De Buisson nos discos correntes
+
+152
+00:12:16,100 --> 00:12:20,100
+derivará com a velocidade máxima de apenas 2,20 metros,
+
+153
+00:12:20,100 --> 00:12:24,100
+facilmente balanceada por uma lancha veloz.
+
+154
+00:12:24,100 --> 00:12:28,100
+Ora, estas deduções resultantes de breve contemplação
+
+155
+00:12:28,100 --> 00:12:33,100
+de um quadro tão expressivo que dispensa o diagrama correspondente
+
+156
+00:12:33,100 --> 00:12:39,100
+ressaltam vivamente as mais incuriosas vistas de observador escoteiro
+
+157
+00:12:39,100 --> 00:12:43,100
+que ali passe, depois de varar a planura amazônica
+
+158
+00:12:43,100 --> 00:12:46,100
+num itinerário de 500 léguas.
+
+159
+00:12:46,100 --> 00:12:51,100
+De fato, o que sob maneiro impressionou é o espetáculo da terra
+
+160
+00:12:51,100 --> 00:12:56,100
+profundamente trabalhada pelo indefinido e incomensurável esforço
+
+161
+00:12:56,100 --> 00:12:59,100
+dos formadores do rio.
+
+162
+00:12:59,100 --> 00:13:03,100
+Chega, depois de trilhar o canhão coleante do Pucani,
+
+163
+00:13:03,100 --> 00:13:08,100
+ao só pé das últimas vertentes, de frente à clivosa escarpa
+
+164
+00:13:08,100 --> 00:13:12,100
+de uma corda insignificante de cerros deprimidos.
+
+165
+00:13:12,100 --> 00:13:19,100
+Vinga-lhe em três minutos à altura relativa de 60 metros escassos,
+
+166
+00:13:19,100 --> 00:13:25,100
+e não acredita que esteja na fronteira hidrográfica mais extraordinária do globo,
+
+167
+00:13:25,100 --> 00:13:31,100
+podendo ir de uma passada única, do Amazonas, ao vale do Ucayali.
+
+168
+00:13:31,100 --> 00:13:35,100
+A altura em que se vê, não lhe basta despertar os horizontes
+
+169
+00:13:35,100 --> 00:13:38,100
+ou atalaiar as distâncias.
+
+170
+00:13:38,100 --> 00:13:40,100
+É inapreciável.
+
+171
+00:13:40,100 --> 00:13:45,100
+Não abram gela com a escala mais favorável dos mapas.
+
+172
+00:13:45,100 --> 00:13:50,100
+E sem dúvida jamais compreenderia tão indeciso de o orqueum aquarum
+
+173
+00:13:50,100 --> 00:13:55,100
+a tão opulentas artérias, se, ao buscar aqueles rincões,
+
+174
+00:13:55,100 --> 00:13:59,100
+varando, ao arrepio das Itaipavas, por dentro das calhas
+
+175
+00:13:59,100 --> 00:14:03,100
+reprofundadas do Cujar, do Cavaljaní e do Pucani,
+
+176
+00:14:03,100 --> 00:14:08,100
+o observador se não habituasse a contemplar, longos dias,
+
+177
+00:14:08,100 --> 00:14:13,100
+os mais enérgicos efeitos da dinâmica poderosa das águas
+
+178
+00:14:13,100 --> 00:14:20,100
+que transmudaram a paragem, outrora mais em relevo e dominante.
+
+179
+00:14:20,100 --> 00:14:24,100
+Não lhe importa a inópia de conhecimentos paleontológicos
+
+180
+00:14:24,100 --> 00:14:30,100
+ou a carência de fósseis norteadores, está, evidentemente,
+
+181
+00:14:30,100 --> 00:14:34,100
+sobre a ruinaria de uma sublevação quase extinta,
+
+182
+00:14:34,100 --> 00:14:40,100
+cujo cinclinal ele pôde reconstruir, prolongando as linhas dos estratos
+
+183
+00:14:40,100 --> 00:14:45,100
+que afloram nos sulcos, onde se encaixam aqueles últimos tributários,
+
+184
+00:14:45,100 --> 00:14:51,100
+denunciando todos na tranquilidade relativa, quase remançados
+
+185
+00:14:51,100 --> 00:14:56,100
+nos intervalos de suas corredeiras, restos de velhíssimas catadupas
+
+186
+00:14:56,100 --> 00:15:02,100
+destruídas, a derradeira fase de uma luta em que o Purus,
+
+187
+00:15:02,100 --> 00:15:08,100
+para alongar a sua sessão de estabilidade, teve que derruir montanhas.
+
+188
+00:15:08,100 --> 00:15:13,100
+Pelo menos a atividade erosiva e o volume de materiais arrebatados
+
+189
+00:15:13,100 --> 00:15:18,100
+de todos aqueles pendores foram incalculáveis para que as linhas
+
+190
+00:15:18,100 --> 00:15:24,100
+de drenagem se abastassem até o substrato rochoso e declinassem,
+
+191
+00:15:24,100 --> 00:15:30,100
+como vimos, aos graus apropriados aos cursos navegáveis.
+
+192
+00:15:30,100 --> 00:15:36,100
+Apesar disto, a transição para o trecho seguinte ainda é repentina.
+
+193
+00:15:36,100 --> 00:15:44,100
+Passa-se da declividade quilométrica de 1,60 metros para de 0,22 metros.
+
+194
+00:15:44,100 --> 00:15:50,100
+Mas é o único salto. Daí por diante, como revela o quadro anterior,
+
+195
+00:15:50,100 --> 00:15:56,100
+até o último segmento extremado pela Foz, onde, para descer-se 1 metro,
+
+196
+00:15:56,100 --> 00:16:02,100
+se tem de caminhar 66,700, a atenuação dos declives prossegue
+
+197
+00:16:02,100 --> 00:16:08,100
+a regularidade perfeita, incluindo porus entre as caudais de todo regularizadas,
+
+198
+00:16:08,100 --> 00:16:12,100
+cujo ciclo vital progressivo vai cerrando-se.
+
+199
+00:16:12,100 --> 00:16:18,100
+Não aprofunda mais o leito. Os próprios afloramentos de grés para
+
+200
+00:16:18,100 --> 00:16:24,100
+Sunstein, aparecendo nas vazantes, dispersos entre o Itanaã e Embocadura do Acre,
+
+201
+00:16:24,100 --> 00:16:29,100
+e dali para cima, ainda mais raros, até pouco além do Iaco,
+
+202
+00:16:29,100 --> 00:16:34,100
+reforçam a afirmativa, bem que na aparência a invalidem.
+
+203
+00:16:34,100 --> 00:16:40,100
+Restos de antigas corredeiras desmanteladas surgem como testemunhos
+
+204
+00:16:40,100 --> 00:16:46,100
+das razões primitivas e não provocam, em geral, o mínimo desnivelamento.
+
+205
+00:16:46,100 --> 00:16:52,100
+O pequeno povoado da cachoeira, que se erige defrontando um trecho tranquilo do rio,
+
+206
+00:16:52,100 --> 00:16:57,100
+tem o mais impróprio dos nomes, expressivos apenas no recordar
+
+207
+00:16:57,100 --> 00:17:03,100
+um incidente perdido em remoto passado geológico, e do qual perduram
+
+208
+00:17:03,100 --> 00:17:09,100
+tão somente alguns blocos desordenadamente acumulados em minúsculos recifes
+
+209
+00:17:09,100 --> 00:17:15,100
+e breves travessões. Ali, como nos outros trechos,
+
+210
+00:17:15,100 --> 00:17:21,100
+o mesmo quadro da terra, estirando-se, complanada pelos quadrantes,
+
+211
+00:17:21,100 --> 00:17:27,100
+sondulada, denunciando a mais completa molduragem, associa-se
+
+212
+00:17:27,100 --> 00:17:33,100
+aos demais caracteres do sugerir a derradeira fase do processo evolutivo do vale.
+
+213
+00:17:33,100 --> 00:17:39,100
+Um elemento apenas falta, a regularidade na sucessão das curvas de nível,
+
+214
+00:17:39,100 --> 00:17:44,100
+das vertentes imediatas às margens que se fronteiam.
+
+215
+00:17:44,100 --> 00:17:49,100
+Qualquer seção transversal do Purus representa, às mais das vezes,
+
+216
+00:17:49,100 --> 00:17:55,100
+uma praia da deprimida, que mal se alteia, vagarosamente, até o rebordo longínquo
+
+217
+00:17:55,100 --> 00:18:01,100
+da planície pouco elevada, contraposta a uma barranca despenhada,
+
+218
+00:18:01,100 --> 00:18:06,100
+como a da margem oposta à boca dos xangles, ou, caindo às vezes a prumo,
+
+219
+00:18:06,100 --> 00:18:11,100
+feito uma muralha, como na situação admirável do cataí.
+
+220
+00:18:11,100 --> 00:18:16,100
+É que a imutabilidade daquele perfil de equilíbrio se anteponha
+
+221
+00:18:16,100 --> 00:18:21,100
+à imutabilidade da sua planta, em escala capaz de justificar aos que a incluem
+
+222
+00:18:21,100 --> 00:18:26,100
+entre os rios, cujos leitos e margens não estão sequer delineados em seus perfis
+
+223
+00:18:26,100 --> 00:18:29,100
+de estrutura definida e assente.
+
+224
+00:18:29,100 --> 00:18:35,100
+Realmente, o Purus, um dos mais tortuosos cursos d'água que se registram,
+
+225
+00:18:35,100 --> 00:18:38,100
+é também dos que mais variam de leito.
+
+226
+00:18:38,100 --> 00:18:42,100
+De vaga, consoante o dizer dos modernos geógrafos,
+
+227
+00:18:42,100 --> 00:18:47,100
+a própria velocidade diminuta que adquiriu e vai decrescendo sempre
+
+228
+00:18:47,100 --> 00:18:53,100
+até ao quase rebalsamento nas cercanias da foz, aliada à inconsistência
+
+229
+00:18:53,100 --> 00:18:58,100
+dos terrenos aluvianos formados por ele mesmo, com os materiais
+
+230
+00:18:58,100 --> 00:19:03,100
+conduzidos das nascentes, determina-lhe este caráter volúvel.
+
+231
+00:19:03,100 --> 00:19:10,100
+Às suas águas, derivando em correntezas fracas, falta a quantidade de movimento
+
+232
+00:19:10,100 --> 00:19:13,100
+necessárias de extorsões intorcíveis.
+
+233
+00:19:13,100 --> 00:19:16,100
+Um mínimo obstáculo desloca-as.
+
+234
+00:19:16,100 --> 00:19:22,100
+Um tronco de Samaúma que tombe de uma das margens, abarreirando-se ligeiramente,
+
+235
+00:19:22,100 --> 00:19:29,100
+desvia o empuxo da massa líquida contra a outra, onde de pronto se exercita,
+
+236
+00:19:29,100 --> 00:19:34,100
+menos virtude da força viva da corrente que da incoerência das terras,
+
+237
+00:19:34,100 --> 00:19:38,100
+intensíssima erosão de efeitos precipitados.
+
+238
+00:19:38,100 --> 00:19:44,100
+A indecisa arqueadura, que logo se forma circularmente, se acentua,
+
+239
+00:19:44,100 --> 00:19:49,100
+e à medida que aumenta, vai tornando mais violentos os ataques da componente
+
+240
+00:19:49,100 --> 00:19:54,100
+centrífuga da correnteza, que lhe solapa a concavidade crescente,
+
+241
+00:19:54,100 --> 00:20:01,100
+fazendo que em poucos anos todo o rio se afaste lateralmente do primitivo rumo.
+
+242
+00:20:01,100 --> 00:20:07,100
+Mas, como este se traçou adstrito aos pontos determinantes de um perfil
+
+243
+00:20:07,100 --> 00:20:12,100
+de equilíbrio inviolável, aquele desvio nunca é uma bifurcação
+
+244
+00:20:12,100 --> 00:20:15,100
+ou uma definitiva mudança.
+
+245
+00:20:15,100 --> 00:20:22,100
+O rio, depois de rasgar o amplo circo de erosão, procura volver ao antigo canal,
+
+246
+00:20:22,100 --> 00:20:28,100
+como quem contorneou apenas um obstáculo encontrado em caminho.
+
+247
+00:20:28,100 --> 00:20:32,100
+O círculo por onde ele se alonga tende a fechar-se.
+
+248
+00:20:32,100 --> 00:20:38,100
+De sorte que toda a área de terrenos abrangidos se transmuda em verdadeira península,
+
+249
+00:20:38,100 --> 00:20:45,100
+ligada por um ístimo tão delgado, às vezes, que o caminhante o atravessa em minutos,
+
+250
+00:20:45,100 --> 00:20:49,100
+enquanto gasta um dia inteiro de viagem, embarcado,
+
+251
+00:20:49,100 --> 00:20:53,100
+para prolongar o contorno da terra quase insulada.
+
+252
+00:20:53,100 --> 00:20:58,100
+Por fim, esta se destaca, ilhando-se de todo.
+
+253
+00:20:58,100 --> 00:21:04,100
+No sobrevir de uma enchente, o puruz despedaça a frágil barreira do ístimo
+
+254
+00:21:04,100 --> 00:21:09,100
+e retoma de golpe o primitivo curso, deixando à margem,
+
+255
+00:21:09,100 --> 00:21:16,100
+a relembrar o desvio por onde devagou, um lago anular, não raro, amplíssimo.
+
+256
+00:21:16,100 --> 00:21:21,100
+Prossegue, reproduz adiante outros meandros caprichosos,
+
+257
+00:21:21,100 --> 00:21:27,100
+completados sempre pela criação dos mesmos lagos ou sacados.
+
+258
+00:21:27,100 --> 00:21:33,100
+E assim vai, perpetuamente oscilante, aos lados de seu eixo invariável,
+
+259
+00:21:33,100 --> 00:21:41,100
+num ritmo perfeito, refletindo o jogar de leis mecânicas capazes de se sintetizarem numa fórmula
+
+260
+00:21:41,100 --> 00:21:48,100
+que seria a tradução analítica de curioso movimento pendular sobre um plano de nível.
+
+261
+00:21:48,100 --> 00:21:55,100
+Desta maneira, ali se resolve, naturalmente, um dos mais sérios problemas de hidráulica fluvial.
+
+262
+00:21:55,100 --> 00:22:01,100
+De fato, aqueles lagos são verdadeiros diques, funcionando com um duplo efeito.
+
+263
+00:22:01,100 --> 00:22:08,100
+De um lado, impedem as inundações devastadoras, absorvendo os excessos das cheias transbordantes.
+
+264
+00:22:08,100 --> 00:22:13,100
+De outro lado, regulam o regime das águas durante as grandes estiagens,
+
+265
+00:22:13,100 --> 00:22:20,100
+em que se abrem, por si mesmos, automaticamente, estourando, para usar uma expressão local,
+
+266
+00:22:20,100 --> 00:22:27,100
+e restituindo ao rio empobrecido da vazante, parte das massas líquidas que economizaram.
+
+267
+00:22:27,100 --> 00:22:33,100
+Não se calcula o valor destes trabalhos colossais da natureza.
+
+268
+00:22:33,100 --> 00:22:37,100
+Revela-nos bem um confronto expressivo.
+
+269
+00:22:37,100 --> 00:22:44,100
+Os hidráulicos franceses que averbaram, em 1856, como por menor inverossímio,
+
+270
+00:22:44,100 --> 00:22:53,100
+uma subida de 10,90 metros das águas do Garonne, originando uma das inundações mais funestas que tem ocorrido na Europa,
+
+271
+00:22:53,100 --> 00:22:59,100
+certo não compreenderiam a própria existência do vasto território amazônico,
+
+272
+00:22:59,100 --> 00:23:04,100
+convizinho ao Purush, que vale cerca de 50 Garonnes cheios,
+
+273
+00:23:04,100 --> 00:23:10,100
+se soubessem que ele se alteia 15 metros na Foz, onde tem uma milha de largo,
+
+274
+00:23:10,100 --> 00:23:20,100
+e que dali a montante, as águas tufam, num crescendo espantoso, até 23 metros sobre as estiagens, na confluência do Acre.
+
+275
+00:23:20,100 --> 00:23:24,100
+No entanto, estas enchentes são inócuas.
+
+276
+00:23:24,100 --> 00:23:31,100
+A massa líquida inflada, logo às primeiras chuvas, sobe, galgando velozmente as barrancas,
+
+277
+00:23:31,100 --> 00:23:38,100
+e em poucos dias vai bater nos esteios dos barracões, eretos nos firmes mais altos do terreno.
+
+278
+00:23:38,100 --> 00:23:47,100
+E todo este dilúvio em marcha não acachoua, não tumultua, não se arremessa em correntezas vertiginosas,
+
+279
+00:23:47,100 --> 00:23:55,100
+não enlei as embarcações, torcendo-as nas espirais vibrantes dos remoinhos, e não devasta a terra.
+
+280
+00:23:55,100 --> 00:24:05,100
+Difunde-se, estingue-se silenciosamente, perde-se inofensivo naqueles milhares de válvulas de segurança,
+
+281
+00:24:05,100 --> 00:24:14,100
+espraiando-se raso pelo chão das matas, ou espalmando-se desafogadamente em desmarcadas superfícies,
+
+282
+00:24:14,100 --> 00:24:26,100
+onde repontam, salteadas, as últimas ramas floridas dos igapós afogados, vai, ao contrário, regenerando aquela mesma terra,
+
+283
+00:24:26,100 --> 00:24:36,100
+e reconstruindo-a, porque a torna, de ano em ano, mais elevada com a comatagem perfeita de toda a vasa que a carreta.
+
+284
+00:24:36,100 --> 00:24:49,100
+Assim, em toda aquela planura, o notável afluente amazônico, serpenteando nas inumeráveis sinuosas que lhe tornam as distâncias itinerárias duplas das geográficas,
+
+285
+00:24:49,100 --> 00:24:58,100
+inclui-se entre os mais interessantes rios trabalhadores, construindo os diques submersíveis que o aliviam nas enchentes,
+
+286
+00:24:58,100 --> 00:25:09,100
+e lhe repontam, intermitentemente, as duas bandas, hora próximos, hora afastados, salpitando todas as várzeas ribeirinhas,
+
+287
+00:25:09,100 --> 00:25:19,100
+e avultando maiores e mais numerosos à medida que se desce e se amortecem os declives até a larga baixada centralizada em Canutana,
+
+288
+00:25:19,100 --> 00:25:32,100
+onde as grandes águas tranquilas derivam majestosamente equilibradas, sulcando de meio a meio a vastidão de nível de um mediterrâneo esparço.
+
+289
+00:25:32,100 --> 00:25:45,100
+Mas esta formação de lagos ou reservatórios naturais, cuja função benéfica vimos de relância, acarreta inconvenientes de tal porte que tornam, por vezes,
+
+290
+00:25:45,100 --> 00:25:57,100
+em alguns pontos, quase impenetrável uma artéria fluvial que, pelos elementos privilegiados de seu perfil, concorre com as mais acessíveis à navegação regular.
+
+291
+00:25:57,100 --> 00:26:10,100
+Realmente, nesse afonoso derruir de barrancas, para torcer-se em seus incontáveis meandros, o puru entope-se com as raízes e troncos das árvores que o marginam.
+
+292
+00:26:10,100 --> 00:26:23,100
+Às vezes, é um lanço nido, de quilômetros, de barreira, que ele cai de uma vez e de súbito em cima, atirando-lhe, desarraigada, sobre o leito, uma floresta inteira.
+
+293
+00:26:23,100 --> 00:26:29,100
+O fato é vulgaríssimo. Conhece-no todos os que por ali andam.
+
+294
+00:26:29,100 --> 00:26:44,100
+Não raro, viajante à noite, desperta, sacudido por uma vibração de terremoto, e aturde-se apavorado, ouvindo logo após o fragor indescritível de miríades de frontes, de troncos, de galhos,
+
+295
+00:26:44,100 --> 00:26:59,100
+entrebatendo-se, rangendo, estalando e caindo, todos a um tempo, num baque surdo e prolongado, lembrando o assalto fulminante de um cataclismo e um desabamento da terra.
+
+296
+00:26:59,100 --> 00:27:07,100
+São, de fato, as terras caídas, das quais resultam sempre duas sortes de obstáculos.
+
+297
+00:27:07,100 --> 00:27:18,100
+De um lado, o inextricável acervo de galhadas e troncos, que se entrecruzam à superfície d'água, ou irrompem em pontas ameaçadoras do fundo.
+
+298
+00:27:18,100 --> 00:27:38,100
+E de outro, as massas argilosas, ou argilo-arenosas, que a corrente, pouco veloz, não dissolve, permitindo-lhes acumularem-se nas minúsculas ilhotas dos torrões, ou, mais prejudiciais, nos rasos bancos compactos dos salões,
+
+299
+00:27:38,100 --> 00:27:49,100
+impropriando a passagem aos mais diminutos calados. Não precisamos insistir neste fato. A sua gravidade é intuitiva.
+
+300
+00:27:49,100 --> 00:27:58,100
+E, considerando-se que ele se reproduz em toda a extensão de 480 quilômetros que vai da embocadura do Iaco, a do Curiuja,
+
+301
+00:27:58,100 --> 00:28:11,100
+onde se acumulam cada vez mais aqueles entraves indefinidamente crescentes, chega-se a concluir que o Purus, depois de haver conseguido um dos mais regulares perfis de toda a hidrografia,
+
+302
+00:28:11,100 --> 00:28:18,100
+e de aparelhar-se com os melhores elementos predispostos e uma rara fixidez de regime,
+
+303
+00:28:18,100 --> 00:28:31,100
+erigindo-se modelo admirável entre as caudais mais bem talhadas à grande navegação, está agora, a pouco e pouco, perdendo a maior parte dos seus requisitos superiores,
+
+304
+00:28:31,100 --> 00:28:40,100
+com o progredir de um atravancamento em larga escala, que o tornará, mais tarde, inteiramente impenetrável.
+
+305
+00:28:40,100 --> 00:28:48,100
+Dizêmos-lo, baseando-nos em penosa experiência culminada por um naufrágio. Sobretudo, além da embocadura dos chandlis,
+
+306
+00:28:48,100 --> 00:28:59,100
+multiplicam-se tanto estes empecilhos de tudo estranhos a tectônica especial do rio, que, em longos estirões, com a profundidade média de 5 a 6 pés,
+
+307
+00:28:59,100 --> 00:29:07,100
+nas vazantes, onde passariam carregadas as mais poderosas lanchas, mal pode deslizar uma montaria ligeira.
+
+308
+00:29:07,100 --> 00:29:19,100
+Excusamos-nos de exemplificar, alongando estas considerações ligeiras. Notemos apenas que, a partir do tributário precitado, até a bifurcação cujar curiuja,
+
+309
+00:29:19,100 --> 00:29:31,100
+o puruch, em vários lugares, parece correr por cima de uma antiga derrubada. Vai-se como entre os galhos estonados e revoltos de uma floresta morta.
+
+310
+00:29:31,100 --> 00:29:41,100
+E se observamos que, além dos empeços em si mesmos encerrados, estas tranqueiras, rebaulçando as águas que se filtram entre os ramos unidos,
+
+311
+00:29:41,100 --> 00:29:53,100
+facilitam a formação de toda sorte de baixios, compreender-se-á, em toda sua latitude, o progredimento contínuo dessa obstrução prejudicialíssima.
+
+312
+00:29:53,100 --> 00:30:05,100
+Porque os homens que ali morejam, o calcheiro peruano com as suas tanganas rijas nas montarias velozes, o nosso seringueiro com os varejões que lhes impulsionam as ubás,
+
+313
+00:30:05,100 --> 00:30:18,100
+ou o regatão de todas as pátrias que por ali mercadeja nas ronceiras alvarengas arrastadas à cirga, nunca intervem para melhorar a sua única e magnífica estrada.
+
+314
+00:30:18,100 --> 00:30:34,100
+Passam e repassam nas paragens perigosas, esbarram mil vezes a canoa num tronco caído há dez anos junto à beira de um canal, insinuam-se mil vezes com as maiores dificuldades numa ramagem revolta,
+
+315
+00:30:34,100 --> 00:30:49,100
+barrando-lhes de lado a lado o caminho, encalham e arrastam penosamente as canoas sobre os mesmos salões de argila endurecida, vezes sem conta arriscam-se ao naufrágio,
+
+316
+00:30:49,100 --> 00:31:04,100
+precipitando, ao som das águas, as ubás contra as pontas duríssimas dos troncos que se arristam invisíveis, submersos de um palmo, mas não despendem um mínimo esforço,
+
+317
+00:31:04,100 --> 00:31:12,100
+e não despendem um golpe único de facão ou de machado num só daqueles paus para desafogar a travessia.
+
+318
+00:31:12,100 --> 00:31:25,100
+As lanchas e até os vapores que ali vão aparecendo mais a miúdo, à medida que avultam as safras dos cento e vinte opulentos seringais que já se abriram acima da confluência do Iaco,
+
+319
+00:31:25,100 --> 00:31:34,100
+viajam invariavelmente nas quadras favoráveis das cheias quando aqueles entraves se afogam em alguns metros de fundo.
+
+320
+00:31:34,100 --> 00:31:48,100
+Sobem velozes o rio, descarregam precipitadamente em vários pontos as mercadorias consignadas, carregam-se de borracha e tornam logo precipites, águas abaixo, fugindo.
+
+321
+00:31:48,100 --> 00:32:10,100
+Apesar disto, algumas não se forram, arrepentindo as descidas de nível, prendendo-as, e lá se ficam, longos meses, esperando a outra enchente, ou inesperado de um repiquete propício, invernando paradoxalmente sob as soalheiras caniculares, nas mais curiosas situações.
+
+322
+00:32:10,100 --> 00:32:30,100
+Ora em pleno rio, agarradas pelos centenares de braços das árvores secas que as imobilizam, ora a meio da barranca, onde as surpreendeu a vazante, grosseiramente especadas, incumbentes, com as proas afucinhando, inclinadas, em riscos permanentes de queda.
+
+323
+00:32:30,100 --> 00:32:42,100
+Ora no alto de uma barreira, como autênticos navios fantasmas, aparecendo de improviso e surpreendentemente, em plena entrada da mata majestosa.
+
+324
+00:32:42,100 --> 00:32:50,100
+O contraste desta navegação, com as admiráveis condições técnicas imanentes ao rio, é flagrante.
+
+325
+00:32:50,100 --> 00:33:07,100
+Por uns, e como ele, todos os tributários meridionais do Amazonas, a parte madeira, está inteiramente abandonado. Entretanto, o simples enunciado destes inconvenientes, evidentemente alheios às suas admiráveis condições estruturais,
+
+326
+00:33:07,100 --> 00:33:22,100
+delata que a remoção deles, embora demorada, não demanda trabalhos excepcionais de engenharia e excepcionais despêndios. O que resta fazer ao homem é rudimentar e simples.
+
+327
+00:33:22,100 --> 00:33:34,100
+Os grandes, os sérios problemas de hidráulica fluvial que ali houve, resolveu-os o próprio rio, agindo no jogo harmonioso das forças naturais que o modelaram.
+
+328
+00:33:34,100 --> 00:33:49,100
+E eles representam um trabalho incalculável. O Purus é uma das maiores dádivas, entre tantas, com que nos esmaga uma natureza escandalosamente perdulária. Vejamos-lo de relance.
+
+329
+00:33:49,100 --> 00:34:00,100
+Toda a hidráulica fluvial parece ter nascido entre os leitos do Garone de Loire, tais e tantos os monumentos que ali levantou a engenharia francesa.
+
+330
+00:34:00,100 --> 00:34:06,100
+Nunca o homem arremeteu com tanta pertinência e brilho com a brutalidade dos elementos.
+
+331
+00:34:06,100 --> 00:34:34,100
+Os romanos transfigurando a Argélia e os holandeses construindo a Holanda, emparelham-se bem com os abnegados profissionais que, durante um século, impassíveis antissucessivos revezes, se devotaram à empresa exaustiva de paralisar torrentes, de atenuar inundações e de encadear avalanchas, na dupla tentativa de facilitar a navegação e de proteger os territórios ribeirinhos.
+
+332
+00:34:34,100 --> 00:34:49,100
+E a todo esse magnífico esforço, em que se mortalizaram Deschamps, Delafois e Belgan, resultou em grande parte inútil, inútil ou contraproducente. Os primores da engenharia estragaram o luar.
+
+333
+00:34:49,100 --> 00:35:11,100
+Os diques, submersíveis ou insubmersíveis, destinados a salvarem as povoações, os canais de socorro que se lhes anexavam, as margens artificiais, ladeando em dezenas de quilômetros, o leito menor das caudais, os enrocamentos antepostos às erosões, as barragens antepostas às correntezas,
+
+334
+00:35:11,100 --> 00:35:31,100
+tinham em geral a duração efêmera dos seis meses da estiagem, tal a inconstância irreparável daquelas artérias. Por fim, engenharam-se estupendos reservatórios, alcã-dourados nos pirineus, escalonando-se por todos os pendores para armazenar as inundações.
+
+335
+00:35:31,100 --> 00:35:41,100
+E armazenavam catástrofes, rompendo-se-lhe os muros, de onde saltavam as ondas despenhadas, varrendo povoados inteiros.
+
+336
+00:35:41,100 --> 00:36:05,100
+Mas ainda quando estas roturas dos reservatórios compensadores não formassem os episódios mais dramáticos da história da engenharia, e eles pudessem erigir-se, estáveis e sem riscos, nós, quaisquer que fossem os nossos esforços e os nossos despêndios, jamais os construiríamos como não nos construiu o porus.
+
+337
+00:36:05,100 --> 00:36:26,100
+Considere-se para isto este exemplo. Duponchel, para dar ao Neste um pequeno rio com a despesa média de vinte e cinco metros cúbicos, um modelo constante que lhe amortecesse as inundações, calculou um reservatório de trezentos bilhões de litros e recuou ante um algarismo colossal.
+
+338
+00:36:26,100 --> 00:36:35,100
+Ora, o Neste é três vezes menor que o Iaco, que, entretanto, não se inclui entre os maiores afluentes do porus.
+
+339
+00:36:35,100 --> 00:36:58,100
+Diante destes dados formidáveis, põe-se de manifesto que a construção de reservatórios compensadores no Grande Rio seria o mesmo que fazer um mar, e conclui-se que os existentes, numerosíssimos, às suas margens, representam um capital inestimável e acima dos mais ousados orçamentos.
+
+340
+00:36:58,100 --> 00:37:22,100
+Precisamos, ao menos, conservá-lo. Aproveitemos uma lição velha de um século. O Mississippi, que no seu curso inferior retrata o traçado do porus com a exação de um decalque, era, pelas mesmas causas, ainda mais ensado de empecilhos, tornando-o quase impenetrável e, em muitos lugares, de todo intransponível.
+
+341
+00:37:22,100 --> 00:37:39,100
+Alguns dos seus tributários não estavam apenas trancados, desapareceriam literalmente sob os abatizes. No entanto, o Grande Rio, hoje transfigurado, desenha-se como um dos traços mais vivos da pertinácia norte-americana.
+
+342
+00:37:39,100 --> 00:38:05,100
+Lá está, porém, no seu vale, em um de seus afluentes, o Rio Vermelho, um caso desalentador. É um rio perdido. O Yan, que descobriu-o, tarde demais. A desmedida tranqueira, the Great Raft, exatamente formada como as que estão formando-se no porus, estira o labirinto de seus madeiros e das suas frondes mortas por seiscentos e trinta quilômetros.
+
+343
+00:38:05,100 --> 00:38:25,100
+E lá está, indestrutível, depois de desafiar, durante vinte e dois anos, os maiores esforços para uma desobstrução impossível. Estabelecida a proporção entre aquele rio minúsculo e o porus, entre nós e o norte-americano, aquilatam-se as dificuldades que nos aguardarão,
+
+344
+00:38:25,100 --> 00:38:45,100
+se progredirem os obstáculos apontados, e cuja remoção atual, completando-se com a defesa, embora rudimentar, das margens mais ameaçadas pelas erosões, é ainda de relativa facilidade. Ao mesmo passo, se atenuarão consideravelmente as devagações precipitadas,
+
+345
+00:38:45,100 --> 00:39:07,100
+que constituem verdadeira anomalia, num rio aparelhado de um perfil de estabilidade demonstrável até geometricamente, como vimos. De qualquer modo, urge iniciar-se, desde já, modestíssimo, mas ininterrupto, passando de governo a governo, numa tentativa persistente e inquebrantável,
+
+346
+00:39:07,100 --> 00:39:23,100
+que seja uma espécie de compromisso de honra com o futuro, um serviço organizado de melhoramentos, pequeno embora em começo, mas crescente com os nossos recursos, que nos salve o majestoso rio.
+
+347
+00:39:23,100 --> 00:39:39,100
+Von den Stein, com a agudeza irrivalizável de seu belo espírito, comparou ao Gures, pintorescamente, o Xingu a um enteado da nossa geografia. Estiremos o paralelo. O purus é um enjeitado.
+
+348
+00:39:39,100 --> 00:39:57,100
+Precisamos incorporá-lo ao nosso progresso, do qual ele será, ao cabo, um dos maiores fatores, porque é pelo seu leito, desmedido em fora, que se traça, nestes dias, uma das mais arrojadas linhas da nossa expansão histórica.
+
+349
+00:39:57,100 --> 00:40:09,100
+Fim da sessão 2
+

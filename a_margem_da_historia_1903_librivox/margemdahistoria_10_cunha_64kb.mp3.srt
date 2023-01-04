@@ -1,0 +1,944 @@
+1
+00:00:00,000 --> 00:00:04,000
+Sessão 10, de A Margem da História, de Euclides da Cunha.
+
+2
+00:00:04,000 --> 00:00:06,960
+Esta gravação LibriVox está em domínio público.
+
+3
+00:00:06,960 --> 00:00:09,360
+Parte 2 – Vários estudos
+
+4
+00:00:09,360 --> 00:00:12,360
+Martim Garcia, Parte 2
+
+5
+00:00:12,360 --> 00:00:18,680
+Referindo-se ao canal que se predestinava a deformar e torcer o rumo das questões platinas,
+
+6
+00:00:18,680 --> 00:00:25,120
+Agustin de Vedilla aponta-nos como o documento mais remoto, revelador de sua existência,
+
+7
+00:00:25,120 --> 00:00:31,520
+um informe do século XVIII, do piloto castelhano Hoyar Bide, destinado a ilustrar mais tarde
+
+8
+00:00:31,520 --> 00:00:35,560
+os debates de limites entre Portugal e Espanha.
+
+9
+00:00:35,560 --> 00:00:40,800
+O descobridor dera-lhe então o nome de Canal do Inferno, por las muchas corrientes que
+
+10
+00:00:40,800 --> 00:00:45,440
+en él hay y la gran marejada con vientos del sur.
+
+11
+00:00:45,440 --> 00:00:51,840
+Poderíamos reivindicar a nossa primazia, herdada, no acontecimento, destacando expressivos
+
+12
+00:00:51,840 --> 00:00:57,640
+tópicos do Diário da Navegação da Armada que veio ao Brasil em 1529, de Pedro Lopes
+
+13
+00:00:57,640 --> 00:01:03,600
+de Souza, de onde se concluiria que o destemeroso Cavaleiro do Mar, esclarecendo a rota de Martim
+
+14
+00:01:03,600 --> 00:01:06,720
+Afonso, perlustrou aquelas paragens.
+
+15
+00:01:06,720 --> 00:01:13,960
+E seria um encanto o seguir-se, longamente, a esteira secular da dilatada derrota descrita
+
+16
+00:01:13,960 --> 00:01:20,320
+naquela língua portuguesa do tempo, onde as sílabas duras traem a palavra robustecida
+
+17
+00:01:20,320 --> 00:01:26,560
+e feita para ser ouvida entre os barulhados ruídos das vagas e das tormentas.
+
+18
+00:01:26,560 --> 00:01:32,680
+Vindo do cabo de Santa Maria, na larga volteadura da costa, e fazendo seu caminho ao longo de
+
+19
+00:01:32,680 --> 00:01:38,880
+lá a um tiro de besta da terra, o grande marinheiro penetrou no Prata, onde o mar
+
+20
+00:01:38,880 --> 00:01:44,680
+era tão grande que não lhe poderia parecer que era rio, num mal dia de tempestade, sob
+
+21
+00:01:44,680 --> 00:01:51,360
+um resplandor de coriscos a sarjarem o cariz dos céus e a romper sobre as vagas rijamente
+
+22
+00:01:51,360 --> 00:01:58,040
+picadas do sudoeste, correndo tanta fortuna quanto a homens nunca passaram.
+
+23
+00:01:58,040 --> 00:02:03,720
+Prosseguiu ao arrepio da correnteza, rumo feito a noroeste, com pouca vela e a sonda
+
+24
+00:02:03,720 --> 00:02:09,880
+na mão, impressionado com os muitos fumos que via no litoral com o vizinho, pelo que
+
+25
+00:02:09,880 --> 00:02:16,920
+determinou de pôr a artelharia em ordem, a irem consertados para pelejar, e lavrou
+
+26
+00:02:16,920 --> 00:02:21,720
+temerariamente as águas daquele impetuoso canal.
+
+27
+00:02:21,720 --> 00:02:28,280
+Alargou-se de terra e foi surgir a postura do sol a uma ilha grande, redonda, toda cheia
+
+28
+00:02:28,280 --> 00:02:34,080
+de arboredo, a qual pôs o nome de Santa Ana, e é hoje Martim-Garcia.
+
+29
+00:02:34,080 --> 00:02:40,200
+Pernoitou-lhe a ilharga, matando muito pescado de muitas maneiras, peixes da altura de um
+
+30
+00:02:40,200 --> 00:02:43,400
+homem, amarelos e outros pretos com pintas vermelhas.
+
+31
+00:02:43,400 --> 00:02:51,200
+Ao outro dia saiu em terra, mas o vento saltou, ao sul, obrigando-o a pôr-se da banda do
+
+32
+00:02:51,200 --> 00:02:57,400
+norte da ilha, com muita tempestade, até que se abonançou o tempo, e ele foi de novo
+
+33
+00:02:57,400 --> 00:03:03,080
+à ilha, onde mandou por fogo em três partes dela, para ver se ele acudia gente, e não
+
+34
+00:03:03,080 --> 00:03:06,200
+viram-se não fungos.
+
+35
+00:03:06,200 --> 00:03:08,760
+Deixou-a velejando a nor-noroeste.
+
+36
+00:03:08,760 --> 00:03:14,640
+Foi surgir, ao cabo de dois dias, a boca de um rio de meia légua de largo, e de uma
+
+37
+00:03:14,640 --> 00:03:18,800
+banda e d'outra tudo cheio de arboredos, que é hoje o Paranaguassu.
+
+38
+00:03:18,800 --> 00:03:27,560
+A água corria muito tesa para baixo, havia de fundo dez, doze braças de lama mole.
+
+39
+00:03:27,560 --> 00:03:31,760
+Apesar disto, foi avante aos remos, e penetrou-o.
+
+40
+00:03:31,760 --> 00:03:37,920
+Ficou-se longos dias, estonteado no labirinto dos paranás, onde tudo eram braços e ilhas,
+
+41
+00:03:37,920 --> 00:03:43,320
+e eram tantas as bocas dos rios que não sabia por onde andava, até chegar à terra, que
+
+42
+00:03:43,320 --> 00:03:49,960
+chamou dos carandins, mandando fazer muitos fungos a ver se lhe acudia gente, e no sertão
+
+43
+00:03:49,960 --> 00:03:52,880
+responderam com fungos muito longe.
+
+44
+00:03:52,880 --> 00:03:59,040
+E porque via que não podia tomar prática da gente da terra, e havia muito que era partido
+
+45
+00:03:59,040 --> 00:04:04,960
+de onde Martin Afonso estava, resolveu se tornar dali, ponde dois padrões das armas
+
+46
+00:04:04,960 --> 00:04:10,760
+de El Rey, e tomando posse da terra, cuja latitude determinou trinta e três graus quarenta
+
+47
+00:04:10,760 --> 00:04:13,080
+e cinco minutos.
+
+48
+00:04:13,080 --> 00:04:18,040
+Este périple, porém, distancia-se exageradamente no passado.
+
+49
+00:04:18,040 --> 00:04:23,480
+Mais expressiva para o nosso caso, até pelas considerações que no momento sugeriu, foi
+
+50
+00:04:23,480 --> 00:04:31,160
+a notícia, transmitida de Buenos Aires, em dezembro de 1855, pelo tenente Page, comandante
+
+51
+00:04:31,160 --> 00:04:32,160
+da U.S.
+
+52
+00:04:32,160 --> 00:04:37,600
+Timor-Water-Whittle, à Real Sociedade Geográfica de Londres, que, sobre reivindicar para o
+
+53
+00:04:37,600 --> 00:04:43,680
+marinheiro Yankee a precedência da descoberta, nestes tempos, naquele canal, depois de um
+
+54
+00:04:43,680 --> 00:04:50,360
+apagamento três vezes secular, tem o mérito de expor, imparcialmente, às claras, sem
+
+55
+00:04:50,360 --> 00:04:57,320
+preconceitos intuitos, um juízo superior quanto aos limites jurisdicionais das águas do estuário,
+
+56
+00:04:57,320 --> 00:05:04,360
+como o tecido do beneplácito da mais ilustre entre todas as associações geográficas.
+
+57
+00:05:04,360 --> 00:05:09,760
+Traduzindo-se o comunicado inserido em um dos boletins daquela sociedade, observa-se
+
+58
+00:05:09,760 --> 00:05:15,840
+realmente que, naquele ano, o comandante Page descobrira uma nova passagem entre a ilha
+
+59
+00:05:15,840 --> 00:05:22,740
+de Martim Garcia e a costa oriental, tendo mais dois pés de fundo do que a antiga.
+
+60
+00:05:22,740 --> 00:05:28,480
+Mas a importância do achado não estava apenas naquela maior profundidade do novo canal,
+
+61
+00:05:28,480 --> 00:05:32,640
+senão também no caráter político que ele assumiria.
+
+62
+00:05:32,640 --> 00:05:37,920
+Ele destinava-se a despojar Martim Garcia da importância geográfica que lhe dava o
+
+63
+00:05:37,920 --> 00:05:44,240
+governo de Buenos Aires, porque a exclusiva jurisdição que até aquela época este último
+
+64
+00:05:44,240 --> 00:05:51,480
+exercia sobre o antigo canal a correr todo em seu território, seria contrapor, na nova
+
+65
+00:05:51,480 --> 00:05:54,600
+passagem, a jurisdição concorrente da banda oriental.
+
+66
+00:05:54,600 --> 00:06:01,960
+O novo caminho, além de mais praticável, afastava-se de uma e um quarto de milha da
+
+67
+00:06:01,960 --> 00:06:07,640
+ilha, retirando-lhe assim o comando perfeito anteriormente exercido sobre as entradas dos
+
+68
+00:06:07,640 --> 00:06:09,240
+rios Paraná e Uruguai.
+
+69
+00:06:09,240 --> 00:06:16,520
+A tradução é quase literal, e deve-se convir deletreando-a de par com o original
+
+70
+00:06:16,520 --> 00:06:22,480
+em inglês, em que o comandante Page parece haver traçado aquelas linhas como se em largo
+
+71
+00:06:22,480 --> 00:06:25,640
+discordino contemplasse o futuro.
+
+72
+00:06:25,640 --> 00:06:31,800
+É de lamentar-se que Agustin de Bedilla não as interserisse na argumentação poderosa.
+
+73
+00:06:31,800 --> 00:06:38,240
+Com efeito, não só elas reúnem como resolvem o embaraçadíssimo assunto.
+
+74
+00:06:38,240 --> 00:06:40,080
+Se não, vejamos.
+
+75
+00:06:40,080 --> 00:06:46,400
+A questão do prata, relativa à soberania e subsecutiva jurisdição das suas águas,
+
+76
+00:06:46,400 --> 00:06:52,320
+excluído o incidente da posse de Martim Garcia, hoje desvalioso e apto a ser resolvido à
+
+77
+00:06:52,320 --> 00:06:59,480
+parte, divide-se em dois aspectos fundamentais, consoante os critérios divergentes, naturalmente
+
+78
+00:06:59,480 --> 00:07:05,040
+oriundos da própria feição ambígua, meio fluvial, meio marítima do estuário.
+
+79
+00:07:05,040 --> 00:07:12,240
+Há uma banda, alinham-se os que o consideram uma reentrância, ou entalhadura atlântica,
+
+80
+00:07:12,240 --> 00:07:16,020
+submetida ao regime internacional dos mares livres.
+
+81
+00:07:16,020 --> 00:07:21,960
+É o critério britânico, ainda pouco formulado entre violentos protestos da opinião uruguaia,
+
+82
+00:07:21,960 --> 00:07:27,080
+a contrastar com a injustificável indiferença da opinião argentina.
+
+83
+00:07:27,080 --> 00:07:33,940
+Há outra banda, estão os que ali veem, esteando-se nas mais firmes, nas mais infrangíveis e
+
+84
+00:07:33,940 --> 00:07:41,360
+nas mais claras noções fisiográficas, um rio, e consequentemente, há descrito a jurisdição
+
+85
+00:07:41,360 --> 00:07:46,020
+interior ou privativa dos países circundantes.
+
+86
+00:07:46,020 --> 00:07:51,000
+É o critério uruguaio neste momento, e o critério argentino tradicional até pouco
+
+87
+00:07:51,000 --> 00:07:52,000
+tempo.
+
+88
+00:07:52,000 --> 00:08:00,000
+Poder-se-ia ditar uma terceira forma, a que mais a engravece Dana, dos que, caracterizando-se
+
+89
+00:08:00,000 --> 00:08:06,740
+como rio, ampliam desmedidamente os direitos de uma posse exclusiva, admitindo que sobre
+
+90
+00:08:06,740 --> 00:08:12,760
+todo ele, até o último farelhão de ilhota inapreciável, até o último grão de areia
+
+91
+00:08:12,760 --> 00:08:18,900
+das suas barrancas, molhado das enchentes, até a última ponta de cabucho a arremessar-se
+
+92
+00:08:18,900 --> 00:08:25,760
+das costas, se possa generalizar a soberania indiscutível de uma nação isolada, criando-se
+
+93
+00:08:25,760 --> 00:08:27,720
+um monopólio das águas.
+
+94
+00:08:27,720 --> 00:08:34,760
+E este seria o critério argentino atual se, como veremos depois, os juízos mais elevados
+
+95
+00:08:34,760 --> 00:08:40,120
+e lúcidos emitidos pelos melhores homens de governo da república desde os princípios
+
+96
+00:08:40,120 --> 00:08:47,240
+do século até hoje, não livrassem uma nacionalidade de subscrever a doutrina singularíssima de
+
+97
+00:08:47,240 --> 00:08:52,640
+Stanislaus Ebalus, malgrado a sua invejável inteligência.
+
+98
+00:08:52,640 --> 00:08:53,640
+Não antecipemos.
+
+99
+00:08:53,640 --> 00:08:59,480
+Daquela comunicação, propagada depois pelo presidente da grande Associação Científica
+
+100
+00:08:59,480 --> 00:09:04,640
+da Inglaterra, resultam desde logo duas consequências essenciais.
+
+101
+00:09:04,640 --> 00:09:10,700
+A um lado, é ilativo que já naqueles tempos, ao parecer das autoridades mais sérias e
+
+102
+00:09:10,700 --> 00:09:16,560
+filhas da nação entre todas mais interessada em se definirem as bases físicas, onde se
+
+103
+00:09:16,560 --> 00:09:23,960
+decalcam os princípios reguladores da navegação geral, o prata não se considerava um mar livre.
+
+104
+00:09:23,960 --> 00:09:28,000
+A opinião do oficial norte-americano não era isolada.
+
+105
+00:09:28,000 --> 00:09:33,480
+Além de seu prestígio oficial, refletiu naturalmente a de outros profissionais, sobretudo
+
+106
+00:09:33,480 --> 00:09:39,600
+ingleses, que naquele mesmo ano estudavam, por ordem expressa do almirantado, aqueles
+
+107
+00:09:39,600 --> 00:09:46,520
+lugares, bastando se nomear o Lieutenant Sidney, encarregado das sondagens nos baixios circunjacentes
+
+108
+00:09:46,520 --> 00:09:52,600
+a Martin Garcia, ou o Lieutenant Day, a quem se deve uma das melhores cartas do Paraná
+
+109
+00:09:52,600 --> 00:09:54,120
+a partir de Corrientes.
+
+110
+00:09:54,120 --> 00:10:00,760
+Ademais, a Sociedade Geográfica de Londres reforçara-lhe implicitamente o acerto.
+
+111
+00:10:00,760 --> 00:10:07,280
+Desde tarde, o protesto recente do Uruguai contra o governo da Inglaterra, quando este
+
+112
+00:10:07,280 --> 00:10:13,900
+considerou o estuário um braço de mar, tentando debruar-lhe as margens com a faixa ideal das
+
+113
+00:10:13,900 --> 00:10:20,920
+três milhas dos limites territoriais, contestando às nações ribeirinhas velhíssimos poderes
+
+114
+00:10:20,920 --> 00:10:28,920
+incorporados no Direito Internacional desde os Tratados de Paris e de Viena, 1815 e 1816,
+
+115
+00:10:28,920 --> 00:10:35,900
+naquele lance a diplomacia uruguaia poderia religar os seus argumentos com as linhas tradicionais
+
+116
+00:10:35,900 --> 00:10:38,640
+da geografia britânica.
+
+117
+00:10:38,640 --> 00:10:44,880
+Elas asseguram o caráter fluvial do estuário, aliás, derivado da sua interessante gênese
+
+118
+00:10:44,880 --> 00:10:52,040
+geológica, e removem da discussão, simplificando-a, aquelas regras instáveis das demarcações
+
+119
+00:10:52,040 --> 00:10:58,280
+das águas jurisdicionais, que intermitem a variarem em todos os convênios, sempre
+
+120
+00:10:58,280 --> 00:11:05,760
+mudáveis, sempre provisórias no recortarem as faixas dos mares territoriais, que hoje
+
+121
+00:11:05,760 --> 00:11:11,680
+se alargam entre os limites extremos de três e cinco milhas, e serão amanhã mais largas
+
+122
+00:11:11,680 --> 00:11:18,480
+e irão aumentando a pouco e pouco indefinidamente elásticas, dilatadas pela voz troante dos
+
+123
+00:11:18,480 --> 00:11:24,960
+canhões de costa e submetendo o espírito do legislador aos ramos ascendentes das parábolas
+
+124
+00:11:24,960 --> 00:11:25,960
+das balas.
+
+125
+00:11:25,960 --> 00:11:34,640
+Ao outro lado, conclui-se que, já naqueles tempos, entre profissionais de todo despeados
+
+126
+00:11:34,640 --> 00:11:40,840
+das lutas ou rivalidades acaso existentes entre as repúblicas platinas, se punha de
+
+127
+00:11:40,840 --> 00:11:47,560
+manifesto o conceito de que o Rio, nos limites das regras normais estabelecidas, era também
+
+128
+00:11:47,560 --> 00:11:52,760
+parte integrante do Uruguai, compartido por ele e pela Argentina.
+
+129
+00:11:52,760 --> 00:11:54,640
+Os dizeres são límpidos.
+
+130
+00:11:54,640 --> 00:12:00,680
+O canal recém-descoberto despojaria a ilha de Martim Garcia da importância política
+
+131
+00:12:00,680 --> 00:12:07,840
+e geográfica que lhe dava o governo de Buenos Aires em virtude de um motivo essencial, resumindo-se
+
+132
+00:12:07,840 --> 00:12:14,400
+em que dali por diante a entrada nos rios Paraná e Uruguai, que ela comandava do lado
+
+133
+00:12:14,400 --> 00:12:19,880
+argentino, deslocava-se para a outra banda, onde haveria de repartir-se com a República
+
+134
+00:12:19,880 --> 00:12:25,080
+Oriental, numa fiscalização, até aquela época, indivisa e privativa.
+
+135
+00:12:25,080 --> 00:12:31,520
+O lance de vistas do comandante Page, porém, foi ainda mais longe.
+
+136
+00:12:31,520 --> 00:12:37,560
+Naquele conceitear que a valia de sua descoberta estava menos nos requisitos físicos da nova
+
+137
+00:12:37,560 --> 00:12:43,760
+passagem do que no caráter político que ela assumiria, o seu magnífico bom senso
+
+138
+00:12:43,760 --> 00:12:46,880
+dilatou-se na visão de um estadista.
+
+139
+00:12:46,880 --> 00:12:53,440
+Adivinhou, com surpreendedora presciência, que aquela jurisdição comparte, naturalmente
+
+140
+00:12:53,440 --> 00:13:00,840
+e obrigatoriamente comparte, tão clara, tão de si mesmo evidente, tão a desenhar-se
+
+141
+00:13:00,840 --> 00:13:07,960
+nas mais nítidas linhas geográficas, teria de ser iludida, ou discutida, ou quase sonegada
+
+142
+00:13:07,960 --> 00:13:15,200
+mais tarde, acarretando ilógico e condenável tumulto em toda a política internacional
+
+143
+00:13:15,200 --> 00:13:23,440
+sul-americana, e relanciou um futuro obscurecido, do qual, somente passados cinquenta e dois
+
+144
+00:13:23,440 --> 00:13:26,240
+anos, se descerrariam os véus.
+
+145
+00:13:26,240 --> 00:13:30,860
+Neste lanço, o livro de Agustín de Bedilla é admirável.
+
+146
+00:13:30,860 --> 00:13:36,920
+A monstruosa anomalia, a tese aventurosa, segundo a qual a República de las antiguas
+
+147
+00:13:36,920 --> 00:13:43,320
+provincias unidas de la Plata, hoy Confederación Argentina, es la soberana exclusiva de la
+
+148
+00:13:43,320 --> 00:13:50,080
+boca e de la navegación del río de la Plata, para deixar-se prudentemente, com seus próprios
+
+149
+00:13:50,080 --> 00:13:58,000
+dizeres, a cinca resvaladia, a quimera retardatária, ressurgindo à última hora para espanto de
+
+150
+00:13:58,000 --> 00:14:05,360
+toda a civilização, redula a pena desfibradora do velho escritor a um caso vulgaríssimo
+
+151
+00:14:05,360 --> 00:14:11,200
+de ignorância de geografia e história, e sobretudo de desconhecimento de elementares
+
+152
+00:14:11,200 --> 00:14:18,400
+noções políticas, porque sobrecarrega a singular pretensão de constringir e impacta
+
+153
+00:14:18,400 --> 00:14:24,400
+a República do Uruguai aos limites secos de suas costas nos baixamares, com a obstinada
+
+154
+00:14:24,400 --> 00:14:31,280
+recusa em submeter ao veredito supremo da arbitragem tão lastimável pendência.
+
+155
+00:14:31,280 --> 00:14:37,360
+Quer dizer, para que seja viável aquele pensamento retrógrado, faz-se-lhe mister aberrar da
+
+156
+00:14:37,360 --> 00:14:43,920
+linha superior da própria política internacional da Argentina, tão nobremente fundada no direito
+
+157
+00:14:43,920 --> 00:14:50,280
+e na justiça, nas suas questões territoriais com o Brasil e o Chile, e ainda do rumo geral
+
+158
+00:14:50,280 --> 00:14:55,800
+da política americana, que já vem de um itinerário quase secular, desde a Conferência
+
+159
+00:14:55,800 --> 00:15:07,640
+de Panamá, 1826, às de Lima, 1817-1865, às de Caracas, 1883, à Pan-Americana de Washington, 1889,
+
+160
+00:15:07,640 --> 00:15:15,680
+aos Congressos Ibero-Americanos de Madri, 1892 e 1900, ao Científico de Montevideo, 1901,
+
+161
+00:15:15,680 --> 00:15:23,560
+aos Pan-Americanos do México e Rio de Janeiro, 1902 e 1906, resumidos todos na sanção universal
+
+162
+00:15:23,560 --> 00:15:26,000
+da Segunda Conferência de Haia.
+
+163
+00:15:26,000 --> 00:15:30,640
+E esta só a consideração a invalida e esmaga.
+
+164
+00:15:30,640 --> 00:15:36,680
+Mas embora excluíssimos, o quadro da política argentina é o melhor reverso de tão revolucionária
+
+165
+00:15:36,680 --> 00:15:37,920
+tese.
+
+166
+00:15:37,920 --> 00:15:44,160
+Agustín de Bedilla desenha nulo em páginas extraordinárias, onde o escritor é por vezes
+
+167
+00:15:44,160 --> 00:15:46,200
+suplantado pelo assunto.
+
+168
+00:15:46,200 --> 00:15:52,080
+Tão vivas são as cargas cerradas dos fatos que ele revela, tão numerosos os argumentos
+
+169
+00:15:52,080 --> 00:16:00,160
+que o atropelam, claros e refragáveis, interpretando-se no próprio enunciar-se, sem deixarem frinchas
+
+170
+00:16:00,160 --> 00:16:07,920
+ao comentário mais breve, articulando-se espontaneamente no discorrer sucessivo e contínuo,
+
+171
+00:16:07,920 --> 00:16:14,400
+ou deduzindo-se uns de outros numa sequência tão lógica e irresistível que as simples
+
+172
+00:16:14,400 --> 00:16:24,760
+datas de seus aparecimentos se alinham com o rigorismo e a convergência inflexível de uma verdadeira série matemática.
+
+173
+00:16:24,760 --> 00:16:32,680
+Aqui é a Convenção que congregou, em 1854, o melhor da mentalidade argentina para deliberar-se
+
+174
+00:16:32,680 --> 00:16:39,420
+acerca dos limites territoriais do novo Estado Platino, a adotar, por unanimidade, a linha
+
+175
+00:16:39,420 --> 00:16:42,960
+divisória do Rio da Prata, pela metade de sua corrente.
+
+176
+00:16:42,960 --> 00:16:50,400
+E ouve-se a palavra soleníssima de Bartolomeu Mitre, acentuando a este propósito que certas
+
+177
+00:16:50,400 --> 00:16:55,520
+linhas gerais traçadas pela Providência, aceitas como leis naturais escritas sobre
+
+178
+00:16:55,520 --> 00:17:01,200
+o terreno e sancionadas não só pela consciência do povo de Buenos Aires como também pela
+
+179
+00:17:01,200 --> 00:17:07,720
+de todos os povos, se não podem riscar porque as delineou a própria mão de Deus.
+
+180
+00:17:07,720 --> 00:17:14,480
+Além como a mostrar a altitude da justiça, capaz de nivelar figuras tão diversas e irradiando
+
+181
+00:17:14,480 --> 00:17:21,560
+ao mesmo tempo nos mais luminosos e nos mais obscuros espíritos, é o governo crepuscular
+
+182
+00:17:21,560 --> 00:17:27,620
+de Juan Manuel Rossas, que ao despedir um de seus decrepos tirânicos relativo ao tráfego
+
+183
+00:17:27,620 --> 00:17:34,040
+fluvial do Rio, atentatório da soberania do Uruguai, não reluta em acolher o protesto
+
+184
+00:17:34,040 --> 00:17:41,360
+deste e declara que, de fato, para a soberania generalizada, a Argentina, naquelas águas,
+
+185
+00:17:41,360 --> 00:17:47,720
+no puede alegar-se título alguno, siendo comunes las aguas.
+
+186
+00:17:47,720 --> 00:17:53,040
+Além são os tratados, o Brasil e o Uruguai, o de Comércio e Navegação, de 1851, o de
+
+187
+00:17:53,040 --> 00:18:01,380
+1853, entre Inglaterra, França, Estados Unidos e República Argentina, o de 1853 e 1859,
+
+188
+00:18:01,380 --> 00:18:08,040
+do Paraguai, França e Inglaterra, e a Convenção Fluvial, de 1859, do Brasil e Argentina.
+
+189
+00:18:08,040 --> 00:18:13,880
+Uns expressa, outros implicitamente aceitos por esta última a fixarem regras e medidas
+
+190
+00:18:13,880 --> 00:18:21,720
+fiscais a redundarem todos no conhecimento pleno do território fluvial que hoje se discute.
+
+191
+00:18:21,720 --> 00:18:28,840
+Mais longe é o célebre Canal do Inferno, que se desvenda de todo em 1877, fazendo que
+
+192
+00:18:28,840 --> 00:18:34,280
+se realizem logo, por isso e ativa do governo oriental, sérios trabalhos de balizamento
+
+193
+00:18:34,280 --> 00:18:40,920
+e dragagens, abrindo-se subsecutivamente ao tráfego comercial, sem que o governo da república
+
+194
+00:18:40,920 --> 00:18:42,440
+defrontante proteste.
+
+195
+00:18:42,440 --> 00:18:50,320
+No mesmo ponto, em 1890, é a Administração Argentina, resolvendo-se a dragar ou melhorar
+
+196
+00:18:50,320 --> 00:18:52,840
+o passo de limetas.
+
+197
+00:18:52,840 --> 00:18:57,520
+Protesta o governo do Uruguai contra o que considera uma invasão, e o ministro das Relações
+
+198
+00:18:57,520 --> 00:19:04,360
+Exteriores, doutor Stanislaw Zebalos, esculpa-se nobremente, declarando tratar-se de um simples
+
+199
+00:19:04,360 --> 00:19:09,880
+conhecimento, caso de pouca monta, operación que reputaba inocente.
+
+200
+00:19:09,880 --> 00:19:16,000
+Logo depois, a Legação Argentina em Montevideo, a dirigir-se a chancelaria oriental, em ofício
+
+201
+00:19:16,000 --> 00:19:21,520
+seguido dos planos e memórias dos serviços que se projetam naquela passagem, e declarando
+
+202
+00:19:21,520 --> 00:19:27,840
+que o seu governo cumpre um dever, esclarecendo-o de tudo, porque as sobras a realizar-se passam
+
+203
+00:19:27,840 --> 00:19:30,040
+por águas de jurisdição oriental.
+
+204
+00:19:30,040 --> 00:19:37,400
+Um ano antes, é o ministro da Fazenda Argentino, doutor Vicente Lopes, a insinuar, em nota
+
+205
+00:19:37,400 --> 00:19:44,240
+ao plenipotenciário uruguaio, que, em essas águas comunes, se assimile à bandeira oriental
+
+206
+00:19:44,240 --> 00:19:45,240
+e à nacional.
+
+207
+00:19:45,240 --> 00:19:52,840
+No ano seguinte, 1893, é outra vez o doutor Zebalos, ministro, então, da Presidência
+
+208
+00:19:52,840 --> 00:19:58,600
+Pellegrini, enviando uma memória ao Congresso, a explicar que instruiu a Legação Argentina
+
+209
+00:19:58,600 --> 00:20:05,040
+de Montevideo para conseguir do governo do Uruguai a indispensável aquecência aos reparos
+
+210
+00:20:05,040 --> 00:20:11,600
+dos passos de Martin Garcia, caso alguns deles tocassem em algum punto canales sometidos
+
+211
+00:20:11,600 --> 00:20:15,320
+à jurisdição de aquele país.
+
+212
+00:20:15,320 --> 00:20:17,600
+Fora inútil prosseguir.
+
+213
+00:20:17,600 --> 00:20:24,640
+Sobretudo isto paira, soberanamente, a grande voz desta glória sul-americana que é Domingos
+
+214
+00:20:24,640 --> 00:20:25,640
+Sarmiento.
+
+215
+00:20:25,640 --> 00:20:33,800
+Convendria, para terminar este embrolho, que os Estados do Uruguai, do Plata, do Paraná
+
+216
+00:20:33,800 --> 00:20:40,480
+e do Paraguai, e do Brasil, inclusive, celebrassem um Congresso de plenipotenciários, para
+
+217
+00:20:40,480 --> 00:20:46,360
+ponerse de acordo sobre o trecho de gentes que há de regir em águas que são comunes
+
+218
+00:20:46,360 --> 00:20:47,360
+a todos.
+
+219
+00:20:47,360 --> 00:20:54,200
+E esta jurisdição comparte do estuário que, como se vê ofuscantemente, foi sempre
+
+220
+00:20:54,200 --> 00:21:00,120
+norma em todos os tempos assentada por todos os governos argentinos, incluindo a ditadura
+
+221
+00:21:00,120 --> 00:21:05,560
+de rosas, e teve o beneplácito de chefes de Estado do porte de um Bartoloméu Mitre
+
+222
+00:21:05,560 --> 00:21:11,680
+ou de um Sarmiento, assim como de todos os presidentes constitucionais de Abela Neda,
+
+223
+00:21:11,680 --> 00:21:18,120
+de Rúlio Roca, do próprio Juárez Celmán, de Pellegrini, de Urubiru, de Quintana.
+
+224
+00:21:18,120 --> 00:21:24,400
+A comunhão em que jamais se contestou ou foi sequer opinável e sobressai a cada passo
+
+225
+00:21:24,400 --> 00:21:30,760
+inteiriça em todos os tratados, em todas as notas diplomáticas, em todos os relatórios
+
+226
+00:21:30,760 --> 00:21:38,040
+ministeriais ou técnicos, nas mensagens presidenciais, na vasta cópia de documentos trocados entre
+
+227
+00:21:38,040 --> 00:21:44,600
+as duas repúblicas, a Associação Jurisdicional, que no prata seria até um belo princípio
+
+228
+00:21:44,600 --> 00:21:50,760
+de alta moralidade histórica, sancionando os laços consanguíneos de duas nacionalidades
+
+229
+00:21:50,760 --> 00:21:58,880
+irmãs, tornou-se inexplicavelmente passível da mais singular teoria que ainda engendrou
+
+230
+00:21:58,880 --> 00:22:04,840
+a metafísica política dos que se divertem em revolucionar as próprias leis naturais
+
+231
+00:22:04,840 --> 00:22:12,200
+do desenvolvimento das nações. Esta, porém, ficará como um epílogo idealista e nada
+
+232
+00:22:12,200 --> 00:22:17,040
+mais indispensável ao famoso romance histórico de Martim Garcia.
+
+233
+00:22:17,040 --> 00:22:25,160
+A jurisdição do Uruguai sobre as águas platinas nos limites normais do direito, imposta
+
+234
+00:22:25,160 --> 00:22:31,040
+vigorosamente pelos antecedentes históricos e pelas próprias leis naturais, é dessas
+
+235
+00:22:31,040 --> 00:22:39,400
+causas superiores que, para triunfar, dispensam a fragilidade das espadas, amparando-se exclusivamente
+
+236
+00:22:39,400 --> 00:22:56,040
+na fortaleza eterna e tranquila da Justiça.
+
